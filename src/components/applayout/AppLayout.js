@@ -3,7 +3,8 @@ import React from 'react';
 import PropTypes from 'prop-types';
 import './AppLayout.css';
 import { Link, withRouter } from 'react-router-dom';
-import { BarChartOutlined, HomeOutlined, GlobalOutlined, AppstoreOutlined } from '@ant-design/icons';
+import { BarChartOutlined, HomeOutlined, GlobalOutlined, AppstoreOutlined, MenuUnfoldOutlined,
+  MenuFoldOutlined } from '@ant-design/icons';
 
 // const { SubMenu } = Menu;
 const { Header, Sider, Content, Footer } = Layout;
@@ -13,12 +14,16 @@ class AppLayout extends React.Component {
     collapsed: false,
   };
 
-  onCollapse = collapsed => {
-    console.log(collapsed);
-    this.setState({ collapsed });
+  toggle = () => {
+    const { collapsed } = this.state;
+    this.setState({
+      collapsed: !collapsed,
+    });
   };
 
   render() {
+    const { collapsed } = this.state;
+
     return (
       <Layout style={{ minHeight: '100vh' }}>
         <PageHeader 
@@ -26,19 +31,22 @@ class AppLayout extends React.Component {
         title= "Analitica Inmobiliario"/>
       <Header className="header">
         <div className="logo" />
-        <Menu theme="dark" mode="horizontal" defaultSelectedKeys={['1']}>
-          <Menu.Item key="1">Home</Menu.Item>
+        <Menu theme="dark" mode="horizontal" defaultSelectedKeys={['home']}>
+          <Menu.Item key="home">
+            <Link to="/home">
+              Home
+              </Link>
+              </Menu.Item>
           <Menu.Item key="2">Map</Menu.Item>
           <Menu.Item key="3">Charts</Menu.Item>
           <Menu.Item key="4">About</Menu.Item>
         </Menu>
       </Header>
       <Layout>
-        <Sider collapsible collapsed={this.state.collapsed} onCollapse={this.onCollapse}>
+      <Sider trigger={null} collapsible collapsed={collapsed}>
           <Menu
             mode="inline"
             defaultSelectedKeys={['1']}
-            defaultOpenKeys={['sub1']}
             style={{ height: '100%', borderRight: 0 }}
           >
             <Menu.Item key="/home">
@@ -70,16 +78,26 @@ class AppLayout extends React.Component {
             </Menu.Item>
           </Menu>
         </Sider>
-        <Layout style={{ padding: '0 24px 24px' }}>
+        <Layout className="site-layout">
+          <Header className="site-layout-background" style={{ padding: 5 }}>
+            {React.createElement(
+              collapsed ? MenuUnfoldOutlined : MenuFoldOutlined,
+              {
+                className: 'trigger',
+                onClick: this.toggle,
+              }
+            )}
+          </Header>
 
           <Content
             className="site-layout-background"
             style={{
               padding: 24,
-              margin: 0,
+              margin: '24px 16px',
               minHeight: 280,
             }}
           >
+          {this.props.children}
           </Content>
           <Footer style={{ textAlign: 'center' }}>Analitica Inmobiliario, SA de CV ©2020</Footer>
         </Layout>
