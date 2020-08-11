@@ -1,10 +1,11 @@
-import { Layout, Menu, Breadcrumb, PageHeader } from 'antd';
+import { Layout, Menu, PageHeader } from 'antd';
 import React from 'react';
+import PropTypes from 'prop-types';
 import './AppLayout.css';
 import { Link, withRouter } from 'react-router-dom';
-import { BarChartOutlined, CloudOutlined, NotificationOutlined, AppstoreOutlined } from '@ant-design/icons';
+import { BarChartOutlined, HomeOutlined, GlobalOutlined, AppstoreOutlined } from '@ant-design/icons';
 
-const { SubMenu } = Menu;
+// const { SubMenu } = Menu;
 const { Header, Sider, Content, Footer } = Layout;
 
 class AppLayout extends React.Component {
@@ -40,22 +41,33 @@ class AppLayout extends React.Component {
             defaultOpenKeys={['sub1']}
             style={{ height: '100%', borderRight: 0 }}
           >
-            <SubMenu key="sub1" icon={<BarChartOutlined />} title="Home">
-              <Menu.Item key="1">option1</Menu.Item>
-              <Menu.Item key="2">option2</Menu.Item>
-            </SubMenu>
-            <SubMenu key="sub2" icon={<CloudOutlined />} title="Map">
-              <Menu.Item key="3">option3</Menu.Item>
-              <Menu.Item key="4">option4</Menu.Item>
-            </SubMenu>
-            <SubMenu key="sub3" icon={<NotificationOutlined />} title="Charts">
-              <Menu.Item key="5">option5</Menu.Item>
-              <Menu.Item key="6">option6</Menu.Item>
-            </SubMenu>
-            <SubMenu key="sub4" icon={<AppstoreOutlined />} title="About">
-              <Menu.Item key="7">option7</Menu.Item>
-              <Menu.Item key="8">option8</Menu.Item>
-            </SubMenu>
+            <Menu.Item key="/home">
+              <Link to="/home">
+                <HomeOutlined/>
+                <span>Home</span>
+              </Link>
+            </Menu.Item>
+
+            <Menu.Item key="/map">
+              <Link to="/map">
+                <GlobalOutlined/>
+                <span>Map</span>
+              </Link>
+            </Menu.Item>
+
+            <Menu.Item key="/chart">
+              <Link to="/chart">
+                <BarChartOutlined/>
+                <span>Charts</span>
+              </Link>
+            </Menu.Item>
+
+            <Menu.Item key="/about">
+              <Link to="/about">
+                <AppstoreOutlined />
+                <span>About</span>
+              </Link>
+            </Menu.Item>
           </Menu>
         </Sider>
         <Layout style={{ padding: '0 24px 24px' }}>
@@ -75,6 +87,13 @@ class AppLayout extends React.Component {
     </Layout>
     );
   }
+}
+
+AppLayout.propTypes = {
+  children: PropTypes.node.isRequired,
+  history: PropTypes.shape({
+    push: PropTypes.func
+  }).isRequired
 }
 
 export default withRouter(AppLayout);
