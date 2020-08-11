@@ -4,9 +4,9 @@ import PropTypes from 'prop-types';
 import './AppLayout.css';
 import { Link, withRouter } from 'react-router-dom';
 import { BarChartOutlined, HomeOutlined, GlobalOutlined, AppstoreOutlined, MenuUnfoldOutlined,
-  MenuFoldOutlined } from '@ant-design/icons';
+  MenuFoldOutlined, DotChartOutlined } from '@ant-design/icons';
 
-// const { SubMenu } = Menu;
+const { SubMenu } = Menu;
 const { Header, Sider, Content, Footer } = Layout;
 
 class AppLayout extends React.Component {
@@ -58,6 +58,14 @@ class AppLayout extends React.Component {
             style={{ height: '100%', borderRight: 0 }}
           >
 
+            <Menu.Item key="/analysis">
+              <Link to="/analysis">
+                <DotChartOutlined/>
+                <span>Analysis</span>
+              </Link>
+            </Menu.Item>
+
+
             <Menu.Item key="/map">
               <Link to="/map">
                 <GlobalOutlined/>
@@ -65,12 +73,24 @@ class AppLayout extends React.Component {
               </Link>
             </Menu.Item>
 
-            <Menu.Item key="/chart">
-              <Link to="/chart">
-                <BarChartOutlined/>
-                <span>Charts</span>
-              </Link>
-            </Menu.Item>
+            <SubMenu key="sub1" icon={<BarChartOutlined />} title="Charts">
+              <Menu.Item key="/chart1"><Link to="/chart1">
+                Valor Unitario
+                </Link>
+                </Menu.Item>
+              <Menu.Item key="/chart2"><Link to="/chart2">
+                Treemap
+                </Link>
+                </Menu.Item>
+              <Menu.Item key="/chart3"><Link to="/chart3">
+                Uso Construccion
+                </Link>
+                </Menu.Item>
+              <Menu.Item key="/chart4"><Link to="/chart4">
+                Valor Suelo
+                </Link>
+                </Menu.Item>
+            </SubMenu>
 
             <Menu.Item key="/about">
               <Link to="/about">
