@@ -4,8 +4,8 @@ import { BrowserRouter, Route, Switch, Redirect } from 'react-router-dom';
 
 import AppLayout from './components/applayout';
 import Home from './pages/home';
-// import Chart from './pages/charts';
-// import Map from './pages/map';
+import Chart from './pages/chart';
+import Map from './pages/map';
 import About from './pages/about';
 
 function App() {
@@ -13,9 +13,9 @@ function App() {
       <BrowserRouter>
       <AppLayout>
         <Switch>
-        <Route path="/" component={Home} />
-        {/* <Route path="/map" component={Map} />
-        <Route path="/chart" component={Chart} /> */}
+        <Route path="/home" component={Home} />
+        <Route path="/map" component={Map} />
+        <Route path="/chart" component={Chart} />
         <Route path="/about" component={About} />
 
         <Redirect from="/" to="/home" />
