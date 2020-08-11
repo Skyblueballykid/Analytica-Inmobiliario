@@ -3,7 +3,7 @@ import React from 'react';
 import PropTypes from 'prop-types';
 import './AppLayout.css';
 import { Link, withRouter } from 'react-router-dom';
-import { BarChartOutlined, HomeOutlined, GlobalOutlined, AppstoreOutlined, MenuUnfoldOutlined,
+import { BarChartOutlined, HomeFilled, HomeOutlined, HomeTwoTone, SolutionOutlined, PhoneOutlined, GlobalOutlined, AppstoreOutlined, MenuUnfoldOutlined,
   MenuFoldOutlined, DotChartOutlined } from '@ant-design/icons';
 
 const { SubMenu } = Menu;
@@ -30,8 +30,8 @@ class AppLayout extends React.Component {
         className="site-page-header"
         title= "Analitica Inmobiliario"
         extra={[
-          <Button key="2">Sign up</Button>,
-          <Button key="1" type="primary">
+          <Button key="register">Sign up</Button>,
+          <Button key="login" type="primary">
             Login
           </Button>,
         ]}
@@ -41,13 +41,34 @@ class AppLayout extends React.Component {
         <Menu theme="dark" mode="horizontal" defaultSelectedKeys={['home']}>
           <Menu.Item key="home">
             <Link to="/home">
+              {/* <HomeFilled /> */}
               Home
               </Link>
               </Menu.Item>
-          <Menu.Item key="2">For Sale</Menu.Item>
-          <Menu.Item key="3">For Rent</Menu.Item>
-          <Menu.Item key="4">Services</Menu.Item>
-          <Menu.Item key="5">Contact</Menu.Item>
+          <Menu.Item key="sale">
+            <Link to="/sale">
+            <HomeOutlined />
+            For Sale
+            </Link>
+            </Menu.Item>
+          <Menu.Item key="rent">
+            <Link to="/rent">
+            <HomeFilled />
+            For Rent
+            </Link>
+            </Menu.Item>
+          <Menu.Item key="service">
+            <Link to="/service">
+            <SolutionOutlined />
+            Services
+            </Link>
+            </Menu.Item>
+          <Menu.Item key="contact">
+            <Link to="/contact">
+            <PhoneOutlined />
+            Contact
+            </Link>
+            </Menu.Item>
         </Menu>
       </Header>
       <Layout>
@@ -58,7 +79,7 @@ class AppLayout extends React.Component {
             style={{ height: '100%', borderRight: 0 }}
           >
 
-            <Menu.Item key="/analysis">
+            <Menu.Item key="analysis">
               <Link to="/analysis">
                 <DotChartOutlined/>
                 <span>Analysis</span>
@@ -66,7 +87,7 @@ class AppLayout extends React.Component {
             </Menu.Item>
 
 
-            <Menu.Item key="/map">
+            <Menu.Item key="map">
               <Link to="/map">
                 <GlobalOutlined/>
                 <span>Map</span>
@@ -74,25 +95,25 @@ class AppLayout extends React.Component {
             </Menu.Item>
 
             <SubMenu key="sub1" icon={<BarChartOutlined />} title="Charts">
-              <Menu.Item key="/chart1"><Link to="/chart1">
+              <Menu.Item key="chart1"><Link to="/chart1">
                 Valor Unitario
                 </Link>
                 </Menu.Item>
-              <Menu.Item key="/chart2"><Link to="/chart2">
+              <Menu.Item key="chart2"><Link to="/chart2">
                 Treemap
                 </Link>
                 </Menu.Item>
-              <Menu.Item key="/chart3"><Link to="/chart3">
+              <Menu.Item key="chart3"><Link to="/chart3">
                 Uso Construccion
                 </Link>
                 </Menu.Item>
-              <Menu.Item key="/chart4"><Link to="/chart4">
+              <Menu.Item key="chart4"><Link to="/chart4">
                 Valor Suelo
                 </Link>
                 </Menu.Item>
             </SubMenu>
 
-            <Menu.Item key="/about">
+            <Menu.Item key="about">
               <Link to="/about">
                 <AppstoreOutlined />
                 <span>About</span>

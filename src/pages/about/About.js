@@ -18,11 +18,9 @@ const StyledDiv = styled.div`
 
 const About = () => {
   return (
-    <StyledDiv>
-      <Title level={4}>
+        <h1>
         About Analitica Inmobiliario
-      </Title>
-    </StyledDiv>
+        </h1>
   );
 };
 

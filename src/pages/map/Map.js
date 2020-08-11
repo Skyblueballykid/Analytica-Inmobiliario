@@ -23,8 +23,8 @@ const INITIAL_VIEW_STATE = {
     latitude: 19.4326296,
     longitude: -99.1331785,
     zoom: 10,
-    width: 500,
-    height: 500,
+    width: '80vw',
+    height: '80vh',
     pitch: 0,
     bearing: 0
   };
@@ -96,7 +96,7 @@ export default function Map({data}) {
         radiusScale: 6,
         radiusMinPixels: 1,
         radiusMaxPixels: 5,
-        getPosition: d => [d.longitude, d.latitude],
+        getPosition: d => [[d.longitude, d.latitude]],
         getFillColor: d => d.valor_unitario_suelo > 4000 ? [200, 0, 40, 150] : [255, 140, 0 ,100],    
       });
 

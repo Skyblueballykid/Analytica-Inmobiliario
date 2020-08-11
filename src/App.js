@@ -8,6 +8,10 @@ import Analysis from './pages/analysis'
 import { Chart1, Chart2, Chart3, Chart4 } from './pages/chart';
 import Map from './pages/map';
 import About from './pages/about';
+import Contact from './pages/contact';
+import Rent from './pages/rent';
+import Sale from './pages/sale';
+import Service from './pages/service';
 
 function App() {
   return (
@@ -15,6 +19,11 @@ function App() {
       <AppLayout>
         <Switch>
         <Route path="/home" component={Home} />
+        <Route path="/sale" component={Sale} />
+        <Route path="/rent" component={Rent} />
+        <Route path="/service" component={Service} />
+        <Route path="/contact" component={Contact} />
+        
         <Route path="/analysis" component={Analysis}/>
         <Route path="/map" component={Map} />
         <Route path="/chart1" component={Chart1} />
