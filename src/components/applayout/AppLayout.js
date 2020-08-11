@@ -1,12 +1,12 @@
-import { Layout, Menu, PageHeader } from 'antd';
+import { Layout, Menu, PageHeader, Button } from 'antd';
 import React from 'react';
 import PropTypes from 'prop-types';
 import './AppLayout.css';
 import { Link, withRouter } from 'react-router-dom';
-import { BarChartOutlined, HomeOutlined, GlobalOutlined, AppstoreOutlined, MenuUnfoldOutlined,
-  MenuFoldOutlined } from '@ant-design/icons';
+import { BarChartOutlined, HomeFilled, HomeOutlined, HomeTwoTone, SolutionOutlined, PhoneOutlined, GlobalOutlined, AppstoreOutlined, MenuUnfoldOutlined,
+  MenuFoldOutlined, DotChartOutlined } from '@ant-design/icons';
 
-// const { SubMenu } = Menu;
+const { SubMenu } = Menu;
 const { Header, Sider, Content, Footer } = Layout;
 
 class AppLayout extends React.Component {
@@ -28,18 +28,47 @@ class AppLayout extends React.Component {
       <Layout style={{ minHeight: '100vh' }}>
         <PageHeader 
         className="site-page-header"
-        title= "Analitica Inmobiliario"/>
+        title= "Analitica Inmobiliario"
+        extra={[
+          <Button key="register">Sign up</Button>,
+          <Button key="login" type="primary">
+            Login
+          </Button>,
+        ]}
+        />
       <Header className="header">
         <div className="logo" />
         <Menu theme="dark" mode="horizontal" defaultSelectedKeys={['home']}>
           <Menu.Item key="home">
             <Link to="/home">
+              {/* <HomeFilled /> */}
               Home
               </Link>
               </Menu.Item>
-          <Menu.Item key="2">Map</Menu.Item>
-          <Menu.Item key="3">Charts</Menu.Item>
-          <Menu.Item key="4">About</Menu.Item>
+          <Menu.Item key="sale">
+            <Link to="/sale">
+            <HomeOutlined />
+            For Sale
+            </Link>
+            </Menu.Item>
+          <Menu.Item key="rent">
+            <Link to="/rent">
+            <HomeFilled />
+            For Rent
+            </Link>
+            </Menu.Item>
+          <Menu.Item key="service">
+            <Link to="/service">
+            <SolutionOutlined />
+            Services
+            </Link>
+            </Menu.Item>
+          <Menu.Item key="contact">
+            <Link to="/contact">
+            <PhoneOutlined />
+            Contact
+            </Link>
+            </Menu.Item>
         </Menu>
       </Header>
       <Layout>
@@ -49,28 +78,45 @@ class AppLayout extends React.Component {
             defaultSelectedKeys={['1']}
             style={{ height: '100%', borderRight: 0 }}
           >
-            <Menu.Item key="/home">
-              <Link to="/home">
-                <HomeOutlined/>
-                <span>Home</span>
+
+            <Menu.Item key="analysis">
+              <Link to="/analysis">
+                <DotChartOutlined/>
+                <span>Analysis</span>
               </Link>
             </Menu.Item>
 
-            <Menu.Item key="/map">
-              <Link to="/map">
-                <GlobalOutlined/>
-                <span>Map</span>
+            <SubMenu key="sub1" icon={<GlobalOutlined />} title="Maps">
+            <Menu.Item key="map1"><Link to="/map1">
+                <span>Heat Map</span>
               </Link>
             </Menu.Item>
-
-            <Menu.Item key="/chart">
-              <Link to="/chart">
-                <BarChartOutlined/>
-                <span>Charts</span>
+            <Menu.Item key="map2"><Link to="/map2">
+                <span>Scatter Plot Map</span>
               </Link>
             </Menu.Item>
+            </SubMenu>
 
-            <Menu.Item key="/about">
+            <SubMenu key="sub2" icon={<BarChartOutlined />} title="Charts">
+              <Menu.Item key="chart1"><Link to="/chart1">
+                <span>Valor Unitario</span>
+                </Link>
+                </Menu.Item>
+              <Menu.Item key="chart2"><Link to="/chart2">
+                Treemap
+                </Link>
+                </Menu.Item>
+              <Menu.Item key="chart3"><Link to="/chart3">
+                Uso Construccion
+                </Link>
+                </Menu.Item>
+              <Menu.Item key="chart4"><Link to="/chart4">
+                Valor Suelo
+                </Link>
+                </Menu.Item>
+            </SubMenu>
+
+            <Menu.Item key="about">
               <Link to="/about">
                 <AppstoreOutlined />
                 <span>About</span>
