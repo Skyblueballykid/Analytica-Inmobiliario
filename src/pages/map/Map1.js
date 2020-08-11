@@ -11,6 +11,7 @@ import DeckGL from '@deck.gl/react';
 import styled from 'styled-components';
 import mapboxgl from 'mapbox-gl';
 import {MapView, FirstPersonView} from '@deck.gl/core';
+import MapGL from 'react-map-gl';
 
 const data = require('./geoshape.json')
 
@@ -18,21 +19,59 @@ console.log(data)
 
 const MAPBOX_TOKEN = 'pk.eyJ1Ijoic2t5Ymx1ZWJhbGx5a2lkIiwiYSI6ImNrZGpiemxwdzBkZ2YycXBmaTNjc2xodnAifQ.7ccaRRh9q-TCWLF_ujoYbg'
 
-// Viewport settings
-const INITIAL_VIEW_STATE = {
-    latitude: 19.4326296,
-    longitude: -99.1331785,
-    zoom: 10,
-    width: '80vw',
-    height: '80vh',
-    pitch: 0,
-    bearing: 0
+
+export class Map1 extends Component {
+  constructor(props) {
+    super(props);
+
+  this.state = {
+      viewport: {
+      width: window.innerWidth,
+      height: window.innerHeight,
+      latitude: 19.4326296,
+      longitude: -99.1331785,
+      zoom: 10,
+      pitch: 50,
+      bearing: 0
+    },
+    geojson: data
   };
+}
+
+  render() {
+    const {viewport, geojson} = this.state;
+  return (
+    <div ClassName= "DeckGLMap">
+    <MapGL
+    {...viewport}
+    mapboxApiAccessToken={MAPBOX_TOKEN} 
+    mapStyle="mapbox://styles/mapbox/dark-v9"
+    >
+    <DeckGL
+    {...viewport}
+    />
+    </MapGL>
+    </div>
+);
+}
+}
 
 
-const StyledDiv = styled.div`
-  min-height: 60vh;
-`;
+
+// Viewport settings
+
+// const INITIAL_VIEW_STATE = {
+//     latitude: 19.4326296,
+//     longitude: -99.1331785,
+//     zoom: 10,
+//     width: '80vw',
+//     height: '80vh',
+//     pitch: 30,
+//     bearing: 0
+//   };
+
+
+
 
 
 // const scatterplot = () => new ScatterplotLayer({
@@ -85,36 +124,35 @@ const StyledDiv = styled.div`
 //     opacity: 0.3
 // });
 
-export default function Map({data}) {
+// export default function Map({data}) {
 
-    const layers = new ScatterplotLayer({
-        id: 'scatter',
-        data: data,
-        pickable: true,
-        opacity: 0.8,
-        filled: true,
-        radiusScale: 6,
-        radiusMinPixels: 1,
-        radiusMaxPixels: 5,
-        getPosition: d => [[d.longitude, d.latitude]],
-        getFillColor: d => d.valor_unitario_suelo > 4000 ? [200, 0, 40, 150] : [255, 140, 0 ,100],    
-      });
+//     const layers = new ScatterplotLayer({
+//         id: 'scatter',
+//         data: data,
+//         pickable: true,
+//         opacity: 0.8,
+//         filled: true,
+//         radiusScale: 6,
+//         radiusMinPixels: 1,
+//         radiusMaxPixels: 5,
+//         getPosition: d => [[d.longitude, d.latitude]],
+//         getFillColor: d => d.valor_unitario_suelo > 4000 ? [200, 0, 40, 150] : [255, 140, 0 ,100],    
+//       });
 
-    return(
-        <DeckGL
-        initialViewState={INITIAL_VIEW_STATE}
-        controller={true}
-        layers={layers}
-        >
-        {/* <MapView id="map" width="50%" controller={true}> */}
-        <StaticMap 
-        reuseMaps
-        mapboxApiAccessToken={MAPBOX_TOKEN} 
-        preventStyleDiffing={true}
-        // mapStyle="mapbox://styles/skyblueballykid/ckdjccblw01jn1iqg9g5w2n6x"
-        mapStyle="mapbox://styles/mapbox/dark-v9" />
-        {/* </MapView> */}
-      </DeckGL>
-    );
-}
-
+//     return(
+//         <DeckGL
+//         initialViewState={INITIAL_VIEW_STATE}
+//         controller={true}
+//         layers={layers}
+//         >
+//         {/* <MapView id="map" width="50%" controller={true}> */}
+//         <StaticMap 
+//         reuseMaps
+//         mapboxApiAccessToken={MAPBOX_TOKEN} 
+//         preventStyleDiffing={true}
+//         // mapStyle="mapbox://styles/skyblueballykid/ckdjccblw01jn1iqg9g5w2n6x"
+//         mapStyle="mapbox://styles/mapbox/dark-v9" />
+//         {/* </MapView> */}
+//       </DeckGL>
+//     );
+// }

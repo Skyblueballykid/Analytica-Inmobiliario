@@ -86,17 +86,20 @@ class AppLayout extends React.Component {
               </Link>
             </Menu.Item>
 
-
-            <Menu.Item key="map">
-              <Link to="/map">
-                <GlobalOutlined/>
-                <span>Map</span>
+            <SubMenu key="sub1" icon={<GlobalOutlined />} title="Maps">
+            <Menu.Item key="map1"><Link to="/map1">
+                <span>Heat Map</span>
               </Link>
             </Menu.Item>
+            <Menu.Item key="map2"><Link to="/map2">
+                <span>Scatter Plot Map</span>
+              </Link>
+            </Menu.Item>
+            </SubMenu>
 
-            <SubMenu key="sub1" icon={<BarChartOutlined />} title="Charts">
+            <SubMenu key="sub2" icon={<BarChartOutlined />} title="Charts">
               <Menu.Item key="chart1"><Link to="/chart1">
-                Valor Unitario
+                <span>Valor Unitario</span>
                 </Link>
                 </Menu.Item>
               <Menu.Item key="chart2"><Link to="/chart2">
