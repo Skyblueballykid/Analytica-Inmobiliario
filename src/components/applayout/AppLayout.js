@@ -1,4 +1,4 @@
-import { Layout, Menu, PageHeader } from 'antd';
+import { Layout, Menu, PageHeader, Button } from 'antd';
 import React from 'react';
 import PropTypes from 'prop-types';
 import './AppLayout.css';
@@ -28,7 +28,14 @@ class AppLayout extends React.Component {
       <Layout style={{ minHeight: '100vh' }}>
         <PageHeader 
         className="site-page-header"
-        title= "Analitica Inmobiliario"/>
+        title= "Analitica Inmobiliario"
+        extra={[
+          <Button key="2">Sign up</Button>,
+          <Button key="1" type="primary">
+            Login
+          </Button>,
+        ]}
+        />
       <Header className="header">
         <div className="logo" />
         <Menu theme="dark" mode="horizontal" defaultSelectedKeys={['home']}>
@@ -37,9 +44,10 @@ class AppLayout extends React.Component {
               Home
               </Link>
               </Menu.Item>
-          <Menu.Item key="2">Map</Menu.Item>
-          <Menu.Item key="3">Charts</Menu.Item>
-          <Menu.Item key="4">About</Menu.Item>
+          <Menu.Item key="2">For Sale</Menu.Item>
+          <Menu.Item key="3">For Rent</Menu.Item>
+          <Menu.Item key="4">Services</Menu.Item>
+          <Menu.Item key="5">Contact</Menu.Item>
         </Menu>
       </Header>
       <Layout>
@@ -49,12 +57,6 @@ class AppLayout extends React.Component {
             defaultSelectedKeys={['1']}
             style={{ height: '100%', borderRight: 0 }}
           >
-            <Menu.Item key="/home">
-              <Link to="/home">
-                <HomeOutlined/>
-                <span>Home</span>
-              </Link>
-            </Menu.Item>
 
             <Menu.Item key="/map">
               <Link to="/map">
