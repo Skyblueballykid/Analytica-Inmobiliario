@@ -1,7 +1,7 @@
 import React, { Component, useState } from 'react';
 // import { GoogleMapsOverlay } from '@deck.gl/google-maps';
 // import { HexagonLayer } from '@deck.gl/aggregation-layers';
-import { ScatterplotLayer } from '@deck.gl/layers';
+import { ScatterplotLayer, GeoJsonLayer } from '@deck.gl/layers';
 import { HeatmapLayer } from '@deck.gl/aggregation-layers';
 // import {GeoJsonLayer, ArcLayer} from 'deck.gl';
 // import mapStyles from 'map-styles';
@@ -13,11 +13,17 @@ import mapboxgl from 'mapbox-gl';
 import {MapView, FirstPersonView} from '@deck.gl/core';
 import MapGL from 'react-map-gl';
 
+const StyledDiv = styled.div`
+  min-height: 60vh;
+`;
+  
 const data = require('./geoshape.json')
 
 console.log(data)
 
 const MAPBOX_TOKEN = 'pk.eyJ1Ijoic2t5Ymx1ZWJhbGx5a2lkIiwiYSI6ImNrZGpiemxwdzBkZ2YycXBmaTNjc2xodnAifQ.7ccaRRh9q-TCWLF_ujoYbg'
+
+
 
 
 export class Map1 extends Component {
@@ -26,8 +32,8 @@ export class Map1 extends Component {
 
   this.state = {
       viewport: {
-      width: window.innerWidth,
-      height: window.innerHeight,
+      width: window.innerWidth - 300,
+      height: window.innerHeight - 300,
       latitude: 19.4326296,
       longitude: -99.1331785,
       zoom: 10,
@@ -36,19 +42,49 @@ export class Map1 extends Component {
     },
     geojson: data
   };
+
+
+  this.onChangeViewport = this.onChangeViewport.bind(this);
+}
+
+onChangeViewport(viewport) {
+  this.setState({
+    viewport: { ...this.state.viewport, ...viewport }
+  });
+}
+
+initialize(gl) {
+  gl.blendFuncSeparate(gl.SRC_ALPHA, gl.ONE, gl.ONE_MINUS_DST_ALPHA, gl.ONE);
+  gl.blendEquation(gl.FUNC_ADD);
 }
 
   render() {
     const {viewport, geojson} = this.state;
+
+    const scatterplot = new ScatterplotLayer({
+      id: 'scatter',
+      data: geojson,
+      opacity: 0.8,
+      filled: true,
+      radiusMinPixels: 1,
+      radiusMaxPixels: 5,
+      getPosition: d => [d.longitude, d.latitude],
+      getFillColor: d => d.valor_unitario_suelo > 4000 ? [200, 0, 40, 150] : [255, 140, 0 ,100]
+  });
+
+
   return (
-    <div ClassName= "DeckGLMap">
+    <div className= "DeckGLMap">
     <MapGL
     {...viewport}
     mapboxApiAccessToken={MAPBOX_TOKEN} 
     mapStyle="mapbox://styles/mapbox/dark-v9"
+    onChangeViewport={this.onChangeViewport}
     >
     <DeckGL
     {...viewport}
+    layers={[scatterplot]}
+    onWebGLInitialized={this.initialize}
     />
     </MapGL>
     </div>
