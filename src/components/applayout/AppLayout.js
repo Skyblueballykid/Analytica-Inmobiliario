@@ -6,6 +6,7 @@ import { Link, withRouter } from 'react-router-dom';
 import { BarChartOutlined, HomeFilled, HomeOutlined, HomeTwoTone, SolutionOutlined, PhoneOutlined, GlobalOutlined, AppstoreOutlined, MenuUnfoldOutlined,
   MenuFoldOutlined, DotChartOutlined } from '@ant-design/icons';
 
+
 const { SubMenu } = Menu;
 const { Header, Sider, Content, Footer } = Layout;
 
@@ -93,6 +94,10 @@ class AppLayout extends React.Component {
             </Menu.Item>
             <Menu.Item key="map2"><Link to="/map2">
                 <span>Scatter Plot Map</span>
+              </Link>
+            </Menu.Item>
+            <Menu.Item key="map3"><Link to="/map3">
+                <span>Kepler Heat Map</span>
               </Link>
             </Menu.Item>
             </SubMenu>

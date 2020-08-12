@@ -41,7 +41,7 @@ export class Map1 extends Component {
   render() {
     const {viewport, geojson} = this.state;
   return (
-    <div ClassName= "DeckGLMap">
+    <div className= "DeckGLMap">
     <MapGL
     {...viewport}
     mapboxApiAccessToken={MAPBOX_TOKEN} 
