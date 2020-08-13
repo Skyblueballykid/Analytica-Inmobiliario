@@ -6,7 +6,7 @@ import AppLayout from './components/applayout';
 import Home from './pages/home';
 import Analysis from './pages/analysis'
 import { Chart1, Chart2, Chart3, Chart4 } from './pages/chart';
-import { Map1, Map2, Map3 } from './pages/map';
+import { Map1, Map2, Map3, Map4 } from './pages/map';
 import About from './pages/about';
 import Contact from './pages/contact';
 import Rent from './pages/rent';
@@ -28,6 +28,7 @@ function App() {
         <Route path="/map1" component={Map1} />
         <Route path="/map2" component={Map2} />
         <Route path="/map3" component={Map3} />
+        <Route path="/map4" component={Map4} />
         <Route path="/chart1" component={Chart1} />
         <Route path="/chart2" component={Chart2} />
         <Route path="/chart3" component={Chart3} />
