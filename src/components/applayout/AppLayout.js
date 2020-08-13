@@ -100,6 +100,10 @@ class AppLayout extends React.Component {
                 <span>Kepler Heat Map</span>
               </Link>
             </Menu.Item>
+            <Menu.Item key="map4"><Link to="/map4">
+                <span>Kepler Live Map</span>
+              </Link>
+            </Menu.Item>
             </SubMenu>
 
             <SubMenu key="sub2" icon={<BarChartOutlined />} title="Charts">
