@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@ant-design/charts": "^0.9.11",
     "@ant-design/icons": "^4.2.2",
     "@ant-design/icons-react": "^2.0.1",
     "@deck.gl/aggregation-layers": "^8.2.5",

@@ -1,5 +1,5 @@
 import React, { Component, createRef } from "react";
-import { Column } from "@ant-design/charts";
+import { Line } from "@ant-design/charts";
 
 export class Chart1 extends Component {
   ref = createRef();
@@ -21,59 +21,18 @@ export class Chart1 extends Component {
       { label: "XOCHIMILCO", value: 1658.76 },
       { label: "TLAHUAC", value: 1163.6 },
       { label: "MILPA ALTA", value: 545.91 },
-
     ];
 
     const config = {
       data,
-      forceFit: true,
-      padding: 'auto',
       title: {
         visible: true,
         text: "Valor Unitario Suelo",
       },
       xField: "label",
       yField: "value",
-      meta: {
-    label: {
-      alias: 'Alcaldia',
-    },
-    value: {
-      alias: 'Valor Unitario'
-    },
-  },
-  xAxis: {
-    visible: false,
-grid: {
-    visible: false,
-},
-line: {
-    visible: true
-},
-tickLine: {
-     visible: true,
-},
-label: {
-    visible: true,
-    autoRotate: true,
-    autoHide: true
-},
-title: {
-    visible: true,
-    offset: 12,
-},
-  },
-    label: {
-      visible: true,
-      style: {
-        fill: '#000000',
-        fontSize: 12,
-        fontWeight: 600,
-        opacity: 0.6,
-      },
-    }
-  };
+    };
 
-    return <Column {...config} chartRef={this.ref} />;
+    return <Line {...config} chartRef={this.ref} />;
   }
 }
