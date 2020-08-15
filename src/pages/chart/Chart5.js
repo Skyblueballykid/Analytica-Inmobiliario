@@ -5,8 +5,8 @@ const data = require("./treemap.json")
 
 console.log(data)
 
-// Move this to Chart1 position. Using an external data source seems to fix the label issues
-export class Chart3 extends Component {
+
+export class Chart5 extends Component {
   ref = createRef();
   render() {
 
@@ -16,7 +16,7 @@ export class Chart3 extends Component {
         visible: true,
         text: "Valor Unitario Suelo Promedio",
       },
-      xField: "alcaldia_cumplimiento",
+      xField: "colonia_cumpliemiento",
       yField: "Averageofvalor_unitario_suelo",
     };
 

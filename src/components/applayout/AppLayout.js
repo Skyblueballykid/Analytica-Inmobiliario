@@ -123,6 +123,10 @@ class AppLayout extends React.Component {
                 Valor Suelo
                 </Link>
                 </Menu.Item>
+            <Menu.Item key="chart5"><Link to="/chart5">
+                Line Chart
+                </Link>
+                </Menu.Item>
             </SubMenu>
 
             <Menu.Item key="about">
