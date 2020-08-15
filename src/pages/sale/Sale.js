@@ -23,7 +23,7 @@ const Sale = () => {
     <h1>For Sale</h1>
     <Row gutter={[8, 8]}>
     <Col xs={{ span: 5, offset: 1 }} lg={{ span: 5, offset: 1 }}>
-    <Carousel autoplay>
+    <Carousel effect="fade">
     <div>
       <h3 style={contentStyle}>1</h3>
     </div>
@@ -39,7 +39,7 @@ const Sale = () => {
   </Carousel>
     </Col>
     <Col xs={{ span: 5, offset: 1 }} lg={{ span: 5, offset: 1 }}>
-    <Carousel autoplay>
+    <Carousel effect="fade">
     <div>
       <h3 style={contentStyle}>1</h3>
     </div>
@@ -55,7 +55,7 @@ const Sale = () => {
   </Carousel>
     </Col>
     <Col xs={{ span: 5, offset: 1 }} lg={{ span: 5, offset: 1 }}>
-    <Carousel autoplay>
+    <Carousel effect="fade">
     <div>
       <h3 style={contentStyle}>1</h3>
     </div>
@@ -71,74 +71,7 @@ const Sale = () => {
   </Carousel>
     </Col>
     <Col xs={{ span: 5, offset: 1 }} lg={{ span: 5, offset: 1 }}>
-    <Carousel autoplay>
-    <div>
-      <h3 style={contentStyle}>1</h3>
-    </div>
-    <div>
-      <h3 style={contentStyle}>2</h3>
-    </div>
-    <div>
-      <h3 style={contentStyle}>3</h3>
-    </div>
-    <div>
-      <h3 style={contentStyle}>4</h3>
-    </div>
-  </Carousel>
-    </Col>
-  </Row>
-
-  <Row gutter={[8, 8]}>
-    <Col xs={{ span: 5, offset: 1 }} lg={{ span: 5, offset: 1 }}>
-    <Carousel autoplay>
-    <div>
-      <h3 style={contentStyle}>1</h3>
-    </div>
-    <div>
-      <h3 style={contentStyle}>2</h3>
-    </div>
-    <div>
-      <h3 style={contentStyle}>3</h3>
-    </div>
-    <div>
-      <h3 style={contentStyle}>4</h3>
-    </div>
-  </Carousel>
-    </Col>
-    <Col xs={{ span: 5, offset: 1 }} lg={{ span: 5, offset: 1 }}>
-    <Carousel autoplay>
-    <div>
-      <h3 style={contentStyle}>1</h3>
-    </div>
-    <div>
-      <h3 style={contentStyle}>2</h3>
-    </div>
-    <div>
-      <h3 style={contentStyle}>3</h3>
-    </div>
-    <div>
-      <h3 style={contentStyle}>4</h3>
-    </div>
-  </Carousel>
-    </Col>
-    <Col xs={{ span: 5, offset: 1 }} lg={{ span: 5, offset: 1 }}>
-    <Carousel autoplay>
-    <div>
-      <h3 style={contentStyle}>1</h3>
-    </div>
-    <div>
-      <h3 style={contentStyle}>2</h3>
-    </div>
-    <div>
-      <h3 style={contentStyle}>3</h3>
-    </div>
-    <div>
-      <h3 style={contentStyle}>4</h3>
-    </div>
-  </Carousel>
-    </Col>
-    <Col xs={{ span: 5, offset: 1 }} lg={{ span: 5, offset: 1 }}>
-    <Carousel autoplay>
+    <Carousel effect="fade">
     <div>
       <h3 style={contentStyle}>1</h3>
     </div>
@@ -157,7 +90,7 @@ const Sale = () => {
 
   <Row gutter={[8, 8]}>
     <Col xs={{ span: 5, offset: 1 }} lg={{ span: 5, offset: 1 }}>
-    <Carousel autoplay>
+    <Carousel effect="fade">
     <div>
       <h3 style={contentStyle}>1</h3>
     </div>
@@ -173,7 +106,7 @@ const Sale = () => {
   </Carousel>
     </Col>
     <Col xs={{ span: 5, offset: 1 }} lg={{ span: 5, offset: 1 }}>
-    <Carousel autoplay>
+    <Carousel effect="fade">
     <div>
       <h3 style={contentStyle}>1</h3>
     </div>
@@ -189,7 +122,7 @@ const Sale = () => {
   </Carousel>
     </Col>
     <Col xs={{ span: 5, offset: 1 }} lg={{ span: 5, offset: 1 }}>
-    <Carousel autoplay>
+    <Carousel effect="fade">
     <div>
       <h3 style={contentStyle}>1</h3>
     </div>
@@ -205,7 +138,74 @@ const Sale = () => {
   </Carousel>
     </Col>
     <Col xs={{ span: 5, offset: 1 }} lg={{ span: 5, offset: 1 }}>
-    <Carousel autoplay>
+    <Carousel effect="fade">
+    <div>
+      <h3 style={contentStyle}>1</h3>
+    </div>
+    <div>
+      <h3 style={contentStyle}>2</h3>
+    </div>
+    <div>
+      <h3 style={contentStyle}>3</h3>
+    </div>
+    <div>
+      <h3 style={contentStyle}>4</h3>
+    </div>
+  </Carousel>
+    </Col>
+  </Row>
+
+  <Row gutter={[8, 8]}>
+    <Col xs={{ span: 5, offset: 1 }} lg={{ span: 5, offset: 1 }}>
+    <Carousel effect="fade">
+    <div>
+      <h3 style={contentStyle}>1</h3>
+    </div>
+    <div>
+      <h3 style={contentStyle}>2</h3>
+    </div>
+    <div>
+      <h3 style={contentStyle}>3</h3>
+    </div>
+    <div>
+      <h3 style={contentStyle}>4</h3>
+    </div>
+  </Carousel>
+    </Col>
+    <Col xs={{ span: 5, offset: 1 }} lg={{ span: 5, offset: 1 }}>
+    <Carousel effect="fade">
+    <div>
+      <h3 style={contentStyle}>1</h3>
+    </div>
+    <div>
+      <h3 style={contentStyle}>2</h3>
+    </div>
+    <div>
+      <h3 style={contentStyle}>3</h3>
+    </div>
+    <div>
+      <h3 style={contentStyle}>4</h3>
+    </div>
+  </Carousel>
+    </Col>
+    <Col xs={{ span: 5, offset: 1 }} lg={{ span: 5, offset: 1 }}>
+    <Carousel effect="fade">
+    <div>
+      <h3 style={contentStyle}>1</h3>
+    </div>
+    <div>
+      <h3 style={contentStyle}>2</h3>
+    </div>
+    <div>
+      <h3 style={contentStyle}>3</h3>
+    </div>
+    <div>
+      <h3 style={contentStyle}>4</h3>
+    </div>
+  </Carousel>
+    </Col>
+    <Col xs={{ span: 5, offset: 1 }} lg={{ span: 5, offset: 1 }}>
+    <Carousel effect="fade">
     <div>
       <h3 style={contentStyle}>1</h3>
     </div>
