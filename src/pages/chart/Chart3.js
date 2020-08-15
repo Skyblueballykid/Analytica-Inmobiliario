@@ -1,15 +1,25 @@
-import React from 'react';
-import styled from 'styled-components';
-import USO_CONSTRUCCION from './charts/uso-construccion.png';
+import React, { Component, createRef } from "react";
+import { Column } from "@ant-design/charts";
 
-const StyledDiv = styled.div`
-  min-height: 60vh;
-`;
+const data = require("./treemap.json")
 
-export const Chart3 = () => {
-    return(
-    <StyledDiv>
-    <img src={ USO_CONSTRUCCION } alt="USO_CONSTRUCCION" className="center"/>
-    </StyledDiv>
-    )
+console.log(data)
+
+
+export class Chart3 extends Component {
+  ref = createRef();
+  render() {
+
+    const config = {
+      data,
+      title: {
+        visible: true,
+        text: "Valor Unitario Suelo Promedio",
+      },
+      xField: "alcaldia_cumplimiento",
+      yField: "Averageofvalor_unitario_suelo",
+    };
+
+    return <Column {...config} chartRef={this.ref} />;
+  }
 }
