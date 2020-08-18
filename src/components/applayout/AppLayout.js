@@ -31,10 +31,14 @@ class AppLayout extends React.Component {
         className="site-page-header"
         title= "Analitica Inmobiliario"
         extra={[
-          <Button key="register">Sign up</Button>,
+          <a target="_blank" href="http://localhost:4000/registration/new">
+          <Button key="register">Sign up</Button>
+          </a>,
+          <a target="_blank" href="http://localhost:4000/session/new">
           <Button key="login" type="primary">
             Login
-          </Button>,
+          </Button>
+          </a>,
         ]}
         />
       <Header className="header">
