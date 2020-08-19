@@ -115,33 +115,32 @@ class AppLayout extends React.Component {
           <Menu
             mode="inline"
             defaultSelectedKeys={['1']}
-            style={{ height: '100%', borderRight: 0 }}
+            style={{ height: '100%', borderRight: 10 }}
           >
             <Menu.Item key="sale">
             <Link to="/sale">
             <HomeOutlined />
-            For Sale
+            <span>For Sale</span>
             </Link>
             </Menu.Item>
           <Menu.Item key="rent">
             <Link to="/rent">
             <HomeFilled />
-            For Rent
+            <span>For Rent</span>
             </Link>
             </Menu.Item>
           <Menu.Item key="service">
             <Link to="/service">
             <SolutionOutlined />
-            Services
+            <span>Services</span>
             </Link>
             </Menu.Item>
           <Menu.Item key="contact">
             <Link to="/contact">
             <PhoneOutlined />
-            Contact
+            <span>Contact</span>
             </Link>
             </Menu.Item>
-
             <Menu.Item key="about">
               <Link to="/about">
                 <AppstoreOutlined />
