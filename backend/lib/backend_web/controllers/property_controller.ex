@@ -1,5 +1,6 @@
 defmodule BackendWeb.PropertyController do
   use BackendWeb, :controller
+  use Filterable.Phoenix.Controller
 
   alias Backend.Properties
   alias Backend.Properties.Property
@@ -24,6 +25,11 @@ defmodule BackendWeb.PropertyController do
     property = Properties.get_property!(id)
     render(conn, "show.json", property: property)
   end
+
+  # def filter_by_codigo(conn, %{"codigo_postal" => codigo_postal}) do
+  #   properties = Properties.list_properties(codigo_postal)
+  #   render(conn, "index.json", properties: properties)
+  # end
 
   def update(conn, %{"id" => id, "property" => property_params}) do
     property = Properties.get_property!(id)
