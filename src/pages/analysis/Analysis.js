@@ -8,7 +8,7 @@ import createPlotlyRenderers from 'react-pivottable/PlotlyRenderers';
 // create Plotly renderers via dependency injection
 const PlotlyRenderers = createPlotlyRenderers(Plot);
 
-const data =  require("./cdmx.json")
+const data =  require("./cdmx-pivot.json")
 
 class Analysis extends React.Component {
     constructor(props) {

@@ -1,0 +1,6038 @@
+[
+ {
+  "uso_construccion": "W",
+  "anio_construccion": 2007,
+  "valor_unitario_suelo": 54.35,
+  "alcaldia_cumplimiento": "XOCHIMILCO"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 2006,
+  "valor_unitario_suelo": 81.12,
+  "alcaldia_cumplimiento": "TLAHUAC"
+ },
+ {
+  "uso_construccion": "X",
+  "anio_construccion": 2000,
+  "valor_unitario_suelo": 88.33,
+  "alcaldia_cumplimiento": "TLALPAN"
+ },
+ {
+  "uso_construccion": "W",
+  "anio_construccion": 2011,
+  "valor_unitario_suelo": 90.53,
+  "alcaldia_cumplimiento": "MAGDALENA CONTRERAS"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 2001,
+  "valor_unitario_suelo": 98.78,
+  "alcaldia_cumplimiento": "TLAHUAC"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1991,
+  "valor_unitario_suelo": 139.57,
+  "alcaldia_cumplimiento": "MILPA ALTA"
+ },
+ {
+  "uso_construccion": "W",
+  "anio_construccion": 2007,
+  "valor_unitario_suelo": 170.1,
+  "alcaldia_cumplimiento": "XOCHIMILCO"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 2009,
+  "valor_unitario_suelo": 178.05,
+  "alcaldia_cumplimiento": "MAGDALENA CONTRERAS"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1993,
+  "valor_unitario_suelo": 187.49,
+  "alcaldia_cumplimiento": "TLALPAN"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 2000,
+  "valor_unitario_suelo": 196.31,
+  "alcaldia_cumplimiento": "CUAJIMALPA DE MORELOS"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 2001,
+  "valor_unitario_suelo": 201.73,
+  "alcaldia_cumplimiento": "IZTAPALAPA"
+ },
+ {
+  "uso_construccion": "W",
+  "anio_construccion": 2018,
+  "valor_unitario_suelo": 202.13,
+  "alcaldia_cumplimiento": "ALVARO OBREGON"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1983,
+  "valor_unitario_suelo": 204.78,
+  "alcaldia_cumplimiento": "TLAHUAC"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1976,
+  "valor_unitario_suelo": 220.34,
+  "alcaldia_cumplimiento": "TLAHUAC"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1966,
+  "valor_unitario_suelo": 235.28,
+  "alcaldia_cumplimiento": "TLALPAN"
+ },
+ {
+  "uso_construccion": "X",
+  "anio_construccion": 1985,
+  "valor_unitario_suelo": 274.53,
+  "alcaldia_cumplimiento": "TLALPAN"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 2004,
+  "valor_unitario_suelo": 290.07,
+  "alcaldia_cumplimiento": "TLAHUAC"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 2003,
+  "valor_unitario_suelo": 350.25,
+  "alcaldia_cumplimiento": "TLALPAN"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 2000,
+  "valor_unitario_suelo": 351.59,
+  "alcaldia_cumplimiento": "TLALPAN"
+ },
+ {
+  "uso_construccion": "W",
+  "anio_construccion": 2007,
+  "valor_unitario_suelo": 373.82,
+  "alcaldia_cumplimiento": "MILPA ALTA"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1989,
+  "valor_unitario_suelo": 395.3,
+  "alcaldia_cumplimiento": "MILPA ALTA"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 2000,
+  "valor_unitario_suelo": 397.67,
+  "alcaldia_cumplimiento": "TLAHUAC"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1995,
+  "valor_unitario_suelo": 400.98,
+  "alcaldia_cumplimiento": "XOCHIMILCO"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 2007,
+  "valor_unitario_suelo": 416.75,
+  "alcaldia_cumplimiento": "TLAHUAC"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1988,
+  "valor_unitario_suelo": 416.87,
+  "alcaldia_cumplimiento": "MILPA ALTA"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1989,
+  "valor_unitario_suelo": 439.94,
+  "alcaldia_cumplimiento": "MILPA ALTA"
+ },
+ {
+  "uso_construccion": "W",
+  "anio_construccion": 2007,
+  "valor_unitario_suelo": 462.79,
+  "alcaldia_cumplimiento": "MILPA ALTA"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 2000,
+  "valor_unitario_suelo": 464.66,
+  "alcaldia_cumplimiento": "XOCHIMILCO"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1985,
+  "valor_unitario_suelo": 475.11,
+  "alcaldia_cumplimiento": "IZTAPALAPA"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1996,
+  "valor_unitario_suelo": 485.4,
+  "alcaldia_cumplimiento": "IZTAPALAPA"
+ },
+ {
+  "uso_construccion": "J",
+  "anio_construccion": 2007,
+  "valor_unitario_suelo": 491.07,
+  "alcaldia_cumplimiento": "TLALPAN"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1986,
+  "valor_unitario_suelo": 507.38,
+  "alcaldia_cumplimiento": "GUSTAVO A. MADERO"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1994,
+  "valor_unitario_suelo": 535.92,
+  "alcaldia_cumplimiento": "MAGDALENA CONTRERAS"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1986,
+  "valor_unitario_suelo": 550.43,
+  "alcaldia_cumplimiento": "TLALPAN"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1990,
+  "valor_unitario_suelo": 554.48,
+  "alcaldia_cumplimiento": "MILPA ALTA"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 2004,
+  "valor_unitario_suelo": 557.55,
+  "alcaldia_cumplimiento": "GUSTAVO A. MADERO"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1998,
+  "valor_unitario_suelo": 558.5,
+  "alcaldia_cumplimiento": "TLALPAN"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1970,
+  "valor_unitario_suelo": 562.83,
+  "alcaldia_cumplimiento": "MILPA ALTA"
+ },
+ {
+  "uso_construccion": "W",
+  "anio_construccion": 2007,
+  "valor_unitario_suelo": 563.84,
+  "alcaldia_cumplimiento": "TLAHUAC"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1985,
+  "valor_unitario_suelo": 566.52,
+  "alcaldia_cumplimiento": "IZTAPALAPA"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1985,
+  "valor_unitario_suelo": 585.93,
+  "alcaldia_cumplimiento": "GUSTAVO A. MADERO"
+ },
+ {
+  "uso_construccion": "W",
+  "anio_construccion": 2010,
+  "valor_unitario_suelo": 589.22,
+  "alcaldia_cumplimiento": "TLALPAN"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1984,
+  "valor_unitario_suelo": 597.57,
+  "alcaldia_cumplimiento": "TLALPAN"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1990,
+  "valor_unitario_suelo": 598.09,
+  "alcaldia_cumplimiento": "XOCHIMILCO"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1979,
+  "valor_unitario_suelo": 600.21,
+  "alcaldia_cumplimiento": "MILPA ALTA"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1993,
+  "valor_unitario_suelo": 601.83,
+  "alcaldia_cumplimiento": "TLAHUAC"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1994,
+  "valor_unitario_suelo": 618.2,
+  "alcaldia_cumplimiento": "TLAHUAC"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 2009,
+  "valor_unitario_suelo": 618.68,
+  "alcaldia_cumplimiento": "XOCHIMILCO"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1987,
+  "valor_unitario_suelo": 620.12,
+  "alcaldia_cumplimiento": "TLALPAN"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1979,
+  "valor_unitario_suelo": 622.34,
+  "alcaldia_cumplimiento": "TLALPAN"
+ },
+ {
+  "uso_construccion": "W",
+  "anio_construccion": 2006,
+  "valor_unitario_suelo": 629.54,
+  "alcaldia_cumplimiento": "XOCHIMILCO"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1994,
+  "valor_unitario_suelo": 635.32,
+  "alcaldia_cumplimiento": "GUSTAVO A. MADERO"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1969,
+  "valor_unitario_suelo": 635.95,
+  "alcaldia_cumplimiento": "XOCHIMILCO"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1986,
+  "valor_unitario_suelo": 642.32,
+  "alcaldia_cumplimiento": "TLAHUAC"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1984,
+  "valor_unitario_suelo": 660.52,
+  "alcaldia_cumplimiento": "XOCHIMILCO"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1998,
+  "valor_unitario_suelo": 662.02,
+  "alcaldia_cumplimiento": "IZTAPALAPA"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1985,
+  "valor_unitario_suelo": 672.9,
+  "alcaldia_cumplimiento": "GUSTAVO A. MADERO"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1996,
+  "valor_unitario_suelo": 679.26,
+  "alcaldia_cumplimiento": "TLALPAN"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1993,
+  "valor_unitario_suelo": 679.72,
+  "alcaldia_cumplimiento": "TLAHUAC"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1990,
+  "valor_unitario_suelo": 681.33,
+  "alcaldia_cumplimiento": "TLAHUAC"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1996,
+  "valor_unitario_suelo": 682.87,
+  "alcaldia_cumplimiento": "ALVARO OBREGON"
+ },
+ {
+  "uso_construccion": "W",
+  "anio_construccion": 2009,
+  "valor_unitario_suelo": 686.67,
+  "alcaldia_cumplimiento": "TLALPAN"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1998,
+  "valor_unitario_suelo": 687.41,
+  "alcaldia_cumplimiento": "IZTAPALAPA"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1993,
+  "valor_unitario_suelo": 689.78,
+  "alcaldia_cumplimiento": "MILPA ALTA"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 2009,
+  "valor_unitario_suelo": 694.75,
+  "alcaldia_cumplimiento": "MILPA ALTA"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1996,
+  "valor_unitario_suelo": 698.8,
+  "alcaldia_cumplimiento": "TLAHUAC"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 2003,
+  "valor_unitario_suelo": 717.5,
+  "alcaldia_cumplimiento": "IZTAPALAPA"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1992,
+  "valor_unitario_suelo": 719.81,
+  "alcaldia_cumplimiento": "GUSTAVO A. MADERO"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1988,
+  "valor_unitario_suelo": 730.32,
+  "alcaldia_cumplimiento": "TLALPAN"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 2005,
+  "valor_unitario_suelo": 731.67,
+  "alcaldia_cumplimiento": "TLALPAN"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1990,
+  "valor_unitario_suelo": 734.45,
+  "alcaldia_cumplimiento": "GUSTAVO A. MADERO"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1991,
+  "valor_unitario_suelo": 740.82,
+  "alcaldia_cumplimiento": "IZTAPALAPA"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1971,
+  "valor_unitario_suelo": 746.34,
+  "alcaldia_cumplimiento": "MILPA ALTA"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1980,
+  "valor_unitario_suelo": 755.31,
+  "alcaldia_cumplimiento": "TLAHUAC"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1994,
+  "valor_unitario_suelo": 763.78,
+  "alcaldia_cumplimiento": "MAGDALENA CONTRERAS"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 2010,
+  "valor_unitario_suelo": 766.88,
+  "alcaldia_cumplimiento": "GUSTAVO A. MADERO"
+ },
+ {
+  "uso_construccion": "W",
+  "anio_construccion": 2007,
+  "valor_unitario_suelo": 768.93,
+  "alcaldia_cumplimiento": "XOCHIMILCO"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1998,
+  "valor_unitario_suelo": 773.94,
+  "alcaldia_cumplimiento": "MAGDALENA CONTRERAS"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 2009,
+  "valor_unitario_suelo": 786.94,
+  "alcaldia_cumplimiento": "IZTAPALAPA"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 2009,
+  "valor_unitario_suelo": 790.69,
+  "alcaldia_cumplimiento": "CUAJIMALPA DE MORELOS"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 2003,
+  "valor_unitario_suelo": 793.54,
+  "alcaldia_cumplimiento": "MAGDALENA CONTRERAS"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1977,
+  "valor_unitario_suelo": 803.32,
+  "alcaldia_cumplimiento": "ALVARO OBREGON"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 2009,
+  "valor_unitario_suelo": 803.92,
+  "alcaldia_cumplimiento": "XOCHIMILCO"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1990,
+  "valor_unitario_suelo": 808.29,
+  "alcaldia_cumplimiento": "TLAHUAC"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1980,
+  "valor_unitario_suelo": 808.99,
+  "alcaldia_cumplimiento": "IZTAPALAPA"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 2003,
+  "valor_unitario_suelo": 810.03,
+  "alcaldia_cumplimiento": "ALVARO OBREGON"
+ },
+ {
+  "uso_construccion": "Q",
+  "anio_construccion": 2009,
+  "valor_unitario_suelo": 812.1,
+  "alcaldia_cumplimiento": "IZTAPALAPA"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 2001,
+  "valor_unitario_suelo": 812.3,
+  "alcaldia_cumplimiento": "ALVARO OBREGON"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1984,
+  "valor_unitario_suelo": 819.23,
+  "alcaldia_cumplimiento": "TLAHUAC"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 2005,
+  "valor_unitario_suelo": 822.36,
+  "alcaldia_cumplimiento": "TLAHUAC"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1979,
+  "valor_unitario_suelo": 822.85,
+  "alcaldia_cumplimiento": "TLAHUAC"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1980,
+  "valor_unitario_suelo": 827.5,
+  "alcaldia_cumplimiento": "IZTAPALAPA"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1981,
+  "valor_unitario_suelo": 835.32,
+  "alcaldia_cumplimiento": "TLAHUAC"
+ },
+ {
+  "uso_construccion": "W",
+  "anio_construccion": 1993,
+  "valor_unitario_suelo": 837.5,
+  "alcaldia_cumplimiento": "TLALPAN"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1985,
+  "valor_unitario_suelo": 839.4,
+  "alcaldia_cumplimiento": "GUSTAVO A. MADERO"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 2009,
+  "valor_unitario_suelo": 848.53,
+  "alcaldia_cumplimiento": "TLALPAN"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1996,
+  "valor_unitario_suelo": 855.6,
+  "alcaldia_cumplimiento": "ALVARO OBREGON"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 2001,
+  "valor_unitario_suelo": 882.9,
+  "alcaldia_cumplimiento": "GUSTAVO A. MADERO"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 2009,
+  "valor_unitario_suelo": 886.67,
+  "alcaldia_cumplimiento": "MAGDALENA CONTRERAS"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1995,
+  "valor_unitario_suelo": 909.5,
+  "alcaldia_cumplimiento": "IZTAPALAPA"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1988,
+  "valor_unitario_suelo": 909.56,
+  "alcaldia_cumplimiento": "GUSTAVO A. MADERO"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1986,
+  "valor_unitario_suelo": 914.16,
+  "alcaldia_cumplimiento": "XOCHIMILCO"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1985,
+  "valor_unitario_suelo": 921.03,
+  "alcaldia_cumplimiento": "IZTAPALAPA"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1996,
+  "valor_unitario_suelo": 931.31,
+  "alcaldia_cumplimiento": "TLALPAN"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 2001,
+  "valor_unitario_suelo": 938.48,
+  "alcaldia_cumplimiento": "GUSTAVO A. MADERO"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1992,
+  "valor_unitario_suelo": 941.93,
+  "alcaldia_cumplimiento": "ALVARO OBREGON"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1993,
+  "valor_unitario_suelo": 944.33,
+  "alcaldia_cumplimiento": "GUSTAVO A. MADERO"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1995,
+  "valor_unitario_suelo": 947.65,
+  "alcaldia_cumplimiento": "TLALPAN"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1990,
+  "valor_unitario_suelo": 949.11,
+  "alcaldia_cumplimiento": "TLALPAN"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1991,
+  "valor_unitario_suelo": 960.23,
+  "alcaldia_cumplimiento": "ALVARO OBREGON"
+ },
+ {
+  "uso_construccion": "W",
+  "anio_construccion": 2013,
+  "valor_unitario_suelo": 964.22,
+  "alcaldia_cumplimiento": "TLAHUAC"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1985,
+  "valor_unitario_suelo": 964.38,
+  "alcaldia_cumplimiento": "IZTAPALAPA"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1979,
+  "valor_unitario_suelo": 966.6,
+  "alcaldia_cumplimiento": "XOCHIMILCO"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1993,
+  "valor_unitario_suelo": 967.86,
+  "alcaldia_cumplimiento": "GUSTAVO A. MADERO"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1981,
+  "valor_unitario_suelo": 973.78,
+  "alcaldia_cumplimiento": "ALVARO OBREGON"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1998,
+  "valor_unitario_suelo": 978.41,
+  "alcaldia_cumplimiento": "TLAHUAC"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1986,
+  "valor_unitario_suelo": 982.69,
+  "alcaldia_cumplimiento": "XOCHIMILCO"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 2009,
+  "valor_unitario_suelo": 985.96,
+  "alcaldia_cumplimiento": "GUSTAVO A. MADERO"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1993,
+  "valor_unitario_suelo": 990.76,
+  "alcaldia_cumplimiento": "ALVARO OBREGON"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1993,
+  "valor_unitario_suelo": 991.68,
+  "alcaldia_cumplimiento": "IZTAPALAPA"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 2001,
+  "valor_unitario_suelo": 992.48,
+  "alcaldia_cumplimiento": "CUAJIMALPA DE MORELOS"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1992,
+  "valor_unitario_suelo": 993.62,
+  "alcaldia_cumplimiento": "XOCHIMILCO"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1985,
+  "valor_unitario_suelo": 1002.02,
+  "alcaldia_cumplimiento": "IZTAPALAPA"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1998,
+  "valor_unitario_suelo": 1006.4,
+  "alcaldia_cumplimiento": "IZTAPALAPA"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1966,
+  "valor_unitario_suelo": 1018.37,
+  "alcaldia_cumplimiento": "ALVARO OBREGON"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1966,
+  "valor_unitario_suelo": 1019.26,
+  "alcaldia_cumplimiento": "TLALPAN"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1967,
+  "valor_unitario_suelo": 1020.41,
+  "alcaldia_cumplimiento": "ALVARO OBREGON"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1985,
+  "valor_unitario_suelo": 1022.22,
+  "alcaldia_cumplimiento": "XOCHIMILCO"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1994,
+  "valor_unitario_suelo": 1024.57,
+  "alcaldia_cumplimiento": "ALVARO OBREGON"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1998,
+  "valor_unitario_suelo": 1029.2,
+  "alcaldia_cumplimiento": "GUSTAVO A. MADERO"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1989,
+  "valor_unitario_suelo": 1029.44,
+  "alcaldia_cumplimiento": "TLALPAN"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1988,
+  "valor_unitario_suelo": 1030.25,
+  "alcaldia_cumplimiento": "XOCHIMILCO"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1985,
+  "valor_unitario_suelo": 1041.79,
+  "alcaldia_cumplimiento": "GUSTAVO A. MADERO"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1985,
+  "valor_unitario_suelo": 1043.67,
+  "alcaldia_cumplimiento": "ALVARO OBREGON"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1988,
+  "valor_unitario_suelo": 1043.72,
+  "alcaldia_cumplimiento": "ALVARO OBREGON"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1985,
+  "valor_unitario_suelo": 1046.32,
+  "alcaldia_cumplimiento": "ALVARO OBREGON"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1980,
+  "valor_unitario_suelo": 1052.97,
+  "alcaldia_cumplimiento": "TLAHUAC"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1991,
+  "valor_unitario_suelo": 1056.09,
+  "alcaldia_cumplimiento": "TLALPAN"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1986,
+  "valor_unitario_suelo": 1057.83,
+  "alcaldia_cumplimiento": "ALVARO OBREGON"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1998,
+  "valor_unitario_suelo": 1059.02,
+  "alcaldia_cumplimiento": "IZTAPALAPA"
+ },
+ {
+  "uso_construccion": "L",
+  "anio_construccion": 2009,
+  "valor_unitario_suelo": 1061.12,
+  "alcaldia_cumplimiento": "ALVARO OBREGON"
+ },
+ {
+  "uso_construccion": "A",
+  "anio_construccion": 1981,
+  "valor_unitario_suelo": 1075.19,
+  "alcaldia_cumplimiento": "TLAHUAC"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1993,
+  "valor_unitario_suelo": 1078.67,
+  "alcaldia_cumplimiento": "XOCHIMILCO"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1994,
+  "valor_unitario_suelo": 1083.14,
+  "alcaldia_cumplimiento": "XOCHIMILCO"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1981,
+  "valor_unitario_suelo": 1083.93,
+  "alcaldia_cumplimiento": "TLALPAN"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1991,
+  "valor_unitario_suelo": 1087.8,
+  "alcaldia_cumplimiento": "IZTAPALAPA"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1978,
+  "valor_unitario_suelo": 1098.5,
+  "alcaldia_cumplimiento": "CUAJIMALPA DE MORELOS"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1985,
+  "valor_unitario_suelo": 1108.55,
+  "alcaldia_cumplimiento": "IZTAPALAPA"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1985,
+  "valor_unitario_suelo": 1114.42,
+  "alcaldia_cumplimiento": "MAGDALENA CONTRERAS"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1966,
+  "valor_unitario_suelo": 1119.84,
+  "alcaldia_cumplimiento": "ALVARO OBREGON"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1985,
+  "valor_unitario_suelo": 1121.71,
+  "alcaldia_cumplimiento": "ALVARO OBREGON"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1996,
+  "valor_unitario_suelo": 1122.36,
+  "alcaldia_cumplimiento": "ALVARO OBREGON"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1985,
+  "valor_unitario_suelo": 1125.18,
+  "alcaldia_cumplimiento": "MAGDALENA CONTRERAS"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1994,
+  "valor_unitario_suelo": 1131.86,
+  "alcaldia_cumplimiento": "ALVARO OBREGON"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1981,
+  "valor_unitario_suelo": 1133.39,
+  "alcaldia_cumplimiento": "ALVARO OBREGON"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1992,
+  "valor_unitario_suelo": 1134.53,
+  "alcaldia_cumplimiento": "IZTAPALAPA"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1991,
+  "valor_unitario_suelo": 1145.91,
+  "alcaldia_cumplimiento": "IZTAPALAPA"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1967,
+  "valor_unitario_suelo": 1148.05,
+  "alcaldia_cumplimiento": "TLAHUAC"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1982,
+  "valor_unitario_suelo": 1149.67,
+  "alcaldia_cumplimiento": "XOCHIMILCO"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1993,
+  "valor_unitario_suelo": 1150.59,
+  "alcaldia_cumplimiento": "TLAHUAC"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1981,
+  "valor_unitario_suelo": 1153.68,
+  "alcaldia_cumplimiento": "ALVARO OBREGON"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1992,
+  "valor_unitario_suelo": 1153.95,
+  "alcaldia_cumplimiento": "ALVARO OBREGON"
+ },
+ {
+  "uso_construccion": "I",
+  "anio_construccion": 1987,
+  "valor_unitario_suelo": 1163.54,
+  "alcaldia_cumplimiento": "ALVARO OBREGON"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1970,
+  "valor_unitario_suelo": 1168.42,
+  "alcaldia_cumplimiento": "CUAJIMALPA DE MORELOS"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 2008,
+  "valor_unitario_suelo": 1171.91,
+  "alcaldia_cumplimiento": "ALVARO OBREGON"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1996,
+  "valor_unitario_suelo": 1175.46,
+  "alcaldia_cumplimiento": "TLAHUAC"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1985,
+  "valor_unitario_suelo": 1175.6,
+  "alcaldia_cumplimiento": "IZTAPALAPA"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1979,
+  "valor_unitario_suelo": 1177.92,
+  "alcaldia_cumplimiento": "ALVARO OBREGON"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1985,
+  "valor_unitario_suelo": 1188.19,
+  "alcaldia_cumplimiento": "ALVARO OBREGON"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1994,
+  "valor_unitario_suelo": 1191.33,
+  "alcaldia_cumplimiento": "GUSTAVO A. MADERO"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1978,
+  "valor_unitario_suelo": 1199.91,
+  "alcaldia_cumplimiento": "IZTAPALAPA"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1997,
+  "valor_unitario_suelo": 1210.08,
+  "alcaldia_cumplimiento": "TLALPAN"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1976,
+  "valor_unitario_suelo": 1219.55,
+  "alcaldia_cumplimiento": "ALVARO OBREGON"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 2009,
+  "valor_unitario_suelo": 1220.65,
+  "alcaldia_cumplimiento": "ALVARO OBREGON"
+ },
+ {
+  "uso_construccion": "Q",
+  "anio_construccion": 1993,
+  "valor_unitario_suelo": 1221,
+  "alcaldia_cumplimiento": "GUSTAVO A. MADERO"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 2009,
+  "valor_unitario_suelo": 1226.31,
+  "alcaldia_cumplimiento": "MAGDALENA CONTRERAS"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1981,
+  "valor_unitario_suelo": 1229.85,
+  "alcaldia_cumplimiento": "ALVARO OBREGON"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1982,
+  "valor_unitario_suelo": 1232.75,
+  "alcaldia_cumplimiento": "ALVARO OBREGON"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1985,
+  "valor_unitario_suelo": 1233.2,
+  "alcaldia_cumplimiento": "ALVARO OBREGON"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1988,
+  "valor_unitario_suelo": 1246.62,
+  "alcaldia_cumplimiento": "ALVARO OBREGON"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 2001,
+  "valor_unitario_suelo": 1254.93,
+  "alcaldia_cumplimiento": "TLALPAN"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1993,
+  "valor_unitario_suelo": 1256.98,
+  "alcaldia_cumplimiento": "IZTAPALAPA"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1983,
+  "valor_unitario_suelo": 1262.39,
+  "alcaldia_cumplimiento": "XOCHIMILCO"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 2001,
+  "valor_unitario_suelo": 1263.77,
+  "alcaldia_cumplimiento": "ALVARO OBREGON"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 2004,
+  "valor_unitario_suelo": 1263.91,
+  "alcaldia_cumplimiento": "TLALPAN"
+ },
+ {
+  "uso_construccion": "C",
+  "anio_construccion": 1990,
+  "valor_unitario_suelo": 1264.68,
+  "alcaldia_cumplimiento": "ALVARO OBREGON"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 2012,
+  "valor_unitario_suelo": 1270.89,
+  "alcaldia_cumplimiento": "TLALPAN"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1985,
+  "valor_unitario_suelo": 1271.63,
+  "alcaldia_cumplimiento": "IZTAPALAPA"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 2004,
+  "valor_unitario_suelo": 1276.87,
+  "alcaldia_cumplimiento": "TLALPAN"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 2001,
+  "valor_unitario_suelo": 1282.28,
+  "alcaldia_cumplimiento": "ALVARO OBREGON"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1995,
+  "valor_unitario_suelo": 1283.84,
+  "alcaldia_cumplimiento": "TLALPAN"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1992,
+  "valor_unitario_suelo": 1290.96,
+  "alcaldia_cumplimiento": "IZTAPALAPA"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1983,
+  "valor_unitario_suelo": 1296.51,
+  "alcaldia_cumplimiento": "MAGDALENA CONTRERAS"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1966,
+  "valor_unitario_suelo": 1299.21,
+  "alcaldia_cumplimiento": "CUAJIMALPA DE MORELOS"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1977,
+  "valor_unitario_suelo": 1303.81,
+  "alcaldia_cumplimiento": "TLAHUAC"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 2007,
+  "valor_unitario_suelo": 1304.97,
+  "alcaldia_cumplimiento": "COYOACAN"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1970,
+  "valor_unitario_suelo": 1306.34,
+  "alcaldia_cumplimiento": "GUSTAVO A. MADERO"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1966,
+  "valor_unitario_suelo": 1306.75,
+  "alcaldia_cumplimiento": "ALVARO OBREGON"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1995,
+  "valor_unitario_suelo": 1307.03,
+  "alcaldia_cumplimiento": "TLALPAN"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1999,
+  "valor_unitario_suelo": 1309.46,
+  "alcaldia_cumplimiento": "IZTAPALAPA"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1993,
+  "valor_unitario_suelo": 1320.71,
+  "alcaldia_cumplimiento": "ALVARO OBREGON"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 2001,
+  "valor_unitario_suelo": 1327.67,
+  "alcaldia_cumplimiento": "CUAJIMALPA DE MORELOS"
+ },
+ {
+  "uso_construccion": "W",
+  "anio_construccion": 2007,
+  "valor_unitario_suelo": 1333.31,
+  "alcaldia_cumplimiento": "ALVARO OBREGON"
+ },
+ {
+  "uso_construccion": "W",
+  "anio_construccion": 2007,
+  "valor_unitario_suelo": 1337.08,
+  "alcaldia_cumplimiento": "CUAJIMALPA DE MORELOS"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1980,
+  "valor_unitario_suelo": 1338.97,
+  "alcaldia_cumplimiento": "MAGDALENA CONTRERAS"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1985,
+  "valor_unitario_suelo": 1339.1,
+  "alcaldia_cumplimiento": "IZTAPALAPA"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1988,
+  "valor_unitario_suelo": 1341.96,
+  "alcaldia_cumplimiento": "GUSTAVO A. MADERO"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1997,
+  "valor_unitario_suelo": 1342.03,
+  "alcaldia_cumplimiento": "ALVARO OBREGON"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1985,
+  "valor_unitario_suelo": 1349.71,
+  "alcaldia_cumplimiento": "ALVARO OBREGON"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1993,
+  "valor_unitario_suelo": 1351.18,
+  "alcaldia_cumplimiento": "IZTAPALAPA"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1984,
+  "valor_unitario_suelo": 1355.4,
+  "alcaldia_cumplimiento": "MAGDALENA CONTRERAS"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1995,
+  "valor_unitario_suelo": 1358.62,
+  "alcaldia_cumplimiento": "ALVARO OBREGON"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1983,
+  "valor_unitario_suelo": 1360.73,
+  "alcaldia_cumplimiento": "ALVARO OBREGON"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1993,
+  "valor_unitario_suelo": 1363.14,
+  "alcaldia_cumplimiento": "MAGDALENA CONTRERAS"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1996,
+  "valor_unitario_suelo": 1365.53,
+  "alcaldia_cumplimiento": "ALVARO OBREGON"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1984,
+  "valor_unitario_suelo": 1372.67,
+  "alcaldia_cumplimiento": "TLALPAN"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1996,
+  "valor_unitario_suelo": 1375.01,
+  "alcaldia_cumplimiento": "ALVARO OBREGON"
+ },
+ {
+  "uso_construccion": "C",
+  "anio_construccion": 1965,
+  "valor_unitario_suelo": 1375.19,
+  "alcaldia_cumplimiento": "MIGUEL HIDALGO"
+ },
+ {
+  "uso_construccion": "W",
+  "anio_construccion": 1981,
+  "valor_unitario_suelo": 1377.81,
+  "alcaldia_cumplimiento": "ALVARO OBREGON"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 2009,
+  "valor_unitario_suelo": 1386.56,
+  "alcaldia_cumplimiento": "XOCHIMILCO"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1980,
+  "valor_unitario_suelo": 1389.27,
+  "alcaldia_cumplimiento": "MAGDALENA CONTRERAS"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1987,
+  "valor_unitario_suelo": 1395.13,
+  "alcaldia_cumplimiento": "ALVARO OBREGON"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1981,
+  "valor_unitario_suelo": 1402.69,
+  "alcaldia_cumplimiento": "CUAJIMALPA DE MORELOS"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1992,
+  "valor_unitario_suelo": 1404.4,
+  "alcaldia_cumplimiento": "ALVARO OBREGON"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1993,
+  "valor_unitario_suelo": 1405.11,
+  "alcaldia_cumplimiento": "IZTAPALAPA"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1984,
+  "valor_unitario_suelo": 1405.27,
+  "alcaldia_cumplimiento": "ALVARO OBREGON"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1989,
+  "valor_unitario_suelo": 1418.72,
+  "alcaldia_cumplimiento": "ALVARO OBREGON"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1988,
+  "valor_unitario_suelo": 1421.47,
+  "alcaldia_cumplimiento": "CUAJIMALPA DE MORELOS"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1992,
+  "valor_unitario_suelo": 1424.29,
+  "alcaldia_cumplimiento": "ALVARO OBREGON"
+ },
+ {
+  "uso_construccion": "W",
+  "anio_construccion": 2007,
+  "valor_unitario_suelo": 1427.1,
+  "alcaldia_cumplimiento": "TLALPAN"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1977,
+  "valor_unitario_suelo": 1435.25,
+  "alcaldia_cumplimiento": "GUSTAVO A. MADERO"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1978,
+  "valor_unitario_suelo": 1435.28,
+  "alcaldia_cumplimiento": "ALVARO OBREGON"
+ },
+ {
+  "uso_construccion": "C",
+  "anio_construccion": 1986,
+  "valor_unitario_suelo": 1435.46,
+  "alcaldia_cumplimiento": "COYOACAN"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1984,
+  "valor_unitario_suelo": 1437.29,
+  "alcaldia_cumplimiento": "IZTAPALAPA"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1993,
+  "valor_unitario_suelo": 1441.07,
+  "alcaldia_cumplimiento": "TLALPAN"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1979,
+  "valor_unitario_suelo": 1448.32,
+  "alcaldia_cumplimiento": "AZCAPOTZALCO"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1993,
+  "valor_unitario_suelo": 1460.53,
+  "alcaldia_cumplimiento": "IZTAPALAPA"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1996,
+  "valor_unitario_suelo": 1462.26,
+  "alcaldia_cumplimiento": "MAGDALENA CONTRERAS"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1984,
+  "valor_unitario_suelo": 1470.86,
+  "alcaldia_cumplimiento": "ALVARO OBREGON"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1993,
+  "valor_unitario_suelo": 1476.84,
+  "alcaldia_cumplimiento": "ALVARO OBREGON"
+ },
+ {
+  "uso_construccion": "I",
+  "anio_construccion": 2002,
+  "valor_unitario_suelo": 1479.4,
+  "alcaldia_cumplimiento": "TLAHUAC"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1996,
+  "valor_unitario_suelo": 1483.05,
+  "alcaldia_cumplimiento": "ALVARO OBREGON"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1991,
+  "valor_unitario_suelo": 1485,
+  "alcaldia_cumplimiento": "IZTAPALAPA"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 2001,
+  "valor_unitario_suelo": 1489.94,
+  "alcaldia_cumplimiento": "IZTAPALAPA"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1980,
+  "valor_unitario_suelo": 1492.17,
+  "alcaldia_cumplimiento": "COYOACAN"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1979,
+  "valor_unitario_suelo": 1499.73,
+  "alcaldia_cumplimiento": "ALVARO OBREGON"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 2003,
+  "valor_unitario_suelo": 1500.45,
+  "alcaldia_cumplimiento": "TLALPAN"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1984,
+  "valor_unitario_suelo": 1501.55,
+  "alcaldia_cumplimiento": "TLALPAN"
+ },
+ {
+  "uso_construccion": "C",
+  "anio_construccion": 2007,
+  "valor_unitario_suelo": 1502.07,
+  "alcaldia_cumplimiento": "XOCHIMILCO"
+ },
+ {
+  "uso_construccion": "W",
+  "anio_construccion": 2008,
+  "valor_unitario_suelo": 1502.85,
+  "alcaldia_cumplimiento": "CUAJIMALPA DE MORELOS"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1986,
+  "valor_unitario_suelo": 1513.42,
+  "alcaldia_cumplimiento": "ALVARO OBREGON"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1984,
+  "valor_unitario_suelo": 1531.84,
+  "alcaldia_cumplimiento": "XOCHIMILCO"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 2014,
+  "valor_unitario_suelo": 1531.94,
+  "alcaldia_cumplimiento": "TLAHUAC"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1992,
+  "valor_unitario_suelo": 1536.38,
+  "alcaldia_cumplimiento": "IZTAPALAPA"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1986,
+  "valor_unitario_suelo": 1544.14,
+  "alcaldia_cumplimiento": "ALVARO OBREGON"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1979,
+  "valor_unitario_suelo": 1545.18,
+  "alcaldia_cumplimiento": "ALVARO OBREGON"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 2005,
+  "valor_unitario_suelo": 1545.37,
+  "alcaldia_cumplimiento": "ALVARO OBREGON"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1981,
+  "valor_unitario_suelo": 1545.8,
+  "alcaldia_cumplimiento": "IZTAPALAPA"
+ },
+ {
+  "uso_construccion": "W",
+  "anio_construccion": 0,
+  "valor_unitario_suelo": 1549.08,
+  "alcaldia_cumplimiento": "XOCHIMILCO"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 2006,
+  "valor_unitario_suelo": 1559.45,
+  "alcaldia_cumplimiento": "MAGDALENA CONTRERAS"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1981,
+  "valor_unitario_suelo": 1560.53,
+  "alcaldia_cumplimiento": "XOCHIMILCO"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1992,
+  "valor_unitario_suelo": 1560.72,
+  "alcaldia_cumplimiento": "ALVARO OBREGON"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1998,
+  "valor_unitario_suelo": 1563.09,
+  "alcaldia_cumplimiento": "TLAHUAC"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1985,
+  "valor_unitario_suelo": 1563.16,
+  "alcaldia_cumplimiento": "ALVARO OBREGON"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1978,
+  "valor_unitario_suelo": 1567.7,
+  "alcaldia_cumplimiento": "TLALPAN"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1988,
+  "valor_unitario_suelo": 1573.55,
+  "alcaldia_cumplimiento": "IZTAPALAPA"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1994,
+  "valor_unitario_suelo": 1574.45,
+  "alcaldia_cumplimiento": "ALVARO OBREGON"
+ },
+ {
+  "uso_construccion": "PE",
+  "anio_construccion": 1986,
+  "valor_unitario_suelo": 1584.72,
+  "alcaldia_cumplimiento": "IZTAPALAPA"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1997,
+  "valor_unitario_suelo": 1586.24,
+  "alcaldia_cumplimiento": "TLALPAN"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1981,
+  "valor_unitario_suelo": 1601.3,
+  "alcaldia_cumplimiento": "GUSTAVO A. MADERO"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1981,
+  "valor_unitario_suelo": 1604.13,
+  "alcaldia_cumplimiento": "GUSTAVO A. MADERO"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1984,
+  "valor_unitario_suelo": 1615.23,
+  "alcaldia_cumplimiento": "IZTAPALAPA"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1987,
+  "valor_unitario_suelo": 1615.73,
+  "alcaldia_cumplimiento": "CUAJIMALPA DE MORELOS"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1965,
+  "valor_unitario_suelo": 1619,
+  "alcaldia_cumplimiento": "TLALPAN"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1996,
+  "valor_unitario_suelo": 1619.3,
+  "alcaldia_cumplimiento": "TLAHUAC"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 2003,
+  "valor_unitario_suelo": 1620.71,
+  "alcaldia_cumplimiento": "CUAJIMALPA DE MORELOS"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1983,
+  "valor_unitario_suelo": 1621.2,
+  "alcaldia_cumplimiento": "IZTACALCO"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1988,
+  "valor_unitario_suelo": 1621.64,
+  "alcaldia_cumplimiento": "TLALPAN"
+ },
+ {
+  "uso_construccion": "O",
+  "anio_construccion": 1992,
+  "valor_unitario_suelo": 1635.16,
+  "alcaldia_cumplimiento": "ALVARO OBREGON"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1995,
+  "valor_unitario_suelo": 1641.04,
+  "alcaldia_cumplimiento": "TLALPAN"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 2002,
+  "valor_unitario_suelo": 1652.08,
+  "alcaldia_cumplimiento": "ALVARO OBREGON"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1985,
+  "valor_unitario_suelo": 1652.36,
+  "alcaldia_cumplimiento": "IZTAPALAPA"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1968,
+  "valor_unitario_suelo": 1653.79,
+  "alcaldia_cumplimiento": "GUSTAVO A. MADERO"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1979,
+  "valor_unitario_suelo": 1658.35,
+  "alcaldia_cumplimiento": "COYOACAN"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1986,
+  "valor_unitario_suelo": 1659.02,
+  "alcaldia_cumplimiento": "ALVARO OBREGON"
+ },
+ {
+  "uso_construccion": "W",
+  "anio_construccion": 2007,
+  "valor_unitario_suelo": 1659.2,
+  "alcaldia_cumplimiento": "ALVARO OBREGON"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1994,
+  "valor_unitario_suelo": 1665.28,
+  "alcaldia_cumplimiento": "IZTAPALAPA"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1985,
+  "valor_unitario_suelo": 1671.06,
+  "alcaldia_cumplimiento": "ALVARO OBREGON"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1986,
+  "valor_unitario_suelo": 1671.22,
+  "alcaldia_cumplimiento": "IZTAPALAPA"
+ },
+ {
+  "uso_construccion": "PE",
+  "anio_construccion": 2005,
+  "valor_unitario_suelo": 1681.84,
+  "alcaldia_cumplimiento": "TLALPAN"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 2003,
+  "valor_unitario_suelo": 1690.03,
+  "alcaldia_cumplimiento": "AZCAPOTZALCO"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1994,
+  "valor_unitario_suelo": 1692.52,
+  "alcaldia_cumplimiento": "TLALPAN"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1995,
+  "valor_unitario_suelo": 1699.51,
+  "alcaldia_cumplimiento": "TLALPAN"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1997,
+  "valor_unitario_suelo": 1702.71,
+  "alcaldia_cumplimiento": "IZTAPALAPA"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1998,
+  "valor_unitario_suelo": 1704.52,
+  "alcaldia_cumplimiento": "IZTAPALAPA"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 2010,
+  "valor_unitario_suelo": 1705.01,
+  "alcaldia_cumplimiento": "TLALPAN"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1981,
+  "valor_unitario_suelo": 1715.62,
+  "alcaldia_cumplimiento": "GUSTAVO A. MADERO"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1994,
+  "valor_unitario_suelo": 1723.95,
+  "alcaldia_cumplimiento": "TLALPAN"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 2006,
+  "valor_unitario_suelo": 1727.15,
+  "alcaldia_cumplimiento": "IZTAPALAPA"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 2006,
+  "valor_unitario_suelo": 1730.2,
+  "alcaldia_cumplimiento": "ALVARO OBREGON"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1995,
+  "valor_unitario_suelo": 1733.83,
+  "alcaldia_cumplimiento": "IZTAPALAPA"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1999,
+  "valor_unitario_suelo": 1735.22,
+  "alcaldia_cumplimiento": "ALVARO OBREGON"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1998,
+  "valor_unitario_suelo": 1735.82,
+  "alcaldia_cumplimiento": "IZTACALCO"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1998,
+  "valor_unitario_suelo": 1740.62,
+  "alcaldia_cumplimiento": "GUSTAVO A. MADERO"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1996,
+  "valor_unitario_suelo": 1744.82,
+  "alcaldia_cumplimiento": "IZTAPALAPA"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1995,
+  "valor_unitario_suelo": 1747.66,
+  "alcaldia_cumplimiento": "AZCAPOTZALCO"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1987,
+  "valor_unitario_suelo": 1748.5,
+  "alcaldia_cumplimiento": "XOCHIMILCO"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1976,
+  "valor_unitario_suelo": 1755.6,
+  "alcaldia_cumplimiento": "GUSTAVO A. MADERO"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1976,
+  "valor_unitario_suelo": 1761.11,
+  "alcaldia_cumplimiento": "AZCAPOTZALCO"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1988,
+  "valor_unitario_suelo": 1769.07,
+  "alcaldia_cumplimiento": "IZTAPALAPA"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1997,
+  "valor_unitario_suelo": 1769.72,
+  "alcaldia_cumplimiento": "IZTAPALAPA"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1979,
+  "valor_unitario_suelo": 1774.49,
+  "alcaldia_cumplimiento": "IZTAPALAPA"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1973,
+  "valor_unitario_suelo": 1775.4,
+  "alcaldia_cumplimiento": "ALVARO OBREGON"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 2000,
+  "valor_unitario_suelo": 1776.1,
+  "alcaldia_cumplimiento": "CUAJIMALPA DE MORELOS"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1980,
+  "valor_unitario_suelo": 1780.38,
+  "alcaldia_cumplimiento": "AZCAPOTZALCO"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 2005,
+  "valor_unitario_suelo": 1781.35,
+  "alcaldia_cumplimiento": "CUAJIMALPA DE MORELOS"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1994,
+  "valor_unitario_suelo": 1786.39,
+  "alcaldia_cumplimiento": "TLALPAN"
+ },
+ {
+  "uso_construccion": "A",
+  "anio_construccion": 1989,
+  "valor_unitario_suelo": 1788.36,
+  "alcaldia_cumplimiento": "ALVARO OBREGON"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1967,
+  "valor_unitario_suelo": 1789.82,
+  "alcaldia_cumplimiento": "AZCAPOTZALCO"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 2010,
+  "valor_unitario_suelo": 1794.62,
+  "alcaldia_cumplimiento": "TLALPAN"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1979,
+  "valor_unitario_suelo": 1794.64,
+  "alcaldia_cumplimiento": "IZTAPALAPA"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1988,
+  "valor_unitario_suelo": 1802.43,
+  "alcaldia_cumplimiento": "ALVARO OBREGON"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1989,
+  "valor_unitario_suelo": 1803.02,
+  "alcaldia_cumplimiento": "GUSTAVO A. MADERO"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 2004,
+  "valor_unitario_suelo": 1809.71,
+  "alcaldia_cumplimiento": "TLALPAN"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1989,
+  "valor_unitario_suelo": 1811.07,
+  "alcaldia_cumplimiento": "TLALPAN"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1984,
+  "valor_unitario_suelo": 1820.21,
+  "alcaldia_cumplimiento": "AZCAPOTZALCO"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1987,
+  "valor_unitario_suelo": 1824.38,
+  "alcaldia_cumplimiento": "ALVARO OBREGON"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1976,
+  "valor_unitario_suelo": 1825.24,
+  "alcaldia_cumplimiento": "VENUSTIANO CARRANZA"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1975,
+  "valor_unitario_suelo": 1827.5,
+  "alcaldia_cumplimiento": "ALVARO OBREGON"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1984,
+  "valor_unitario_suelo": 1831.33,
+  "alcaldia_cumplimiento": "IZTACALCO"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1959,
+  "valor_unitario_suelo": 1832.42,
+  "alcaldia_cumplimiento": "AZCAPOTZALCO"
+ },
+ {
+  "uso_construccion": "S",
+  "anio_construccion": 1998,
+  "valor_unitario_suelo": 1838.84,
+  "alcaldia_cumplimiento": "IZTAPALAPA"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 2005,
+  "valor_unitario_suelo": 1845.46,
+  "alcaldia_cumplimiento": "MAGDALENA CONTRERAS"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1966,
+  "valor_unitario_suelo": 1848.55,
+  "alcaldia_cumplimiento": "MIGUEL HIDALGO"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1986,
+  "valor_unitario_suelo": 1853.75,
+  "alcaldia_cumplimiento": "COYOACAN"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1990,
+  "valor_unitario_suelo": 1855.99,
+  "alcaldia_cumplimiento": "IZTAPALAPA"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1986,
+  "valor_unitario_suelo": 1863.89,
+  "alcaldia_cumplimiento": "ALVARO OBREGON"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1979,
+  "valor_unitario_suelo": 1874.8,
+  "alcaldia_cumplimiento": "ALVARO OBREGON"
+ },
+ {
+  "uso_construccion": "Q",
+  "anio_construccion": 1978,
+  "valor_unitario_suelo": 1878.83,
+  "alcaldia_cumplimiento": "AZCAPOTZALCO"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1981,
+  "valor_unitario_suelo": 1880.56,
+  "alcaldia_cumplimiento": "IZTAPALAPA"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1987,
+  "valor_unitario_suelo": 1881.9,
+  "alcaldia_cumplimiento": "IZTACALCO"
+ },
+ {
+  "uso_construccion": "K",
+  "anio_construccion": 1996,
+  "valor_unitario_suelo": 1885.2,
+  "alcaldia_cumplimiento": "AZCAPOTZALCO"
+ },
+ {
+  "uso_construccion": "C",
+  "anio_construccion": 1989,
+  "valor_unitario_suelo": 1894.01,
+  "alcaldia_cumplimiento": "TLAHUAC"
+ },
+ {
+  "uso_construccion": "Q",
+  "anio_construccion": 1984,
+  "valor_unitario_suelo": 1894.18,
+  "alcaldia_cumplimiento": "VENUSTIANO CARRANZA"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1973,
+  "valor_unitario_suelo": 1897.03,
+  "alcaldia_cumplimiento": "ALVARO OBREGON"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1985,
+  "valor_unitario_suelo": 1908.54,
+  "alcaldia_cumplimiento": "ALVARO OBREGON"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1970,
+  "valor_unitario_suelo": 1914.67,
+  "alcaldia_cumplimiento": "MAGDALENA CONTRERAS"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1966,
+  "valor_unitario_suelo": 1915.56,
+  "alcaldia_cumplimiento": "GUSTAVO A. MADERO"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 2004,
+  "valor_unitario_suelo": 1918.44,
+  "alcaldia_cumplimiento": "GUSTAVO A. MADERO"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1966,
+  "valor_unitario_suelo": 1919.43,
+  "alcaldia_cumplimiento": "IZTAPALAPA"
+ },
+ {
+  "uso_construccion": "C",
+  "anio_construccion": 1997,
+  "valor_unitario_suelo": 1933.33,
+  "alcaldia_cumplimiento": "IZTAPALAPA"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1996,
+  "valor_unitario_suelo": 1936.78,
+  "alcaldia_cumplimiento": "ALVARO OBREGON"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1971,
+  "valor_unitario_suelo": 1936.87,
+  "alcaldia_cumplimiento": "IZTACALCO"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1985,
+  "valor_unitario_suelo": 1948.5,
+  "alcaldia_cumplimiento": "GUSTAVO A. MADERO"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1969,
+  "valor_unitario_suelo": 1949.18,
+  "alcaldia_cumplimiento": "TLALPAN"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1985,
+  "valor_unitario_suelo": 1950.88,
+  "alcaldia_cumplimiento": "ALVARO OBREGON"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1986,
+  "valor_unitario_suelo": 1955.51,
+  "alcaldia_cumplimiento": "IZTAPALAPA"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1980,
+  "valor_unitario_suelo": 1959.08,
+  "alcaldia_cumplimiento": "IZTACALCO"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 2000,
+  "valor_unitario_suelo": 1964.14,
+  "alcaldia_cumplimiento": "IZTAPALAPA"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 2003,
+  "valor_unitario_suelo": 1968.31,
+  "alcaldia_cumplimiento": "ALVARO OBREGON"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1980,
+  "valor_unitario_suelo": 1969.19,
+  "alcaldia_cumplimiento": "MIGUEL HIDALGO"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 2001,
+  "valor_unitario_suelo": 1970.67,
+  "alcaldia_cumplimiento": "ALVARO OBREGON"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1995,
+  "valor_unitario_suelo": 1980.55,
+  "alcaldia_cumplimiento": "GUSTAVO A. MADERO"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 2002,
+  "valor_unitario_suelo": 1981.1,
+  "alcaldia_cumplimiento": "MAGDALENA CONTRERAS"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1973,
+  "valor_unitario_suelo": 1981.83,
+  "alcaldia_cumplimiento": "GUSTAVO A. MADERO"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1999,
+  "valor_unitario_suelo": 1985.08,
+  "alcaldia_cumplimiento": "CUAJIMALPA DE MORELOS"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1966,
+  "valor_unitario_suelo": 1985.67,
+  "alcaldia_cumplimiento": "GUSTAVO A. MADERO"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 2011,
+  "valor_unitario_suelo": 1987.36,
+  "alcaldia_cumplimiento": "IZTACALCO"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1971,
+  "valor_unitario_suelo": 1989.34,
+  "alcaldia_cumplimiento": "AZCAPOTZALCO"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 2014,
+  "valor_unitario_suelo": 1992.21,
+  "alcaldia_cumplimiento": "ALVARO OBREGON"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1981,
+  "valor_unitario_suelo": 1993.89,
+  "alcaldia_cumplimiento": "GUSTAVO A. MADERO"
+ },
+ {
+  "uso_construccion": "A",
+  "anio_construccion": 1979,
+  "valor_unitario_suelo": 1994.62,
+  "alcaldia_cumplimiento": "GUSTAVO A. MADERO"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1989,
+  "valor_unitario_suelo": 2001.44,
+  "alcaldia_cumplimiento": "MIGUEL HIDALGO"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 2011,
+  "valor_unitario_suelo": 2001.49,
+  "alcaldia_cumplimiento": "IZTACALCO"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1979,
+  "valor_unitario_suelo": 2005.48,
+  "alcaldia_cumplimiento": "IZTAPALAPA"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1996,
+  "valor_unitario_suelo": 2007.47,
+  "alcaldia_cumplimiento": "TLALPAN"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 2012,
+  "valor_unitario_suelo": 2007.82,
+  "alcaldia_cumplimiento": "TLALPAN"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1977,
+  "valor_unitario_suelo": 2008.2,
+  "alcaldia_cumplimiento": "XOCHIMILCO"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1979,
+  "valor_unitario_suelo": 2010.8,
+  "alcaldia_cumplimiento": "ALVARO OBREGON"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1985,
+  "valor_unitario_suelo": 2014.27,
+  "alcaldia_cumplimiento": "CUAJIMALPA DE MORELOS"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1971,
+  "valor_unitario_suelo": 2015.55,
+  "alcaldia_cumplimiento": "AZCAPOTZALCO"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1979,
+  "valor_unitario_suelo": 2017.69,
+  "alcaldia_cumplimiento": "ALVARO OBREGON"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1996,
+  "valor_unitario_suelo": 2018.06,
+  "alcaldia_cumplimiento": "ALVARO OBREGON"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 2001,
+  "valor_unitario_suelo": 2023.68,
+  "alcaldia_cumplimiento": "TLALPAN"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1988,
+  "valor_unitario_suelo": 2023.99,
+  "alcaldia_cumplimiento": "GUSTAVO A. MADERO"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1966,
+  "valor_unitario_suelo": 2028.15,
+  "alcaldia_cumplimiento": "MAGDALENA CONTRERAS"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1988,
+  "valor_unitario_suelo": 2032.97,
+  "alcaldia_cumplimiento": "ALVARO OBREGON"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 2008,
+  "valor_unitario_suelo": 2033.37,
+  "alcaldia_cumplimiento": "ALVARO OBREGON"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1993,
+  "valor_unitario_suelo": 2041.86,
+  "alcaldia_cumplimiento": "GUSTAVO A. MADERO"
+ },
+ {
+  "uso_construccion": "K",
+  "anio_construccion": 1997,
+  "valor_unitario_suelo": 2042.49,
+  "alcaldia_cumplimiento": "VENUSTIANO CARRANZA"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1976,
+  "valor_unitario_suelo": 2047.48,
+  "alcaldia_cumplimiento": "ALVARO OBREGON"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1988,
+  "valor_unitario_suelo": 2048.54,
+  "alcaldia_cumplimiento": "GUSTAVO A. MADERO"
+ },
+ {
+  "uso_construccion": "O",
+  "anio_construccion": 1997,
+  "valor_unitario_suelo": 2058.7,
+  "alcaldia_cumplimiento": "CUAJIMALPA DE MORELOS"
+ },
+ {
+  "uso_construccion": "I",
+  "anio_construccion": 1998,
+  "valor_unitario_suelo": 2063.29,
+  "alcaldia_cumplimiento": "IZTAPALAPA"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 2002,
+  "valor_unitario_suelo": 2065.33,
+  "alcaldia_cumplimiento": "GUSTAVO A. MADERO"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1985,
+  "valor_unitario_suelo": 2069.7,
+  "alcaldia_cumplimiento": "TLALPAN"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1974,
+  "valor_unitario_suelo": 2079.45,
+  "alcaldia_cumplimiento": "GUSTAVO A. MADERO"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1976,
+  "valor_unitario_suelo": 2089.28,
+  "alcaldia_cumplimiento": "ALVARO OBREGON"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1992,
+  "valor_unitario_suelo": 2089.32,
+  "alcaldia_cumplimiento": "ALVARO OBREGON"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1989,
+  "valor_unitario_suelo": 2091.08,
+  "alcaldia_cumplimiento": "XOCHIMILCO"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 2002,
+  "valor_unitario_suelo": 2092.41,
+  "alcaldia_cumplimiento": "MAGDALENA CONTRERAS"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1978,
+  "valor_unitario_suelo": 2093.42,
+  "alcaldia_cumplimiento": "CUAJIMALPA DE MORELOS"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 2005,
+  "valor_unitario_suelo": 2094.29,
+  "alcaldia_cumplimiento": "IZTAPALAPA"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1971,
+  "valor_unitario_suelo": 2097.6,
+  "alcaldia_cumplimiento": "IZTACALCO"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1979,
+  "valor_unitario_suelo": 2107.39,
+  "alcaldia_cumplimiento": "IZTAPALAPA"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1976,
+  "valor_unitario_suelo": 2109.64,
+  "alcaldia_cumplimiento": "TLALPAN"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1984,
+  "valor_unitario_suelo": 2115.74,
+  "alcaldia_cumplimiento": "IZTAPALAPA"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1966,
+  "valor_unitario_suelo": 2117.98,
+  "alcaldia_cumplimiento": "AZCAPOTZALCO"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1975,
+  "valor_unitario_suelo": 2123.27,
+  "alcaldia_cumplimiento": "TLALPAN"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1983,
+  "valor_unitario_suelo": 2128.62,
+  "alcaldia_cumplimiento": "VENUSTIANO CARRANZA"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1981,
+  "valor_unitario_suelo": 2136.86,
+  "alcaldia_cumplimiento": "GUSTAVO A. MADERO"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 2003,
+  "valor_unitario_suelo": 2143.14,
+  "alcaldia_cumplimiento": "COYOACAN"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1978,
+  "valor_unitario_suelo": 2150.23,
+  "alcaldia_cumplimiento": "AZCAPOTZALCO"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1968,
+  "valor_unitario_suelo": 2153.09,
+  "alcaldia_cumplimiento": "CUAJIMALPA DE MORELOS"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1975,
+  "valor_unitario_suelo": 2159.84,
+  "alcaldia_cumplimiento": "AZCAPOTZALCO"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 2004,
+  "valor_unitario_suelo": 2161.12,
+  "alcaldia_cumplimiento": "TLALPAN"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1966,
+  "valor_unitario_suelo": 2161.31,
+  "alcaldia_cumplimiento": "ALVARO OBREGON"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1976,
+  "valor_unitario_suelo": 2163.57,
+  "alcaldia_cumplimiento": "MIGUEL HIDALGO"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1992,
+  "valor_unitario_suelo": 2167.62,
+  "alcaldia_cumplimiento": "ALVARO OBREGON"
+ },
+ {
+  "uso_construccion": "I",
+  "anio_construccion": 1981,
+  "valor_unitario_suelo": 2170.47,
+  "alcaldia_cumplimiento": "IZTAPALAPA"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1997,
+  "valor_unitario_suelo": 2170.81,
+  "alcaldia_cumplimiento": "ALVARO OBREGON"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1985,
+  "valor_unitario_suelo": 2177.42,
+  "alcaldia_cumplimiento": "GUSTAVO A. MADERO"
+ },
+ {
+  "uso_construccion": "O",
+  "anio_construccion": 1985,
+  "valor_unitario_suelo": 2181.68,
+  "alcaldia_cumplimiento": "AZCAPOTZALCO"
+ },
+ {
+  "uso_construccion": "W",
+  "anio_construccion": 2007,
+  "valor_unitario_suelo": 2182.34,
+  "alcaldia_cumplimiento": "CUAJIMALPA DE MORELOS"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1981,
+  "valor_unitario_suelo": 2183.41,
+  "alcaldia_cumplimiento": "CUAJIMALPA DE MORELOS"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1991,
+  "valor_unitario_suelo": 2185.38,
+  "alcaldia_cumplimiento": "MAGDALENA CONTRERAS"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1999,
+  "valor_unitario_suelo": 2190.49,
+  "alcaldia_cumplimiento": "GUSTAVO A. MADERO"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1980,
+  "valor_unitario_suelo": 2191.28,
+  "alcaldia_cumplimiento": "XOCHIMILCO"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1970,
+  "valor_unitario_suelo": 2192.02,
+  "alcaldia_cumplimiento": "IZTAPALAPA"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1997,
+  "valor_unitario_suelo": 2194.08,
+  "alcaldia_cumplimiento": "MAGDALENA CONTRERAS"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1981,
+  "valor_unitario_suelo": 2194.91,
+  "alcaldia_cumplimiento": "ALVARO OBREGON"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1974,
+  "valor_unitario_suelo": 2201.43,
+  "alcaldia_cumplimiento": "XOCHIMILCO"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1985,
+  "valor_unitario_suelo": 2204.72,
+  "alcaldia_cumplimiento": "TLALPAN"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1976,
+  "valor_unitario_suelo": 2206.55,
+  "alcaldia_cumplimiento": "IZTACALCO"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1977,
+  "valor_unitario_suelo": 2209.94,
+  "alcaldia_cumplimiento": "MAGDALENA CONTRERAS"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 2008,
+  "valor_unitario_suelo": 2211.76,
+  "alcaldia_cumplimiento": "IZTACALCO"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1982,
+  "valor_unitario_suelo": 2213.86,
+  "alcaldia_cumplimiento": "AZCAPOTZALCO"
+ },
+ {
+  "uso_construccion": "A",
+  "anio_construccion": 1969,
+  "valor_unitario_suelo": 2218.59,
+  "alcaldia_cumplimiento": "AZCAPOTZALCO"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 2014,
+  "valor_unitario_suelo": 2222.25,
+  "alcaldia_cumplimiento": "ALVARO OBREGON"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1986,
+  "valor_unitario_suelo": 2224.69,
+  "alcaldia_cumplimiento": "TLALPAN"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1981,
+  "valor_unitario_suelo": 2226.12,
+  "alcaldia_cumplimiento": "AZCAPOTZALCO"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1985,
+  "valor_unitario_suelo": 2233.44,
+  "alcaldia_cumplimiento": "GUSTAVO A. MADERO"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 2006,
+  "valor_unitario_suelo": 2243.22,
+  "alcaldia_cumplimiento": "GUSTAVO A. MADERO"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1997,
+  "valor_unitario_suelo": 2244.75,
+  "alcaldia_cumplimiento": "AZCAPOTZALCO"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1985,
+  "valor_unitario_suelo": 2252.96,
+  "alcaldia_cumplimiento": "GUSTAVO A. MADERO"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1999,
+  "valor_unitario_suelo": 2259.57,
+  "alcaldia_cumplimiento": "GUSTAVO A. MADERO"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1995,
+  "valor_unitario_suelo": 2265.37,
+  "alcaldia_cumplimiento": "IZTAPALAPA"
+ },
+ {
+  "uso_construccion": "W",
+  "anio_construccion": 2007,
+  "valor_unitario_suelo": 2273.3,
+  "alcaldia_cumplimiento": "ALVARO OBREGON"
+ },
+ {
+  "uso_construccion": "K",
+  "anio_construccion": 1982,
+  "valor_unitario_suelo": 2277.96,
+  "alcaldia_cumplimiento": "TLALPAN"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 2012,
+  "valor_unitario_suelo": 2283.37,
+  "alcaldia_cumplimiento": "ALVARO OBREGON"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1993,
+  "valor_unitario_suelo": 2283.45,
+  "alcaldia_cumplimiento": "IZTAPALAPA"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1998,
+  "valor_unitario_suelo": 2288.75,
+  "alcaldia_cumplimiento": "AZCAPOTZALCO"
+ },
+ {
+  "uso_construccion": "W",
+  "anio_construccion": 2007,
+  "valor_unitario_suelo": 2290.92,
+  "alcaldia_cumplimiento": "ALVARO OBREGON"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1968,
+  "valor_unitario_suelo": 2292.3,
+  "alcaldia_cumplimiento": "AZCAPOTZALCO"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1981,
+  "valor_unitario_suelo": 2295.89,
+  "alcaldia_cumplimiento": "GUSTAVO A. MADERO"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1984,
+  "valor_unitario_suelo": 2300.6,
+  "alcaldia_cumplimiento": "IZTAPALAPA"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1980,
+  "valor_unitario_suelo": 2300.67,
+  "alcaldia_cumplimiento": "XOCHIMILCO"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1997,
+  "valor_unitario_suelo": 2305.9,
+  "alcaldia_cumplimiento": "IZTAPALAPA"
+ },
+ {
+  "uso_construccion": "PE",
+  "anio_construccion": 1979,
+  "valor_unitario_suelo": 2308.67,
+  "alcaldia_cumplimiento": "IZTAPALAPA"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1990,
+  "valor_unitario_suelo": 2309.48,
+  "alcaldia_cumplimiento": "BENITO JUAREZ"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1977,
+  "valor_unitario_suelo": 2318.07,
+  "alcaldia_cumplimiento": "AZCAPOTZALCO"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1986,
+  "valor_unitario_suelo": 2322.65,
+  "alcaldia_cumplimiento": "IZTAPALAPA"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1971,
+  "valor_unitario_suelo": 2327.89,
+  "alcaldia_cumplimiento": "COYOACAN"
+ },
+ {
+  "uso_construccion": "A",
+  "anio_construccion": 1970,
+  "valor_unitario_suelo": 2332.73,
+  "alcaldia_cumplimiento": "GUSTAVO A. MADERO"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1990,
+  "valor_unitario_suelo": 2337.97,
+  "alcaldia_cumplimiento": "IZTACALCO"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1981,
+  "valor_unitario_suelo": 2338.11,
+  "alcaldia_cumplimiento": "CUAJIMALPA DE MORELOS"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1996,
+  "valor_unitario_suelo": 2348.75,
+  "alcaldia_cumplimiento": "ALVARO OBREGON"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1995,
+  "valor_unitario_suelo": 2349.13,
+  "alcaldia_cumplimiento": "ALVARO OBREGON"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1968,
+  "valor_unitario_suelo": 2350.21,
+  "alcaldia_cumplimiento": "IZTAPALAPA"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 2014,
+  "valor_unitario_suelo": 2353.03,
+  "alcaldia_cumplimiento": "AZCAPOTZALCO"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1998,
+  "valor_unitario_suelo": 2353.36,
+  "alcaldia_cumplimiento": "IZTACALCO"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1971,
+  "valor_unitario_suelo": 2354.24,
+  "alcaldia_cumplimiento": "AZCAPOTZALCO"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 2000,
+  "valor_unitario_suelo": 2354.68,
+  "alcaldia_cumplimiento": "ALVARO OBREGON"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1972,
+  "valor_unitario_suelo": 2355,
+  "alcaldia_cumplimiento": "AZCAPOTZALCO"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1976,
+  "valor_unitario_suelo": 2361.95,
+  "alcaldia_cumplimiento": "ALVARO OBREGON"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1971,
+  "valor_unitario_suelo": 2362.54,
+  "alcaldia_cumplimiento": "AZCAPOTZALCO"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1985,
+  "valor_unitario_suelo": 2364.78,
+  "alcaldia_cumplimiento": "XOCHIMILCO"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 2010,
+  "valor_unitario_suelo": 2364.84,
+  "alcaldia_cumplimiento": "AZCAPOTZALCO"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1986,
+  "valor_unitario_suelo": 2367.4,
+  "alcaldia_cumplimiento": "IZTACALCO"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1993,
+  "valor_unitario_suelo": 2368.32,
+  "alcaldia_cumplimiento": "IZTAPALAPA"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1966,
+  "valor_unitario_suelo": 2368.77,
+  "alcaldia_cumplimiento": "IZTAPALAPA"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1992,
+  "valor_unitario_suelo": 2370.81,
+  "alcaldia_cumplimiento": "IZTACALCO"
+ },
+ {
+  "uso_construccion": "O",
+  "anio_construccion": 1997,
+  "valor_unitario_suelo": 2382.27,
+  "alcaldia_cumplimiento": "COYOACAN"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1994,
+  "valor_unitario_suelo": 2390.28,
+  "alcaldia_cumplimiento": "XOCHIMILCO"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1983,
+  "valor_unitario_suelo": 2393.03,
+  "alcaldia_cumplimiento": "ALVARO OBREGON"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1983,
+  "valor_unitario_suelo": 2395.84,
+  "alcaldia_cumplimiento": "GUSTAVO A. MADERO"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1983,
+  "valor_unitario_suelo": 2400.71,
+  "alcaldia_cumplimiento": "ALVARO OBREGON"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 2009,
+  "valor_unitario_suelo": 2420.77,
+  "alcaldia_cumplimiento": "ALVARO OBREGON"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1983,
+  "valor_unitario_suelo": 2425.71,
+  "alcaldia_cumplimiento": "GUSTAVO A. MADERO"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 2019,
+  "valor_unitario_suelo": 2432.6,
+  "alcaldia_cumplimiento": "CUAJIMALPA DE MORELOS"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1966,
+  "valor_unitario_suelo": 2437.4,
+  "alcaldia_cumplimiento": "MIGUEL HIDALGO"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1968,
+  "valor_unitario_suelo": 2450,
+  "alcaldia_cumplimiento": "TLALPAN"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1987,
+  "valor_unitario_suelo": 2455.34,
+  "alcaldia_cumplimiento": "IZTAPALAPA"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1979,
+  "valor_unitario_suelo": 2455.64,
+  "alcaldia_cumplimiento": "IZTAPALAPA"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1995,
+  "valor_unitario_suelo": 2462.18,
+  "alcaldia_cumplimiento": "ALVARO OBREGON"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1966,
+  "valor_unitario_suelo": 2463.12,
+  "alcaldia_cumplimiento": "GUSTAVO A. MADERO"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1971,
+  "valor_unitario_suelo": 2467.22,
+  "alcaldia_cumplimiento": "AZCAPOTZALCO"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1991,
+  "valor_unitario_suelo": 2470.97,
+  "alcaldia_cumplimiento": "ALVARO OBREGON"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1974,
+  "valor_unitario_suelo": 2476.84,
+  "alcaldia_cumplimiento": "XOCHIMILCO"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1965,
+  "valor_unitario_suelo": 2476.9,
+  "alcaldia_cumplimiento": "AZCAPOTZALCO"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1971,
+  "valor_unitario_suelo": 2484.13,
+  "alcaldia_cumplimiento": "MIGUEL HIDALGO"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 2005,
+  "valor_unitario_suelo": 2485.95,
+  "alcaldia_cumplimiento": "MIGUEL HIDALGO"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1976,
+  "valor_unitario_suelo": 2503.45,
+  "alcaldia_cumplimiento": "COYOACAN"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1966,
+  "valor_unitario_suelo": 2509.04,
+  "alcaldia_cumplimiento": "XOCHIMILCO"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1970,
+  "valor_unitario_suelo": 2510.09,
+  "alcaldia_cumplimiento": "AZCAPOTZALCO"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1970,
+  "valor_unitario_suelo": 2513.29,
+  "alcaldia_cumplimiento": "TLALPAN"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1995,
+  "valor_unitario_suelo": 2516.8,
+  "alcaldia_cumplimiento": "TLALPAN"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1967,
+  "valor_unitario_suelo": 2516.87,
+  "alcaldia_cumplimiento": "IZTACALCO"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1988,
+  "valor_unitario_suelo": 2526.83,
+  "alcaldia_cumplimiento": "IZTAPALAPA"
+ },
+ {
+  "uso_construccion": "C",
+  "anio_construccion": 1979,
+  "valor_unitario_suelo": 2527.72,
+  "alcaldia_cumplimiento": "IZTAPALAPA"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1974,
+  "valor_unitario_suelo": 2528.18,
+  "alcaldia_cumplimiento": "COYOACAN"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1981,
+  "valor_unitario_suelo": 2530.28,
+  "alcaldia_cumplimiento": "GUSTAVO A. MADERO"
+ },
+ {
+  "uso_construccion": "K",
+  "anio_construccion": 1985,
+  "valor_unitario_suelo": 2533.21,
+  "alcaldia_cumplimiento": "IZTAPALAPA"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1970,
+  "valor_unitario_suelo": 2541.94,
+  "alcaldia_cumplimiento": "AZCAPOTZALCO"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1967,
+  "valor_unitario_suelo": 2542.12,
+  "alcaldia_cumplimiento": "AZCAPOTZALCO"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1985,
+  "valor_unitario_suelo": 2542.41,
+  "alcaldia_cumplimiento": "ALVARO OBREGON"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1995,
+  "valor_unitario_suelo": 2548.79,
+  "alcaldia_cumplimiento": "MIGUEL HIDALGO"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1986,
+  "valor_unitario_suelo": 2550.04,
+  "alcaldia_cumplimiento": "IZTACALCO"
+ },
+ {
+  "uso_construccion": "K",
+  "anio_construccion": 1996,
+  "valor_unitario_suelo": 2551.64,
+  "alcaldia_cumplimiento": "MIGUEL HIDALGO"
+ },
+ {
+  "uso_construccion": "W",
+  "anio_construccion": 2010,
+  "valor_unitario_suelo": 2553.26,
+  "alcaldia_cumplimiento": "CUAJIMALPA DE MORELOS"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1981,
+  "valor_unitario_suelo": 2557.47,
+  "alcaldia_cumplimiento": "XOCHIMILCO"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1970,
+  "valor_unitario_suelo": 2557.67,
+  "alcaldia_cumplimiento": "COYOACAN"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 2003,
+  "valor_unitario_suelo": 2564.4,
+  "alcaldia_cumplimiento": "AZCAPOTZALCO"
+ },
+ {
+  "uso_construccion": "A",
+  "anio_construccion": 1980,
+  "valor_unitario_suelo": 2572.91,
+  "alcaldia_cumplimiento": "VENUSTIANO CARRANZA"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1971,
+  "valor_unitario_suelo": 2573.28,
+  "alcaldia_cumplimiento": "GUSTAVO A. MADERO"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1966,
+  "valor_unitario_suelo": 2581.3,
+  "alcaldia_cumplimiento": "AZCAPOTZALCO"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1986,
+  "valor_unitario_suelo": 2581.65,
+  "alcaldia_cumplimiento": "GUSTAVO A. MADERO"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1999,
+  "valor_unitario_suelo": 2582.93,
+  "alcaldia_cumplimiento": "ALVARO OBREGON"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1993,
+  "valor_unitario_suelo": 2587.72,
+  "alcaldia_cumplimiento": "VENUSTIANO CARRANZA"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1980,
+  "valor_unitario_suelo": 2593.33,
+  "alcaldia_cumplimiento": "COYOACAN"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1974,
+  "valor_unitario_suelo": 2594.96,
+  "alcaldia_cumplimiento": "AZCAPOTZALCO"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1966,
+  "valor_unitario_suelo": 2596.37,
+  "alcaldia_cumplimiento": "COYOACAN"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 2004,
+  "valor_unitario_suelo": 2597.24,
+  "alcaldia_cumplimiento": "AZCAPOTZALCO"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1994,
+  "valor_unitario_suelo": 2598.35,
+  "alcaldia_cumplimiento": "IZTAPALAPA"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1984,
+  "valor_unitario_suelo": 2598.54,
+  "alcaldia_cumplimiento": "GUSTAVO A. MADERO"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1979,
+  "valor_unitario_suelo": 2599.11,
+  "alcaldia_cumplimiento": "IZTAPALAPA"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1969,
+  "valor_unitario_suelo": 2599.83,
+  "alcaldia_cumplimiento": "GUSTAVO A. MADERO"
+ },
+ {
+  "uso_construccion": "K",
+  "anio_construccion": 1969,
+  "valor_unitario_suelo": 2611.56,
+  "alcaldia_cumplimiento": "GUSTAVO A. MADERO"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1993,
+  "valor_unitario_suelo": 2616.89,
+  "alcaldia_cumplimiento": "TLALPAN"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1980,
+  "valor_unitario_suelo": 2619.39,
+  "alcaldia_cumplimiento": "TLALPAN"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1991,
+  "valor_unitario_suelo": 2627.43,
+  "alcaldia_cumplimiento": "MIGUEL HIDALGO"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1997,
+  "valor_unitario_suelo": 2637.7,
+  "alcaldia_cumplimiento": "TLALPAN"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1970,
+  "valor_unitario_suelo": 2644.53,
+  "alcaldia_cumplimiento": "BENITO JUAREZ"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1984,
+  "valor_unitario_suelo": 2652.55,
+  "alcaldia_cumplimiento": "GUSTAVO A. MADERO"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1981,
+  "valor_unitario_suelo": 2654.22,
+  "alcaldia_cumplimiento": "GUSTAVO A. MADERO"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1995,
+  "valor_unitario_suelo": 2657.13,
+  "alcaldia_cumplimiento": "IZTAPALAPA"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 2014,
+  "valor_unitario_suelo": 2659.23,
+  "alcaldia_cumplimiento": "ALVARO OBREGON"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1976,
+  "valor_unitario_suelo": 2659.25,
+  "alcaldia_cumplimiento": "ALVARO OBREGON"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1977,
+  "valor_unitario_suelo": 2662.33,
+  "alcaldia_cumplimiento": "IZTAPALAPA"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1966,
+  "valor_unitario_suelo": 2666.28,
+  "alcaldia_cumplimiento": "COYOACAN"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1980,
+  "valor_unitario_suelo": 2669.02,
+  "alcaldia_cumplimiento": "AZCAPOTZALCO"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1996,
+  "valor_unitario_suelo": 2671.33,
+  "alcaldia_cumplimiento": "VENUSTIANO CARRANZA"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 2000,
+  "valor_unitario_suelo": 2672.77,
+  "alcaldia_cumplimiento": "TLALPAN"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1978,
+  "valor_unitario_suelo": 2677.35,
+  "alcaldia_cumplimiento": "GUSTAVO A. MADERO"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 2013,
+  "valor_unitario_suelo": 2691.34,
+  "alcaldia_cumplimiento": "GUSTAVO A. MADERO"
+ },
+ {
+  "uso_construccion": "A",
+  "anio_construccion": 1975,
+  "valor_unitario_suelo": 2697.52,
+  "alcaldia_cumplimiento": "AZCAPOTZALCO"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1986,
+  "valor_unitario_suelo": 2697.85,
+  "alcaldia_cumplimiento": "TLALPAN"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 2004,
+  "valor_unitario_suelo": 2700.16,
+  "alcaldia_cumplimiento": "CUAJIMALPA DE MORELOS"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 2011,
+  "valor_unitario_suelo": 2700.53,
+  "alcaldia_cumplimiento": "CUAJIMALPA DE MORELOS"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1979,
+  "valor_unitario_suelo": 2704,
+  "alcaldia_cumplimiento": "IZTACALCO"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 2002,
+  "valor_unitario_suelo": 2710.93,
+  "alcaldia_cumplimiento": "XOCHIMILCO"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1967,
+  "valor_unitario_suelo": 2712.55,
+  "alcaldia_cumplimiento": "BENITO JUAREZ"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 2019,
+  "valor_unitario_suelo": 2714.55,
+  "alcaldia_cumplimiento": "AZCAPOTZALCO"
+ },
+ {
+  "uso_construccion": "K",
+  "anio_construccion": 2014,
+  "valor_unitario_suelo": 2716.99,
+  "alcaldia_cumplimiento": "GUSTAVO A. MADERO"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 2006,
+  "valor_unitario_suelo": 2717.94,
+  "alcaldia_cumplimiento": "MIGUEL HIDALGO"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1980,
+  "valor_unitario_suelo": 2718.98,
+  "alcaldia_cumplimiento": "IZTAPALAPA"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1971,
+  "valor_unitario_suelo": 2724.87,
+  "alcaldia_cumplimiento": "VENUSTIANO CARRANZA"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1966,
+  "valor_unitario_suelo": 2726.04,
+  "alcaldia_cumplimiento": "VENUSTIANO CARRANZA"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1966,
+  "valor_unitario_suelo": 2729.13,
+  "alcaldia_cumplimiento": "MIGUEL HIDALGO"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1997,
+  "valor_unitario_suelo": 2729.68,
+  "alcaldia_cumplimiento": "ALVARO OBREGON"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1983,
+  "valor_unitario_suelo": 2730.35,
+  "alcaldia_cumplimiento": "CUAJIMALPA DE MORELOS"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1996,
+  "valor_unitario_suelo": 2736.01,
+  "alcaldia_cumplimiento": "TLALPAN"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 2005,
+  "valor_unitario_suelo": 2738.64,
+  "alcaldia_cumplimiento": "GUSTAVO A. MADERO"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 2013,
+  "valor_unitario_suelo": 2739.14,
+  "alcaldia_cumplimiento": "CUAJIMALPA DE MORELOS"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 2009,
+  "valor_unitario_suelo": 2742.6,
+  "alcaldia_cumplimiento": "ALVARO OBREGON"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1979,
+  "valor_unitario_suelo": 2746.96,
+  "alcaldia_cumplimiento": "ALVARO OBREGON"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 2000,
+  "valor_unitario_suelo": 2747.95,
+  "alcaldia_cumplimiento": "GUSTAVO A. MADERO"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1966,
+  "valor_unitario_suelo": 2748.99,
+  "alcaldia_cumplimiento": "AZCAPOTZALCO"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 2001,
+  "valor_unitario_suelo": 2753.52,
+  "alcaldia_cumplimiento": "COYOACAN"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1985,
+  "valor_unitario_suelo": 2759.89,
+  "alcaldia_cumplimiento": "GUSTAVO A. MADERO"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1980,
+  "valor_unitario_suelo": 2767.77,
+  "alcaldia_cumplimiento": "IZTACALCO"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1976,
+  "valor_unitario_suelo": 2768.64,
+  "alcaldia_cumplimiento": "ALVARO OBREGON"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1979,
+  "valor_unitario_suelo": 2770.6,
+  "alcaldia_cumplimiento": "TLALPAN"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1975,
+  "valor_unitario_suelo": 2779.6,
+  "alcaldia_cumplimiento": "AZCAPOTZALCO"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1992,
+  "valor_unitario_suelo": 2780.56,
+  "alcaldia_cumplimiento": "COYOACAN"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1975,
+  "valor_unitario_suelo": 2789.74,
+  "alcaldia_cumplimiento": "TLALPAN"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1992,
+  "valor_unitario_suelo": 2793.65,
+  "alcaldia_cumplimiento": "ALVARO OBREGON"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1974,
+  "valor_unitario_suelo": 2794.69,
+  "alcaldia_cumplimiento": "COYOACAN"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1983,
+  "valor_unitario_suelo": 2795.98,
+  "alcaldia_cumplimiento": "TLALPAN"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 2008,
+  "valor_unitario_suelo": 2804.56,
+  "alcaldia_cumplimiento": "TLALPAN"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1975,
+  "valor_unitario_suelo": 2806.42,
+  "alcaldia_cumplimiento": "BENITO JUAREZ"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 2005,
+  "valor_unitario_suelo": 2818.65,
+  "alcaldia_cumplimiento": "ALVARO OBREGON"
+ },
+ {
+  "uso_construccion": "K",
+  "anio_construccion": 1996,
+  "valor_unitario_suelo": 2822.24,
+  "alcaldia_cumplimiento": "COYOACAN"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1970,
+  "valor_unitario_suelo": 2826.51,
+  "alcaldia_cumplimiento": "TLALPAN"
+ },
+ {
+  "uso_construccion": "O",
+  "anio_construccion": 1997,
+  "valor_unitario_suelo": 2832.99,
+  "alcaldia_cumplimiento": "ALVARO OBREGON"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1966,
+  "valor_unitario_suelo": 2836.82,
+  "alcaldia_cumplimiento": "AZCAPOTZALCO"
+ },
+ {
+  "uso_construccion": "C",
+  "anio_construccion": 1986,
+  "valor_unitario_suelo": 2837.53,
+  "alcaldia_cumplimiento": "IZTAPALAPA"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1971,
+  "valor_unitario_suelo": 2841.29,
+  "alcaldia_cumplimiento": "IZTACALCO"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 2006,
+  "valor_unitario_suelo": 2845.36,
+  "alcaldia_cumplimiento": "ALVARO OBREGON"
+ },
+ {
+  "uso_construccion": "W",
+  "anio_construccion": 2006,
+  "valor_unitario_suelo": 2848.35,
+  "alcaldia_cumplimiento": "COYOACAN"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1997,
+  "valor_unitario_suelo": 2848.65,
+  "alcaldia_cumplimiento": "TLALPAN"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1981,
+  "valor_unitario_suelo": 2850.05,
+  "alcaldia_cumplimiento": "IZTACALCO"
+ },
+ {
+  "uso_construccion": "C",
+  "anio_construccion": 1989,
+  "valor_unitario_suelo": 2858.08,
+  "alcaldia_cumplimiento": "TLALPAN"
+ },
+ {
+  "uso_construccion": "K",
+  "anio_construccion": 2003,
+  "valor_unitario_suelo": 2870.5,
+  "alcaldia_cumplimiento": "MIGUEL HIDALGO"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1981,
+  "valor_unitario_suelo": 2872.23,
+  "alcaldia_cumplimiento": "VENUSTIANO CARRANZA"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1979,
+  "valor_unitario_suelo": 2873.51,
+  "alcaldia_cumplimiento": "VENUSTIANO CARRANZA"
+ },
+ {
+  "uso_construccion": "C",
+  "anio_construccion": 2009,
+  "valor_unitario_suelo": 2876.44,
+  "alcaldia_cumplimiento": "IZTAPALAPA"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1979,
+  "valor_unitario_suelo": 2894.23,
+  "alcaldia_cumplimiento": "IZTAPALAPA"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1995,
+  "valor_unitario_suelo": 2908.13,
+  "alcaldia_cumplimiento": "ALVARO OBREGON"
+ },
+ {
+  "uso_construccion": "C",
+  "anio_construccion": 1972,
+  "valor_unitario_suelo": 2908.2,
+  "alcaldia_cumplimiento": "IZTAPALAPA"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1985,
+  "valor_unitario_suelo": 2911.28,
+  "alcaldia_cumplimiento": "IZTAPALAPA"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1999,
+  "valor_unitario_suelo": 2923.9,
+  "alcaldia_cumplimiento": "COYOACAN"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1993,
+  "valor_unitario_suelo": 2925.04,
+  "alcaldia_cumplimiento": "TLALPAN"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1972,
+  "valor_unitario_suelo": 2931.02,
+  "alcaldia_cumplimiento": "IZTAPALAPA"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 2013,
+  "valor_unitario_suelo": 2931.46,
+  "alcaldia_cumplimiento": "ALVARO OBREGON"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1988,
+  "valor_unitario_suelo": 2937.89,
+  "alcaldia_cumplimiento": "TLALPAN"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1967,
+  "valor_unitario_suelo": 2947.74,
+  "alcaldia_cumplimiento": "MIGUEL HIDALGO"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 2003,
+  "valor_unitario_suelo": 2949.47,
+  "alcaldia_cumplimiento": "ALVARO OBREGON"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 2007,
+  "valor_unitario_suelo": 2952,
+  "alcaldia_cumplimiento": "ALVARO OBREGON"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1993,
+  "valor_unitario_suelo": 2953.56,
+  "alcaldia_cumplimiento": "COYOACAN"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1980,
+  "valor_unitario_suelo": 2953.83,
+  "alcaldia_cumplimiento": "GUSTAVO A. MADERO"
+ },
+ {
+  "uso_construccion": "O",
+  "anio_construccion": 2000,
+  "valor_unitario_suelo": 2954.56,
+  "alcaldia_cumplimiento": "ALVARO OBREGON"
+ },
+ {
+  "uso_construccion": "C",
+  "anio_construccion": 1998,
+  "valor_unitario_suelo": 2965.09,
+  "alcaldia_cumplimiento": "AZCAPOTZALCO"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1982,
+  "valor_unitario_suelo": 2967.59,
+  "alcaldia_cumplimiento": "IZTACALCO"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1969,
+  "valor_unitario_suelo": 2970.45,
+  "alcaldia_cumplimiento": "MIGUEL HIDALGO"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1988,
+  "valor_unitario_suelo": 2970.5,
+  "alcaldia_cumplimiento": "BENITO JUAREZ"
+ },
+ {
+  "uso_construccion": "L",
+  "anio_construccion": 1996,
+  "valor_unitario_suelo": 2975.53,
+  "alcaldia_cumplimiento": "IZTAPALAPA"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 2012,
+  "valor_unitario_suelo": 2977.27,
+  "alcaldia_cumplimiento": "BENITO JUAREZ"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1975,
+  "valor_unitario_suelo": 2978.95,
+  "alcaldia_cumplimiento": "MAGDALENA CONTRERAS"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1990,
+  "valor_unitario_suelo": 2982.2,
+  "alcaldia_cumplimiento": "ALVARO OBREGON"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1994,
+  "valor_unitario_suelo": 3002.2,
+  "alcaldia_cumplimiento": "IZTAPALAPA"
+ },
+ {
+  "uso_construccion": "C",
+  "anio_construccion": 1996,
+  "valor_unitario_suelo": 3003.7,
+  "alcaldia_cumplimiento": "COYOACAN"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 2004,
+  "valor_unitario_suelo": 3008.26,
+  "alcaldia_cumplimiento": "TLALPAN"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1951,
+  "valor_unitario_suelo": 3018.73,
+  "alcaldia_cumplimiento": "IZTACALCO"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1967,
+  "valor_unitario_suelo": 3020.98,
+  "alcaldia_cumplimiento": "VENUSTIANO CARRANZA"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 2013,
+  "valor_unitario_suelo": 3035.85,
+  "alcaldia_cumplimiento": "BENITO JUAREZ"
+ },
+ {
+  "uso_construccion": "C",
+  "anio_construccion": 1996,
+  "valor_unitario_suelo": 3042.75,
+  "alcaldia_cumplimiento": "XOCHIMILCO"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1981,
+  "valor_unitario_suelo": 3045.35,
+  "alcaldia_cumplimiento": "ALVARO OBREGON"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1974,
+  "valor_unitario_suelo": 3051.88,
+  "alcaldia_cumplimiento": "GUSTAVO A. MADERO"
+ },
+ {
+  "uso_construccion": "I",
+  "anio_construccion": 2000,
+  "valor_unitario_suelo": 3061.77,
+  "alcaldia_cumplimiento": "IZTAPALAPA"
+ },
+ {
+  "uso_construccion": "C",
+  "anio_construccion": 1996,
+  "valor_unitario_suelo": 3062.57,
+  "alcaldia_cumplimiento": "VENUSTIANO CARRANZA"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1992,
+  "valor_unitario_suelo": 3064.09,
+  "alcaldia_cumplimiento": "XOCHIMILCO"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1968,
+  "valor_unitario_suelo": 3067.53,
+  "alcaldia_cumplimiento": "AZCAPOTZALCO"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 2001,
+  "valor_unitario_suelo": 3071.56,
+  "alcaldia_cumplimiento": "ALVARO OBREGON"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1996,
+  "valor_unitario_suelo": 3078.07,
+  "alcaldia_cumplimiento": "TLALPAN"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1998,
+  "valor_unitario_suelo": 3093.24,
+  "alcaldia_cumplimiento": "IZTAPALAPA"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1971,
+  "valor_unitario_suelo": 3093.31,
+  "alcaldia_cumplimiento": "GUSTAVO A. MADERO"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 2001,
+  "valor_unitario_suelo": 3102.82,
+  "alcaldia_cumplimiento": "CUAJIMALPA DE MORELOS"
+ },
+ {
+  "uso_construccion": "W",
+  "anio_construccion": 2007,
+  "valor_unitario_suelo": 3105.6,
+  "alcaldia_cumplimiento": "TLALPAN"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1968,
+  "valor_unitario_suelo": 3110.89,
+  "alcaldia_cumplimiento": "VENUSTIANO CARRANZA"
+ },
+ {
+  "uso_construccion": "C",
+  "anio_construccion": 1999,
+  "valor_unitario_suelo": 3111.17,
+  "alcaldia_cumplimiento": "AZCAPOTZALCO"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1994,
+  "valor_unitario_suelo": 3111.93,
+  "alcaldia_cumplimiento": "TLALPAN"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1996,
+  "valor_unitario_suelo": 3123.35,
+  "alcaldia_cumplimiento": "XOCHIMILCO"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 2000,
+  "valor_unitario_suelo": 3123.51,
+  "alcaldia_cumplimiento": "COYOACAN"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1965,
+  "valor_unitario_suelo": 3136.06,
+  "alcaldia_cumplimiento": "GUSTAVO A. MADERO"
+ },
+ {
+  "uso_construccion": "K",
+  "anio_construccion": 1965,
+  "valor_unitario_suelo": 3138.07,
+  "alcaldia_cumplimiento": "GUSTAVO A. MADERO"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 2006,
+  "valor_unitario_suelo": 3151.96,
+  "alcaldia_cumplimiento": "CUAJIMALPA DE MORELOS"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1990,
+  "valor_unitario_suelo": 3156.27,
+  "alcaldia_cumplimiento": "TLALPAN"
+ },
+ {
+  "uso_construccion": "W",
+  "anio_construccion": 2007,
+  "valor_unitario_suelo": 3156.98,
+  "alcaldia_cumplimiento": "TLALPAN"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1978,
+  "valor_unitario_suelo": 3163.32,
+  "alcaldia_cumplimiento": "COYOACAN"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 2006,
+  "valor_unitario_suelo": 3169.78,
+  "alcaldia_cumplimiento": "COYOACAN"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1978,
+  "valor_unitario_suelo": 3185.17,
+  "alcaldia_cumplimiento": "AZCAPOTZALCO"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 2005,
+  "valor_unitario_suelo": 3209.8,
+  "alcaldia_cumplimiento": "BENITO JUAREZ"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 2011,
+  "valor_unitario_suelo": 3210.05,
+  "alcaldia_cumplimiento": "ALVARO OBREGON"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1980,
+  "valor_unitario_suelo": 3235.31,
+  "alcaldia_cumplimiento": "MIGUEL HIDALGO"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 2007,
+  "valor_unitario_suelo": 3235.36,
+  "alcaldia_cumplimiento": "TLALPAN"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1986,
+  "valor_unitario_suelo": 3257.12,
+  "alcaldia_cumplimiento": "IZTAPALAPA"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1984,
+  "valor_unitario_suelo": 3273.75,
+  "alcaldia_cumplimiento": "COYOACAN"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 2001,
+  "valor_unitario_suelo": 3277.95,
+  "alcaldia_cumplimiento": "CUAJIMALPA DE MORELOS"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1984,
+  "valor_unitario_suelo": 3288.51,
+  "alcaldia_cumplimiento": "TLALPAN"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1995,
+  "valor_unitario_suelo": 3289.75,
+  "alcaldia_cumplimiento": "GUSTAVO A. MADERO"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1991,
+  "valor_unitario_suelo": 3298.7,
+  "alcaldia_cumplimiento": "COYOACAN"
+ },
+ {
+  "uso_construccion": "I",
+  "anio_construccion": 2004,
+  "valor_unitario_suelo": 3306.24,
+  "alcaldia_cumplimiento": "TLALPAN"
+ },
+ {
+  "uso_construccion": "W",
+  "anio_construccion": 2007,
+  "valor_unitario_suelo": 3318.85,
+  "alcaldia_cumplimiento": "GUSTAVO A. MADERO"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1965,
+  "valor_unitario_suelo": 3332.37,
+  "alcaldia_cumplimiento": "CUAUHTEMOC"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1975,
+  "valor_unitario_suelo": 3342.96,
+  "alcaldia_cumplimiento": "COYOACAN"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1988,
+  "valor_unitario_suelo": 3345.36,
+  "alcaldia_cumplimiento": "TLALPAN"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1981,
+  "valor_unitario_suelo": 3353.74,
+  "alcaldia_cumplimiento": "IZTACALCO"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1997,
+  "valor_unitario_suelo": 3354.52,
+  "alcaldia_cumplimiento": "COYOACAN"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1988,
+  "valor_unitario_suelo": 3380.56,
+  "alcaldia_cumplimiento": "TLALPAN"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1986,
+  "valor_unitario_suelo": 3381.71,
+  "alcaldia_cumplimiento": "TLALPAN"
+ },
+ {
+  "uso_construccion": "O",
+  "anio_construccion": 2003,
+  "valor_unitario_suelo": 3401.35,
+  "alcaldia_cumplimiento": "CUAJIMALPA DE MORELOS"
+ },
+ {
+  "uso_construccion": "C",
+  "anio_construccion": 1999,
+  "valor_unitario_suelo": 3401.81,
+  "alcaldia_cumplimiento": "CUAJIMALPA DE MORELOS"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1962,
+  "valor_unitario_suelo": 3405.24,
+  "alcaldia_cumplimiento": "CUAUHTEMOC"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1982,
+  "valor_unitario_suelo": 3454.6,
+  "alcaldia_cumplimiento": "XOCHIMILCO"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1975,
+  "valor_unitario_suelo": 3459.79,
+  "alcaldia_cumplimiento": "COYOACAN"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1974,
+  "valor_unitario_suelo": 3460.38,
+  "alcaldia_cumplimiento": "COYOACAN"
+ },
+ {
+  "uso_construccion": "O",
+  "anio_construccion": 1995,
+  "valor_unitario_suelo": 3462.86,
+  "alcaldia_cumplimiento": "AZCAPOTZALCO"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1977,
+  "valor_unitario_suelo": 3506.17,
+  "alcaldia_cumplimiento": "MIGUEL HIDALGO"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1979,
+  "valor_unitario_suelo": 3506.96,
+  "alcaldia_cumplimiento": "IZTAPALAPA"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1966,
+  "valor_unitario_suelo": 3512.34,
+  "alcaldia_cumplimiento": "TLALPAN"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 2016,
+  "valor_unitario_suelo": 3516.1,
+  "alcaldia_cumplimiento": "MIGUEL HIDALGO"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1986,
+  "valor_unitario_suelo": 3519.45,
+  "alcaldia_cumplimiento": "CUAUHTEMOC"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 2003,
+  "valor_unitario_suelo": 3522.39,
+  "alcaldia_cumplimiento": "TLALPAN"
+ },
+ {
+  "uso_construccion": "C",
+  "anio_construccion": 1977,
+  "valor_unitario_suelo": 3527.62,
+  "alcaldia_cumplimiento": "IZTAPALAPA"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 2005,
+  "valor_unitario_suelo": 3532.9,
+  "alcaldia_cumplimiento": "BENITO JUAREZ"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 2014,
+  "valor_unitario_suelo": 3539,
+  "alcaldia_cumplimiento": "ALVARO OBREGON"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1990,
+  "valor_unitario_suelo": 3542.9,
+  "alcaldia_cumplimiento": "COYOACAN"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1971,
+  "valor_unitario_suelo": 3559.54,
+  "alcaldia_cumplimiento": "MAGDALENA CONTRERAS"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1983,
+  "valor_unitario_suelo": 3567.75,
+  "alcaldia_cumplimiento": "MIGUEL HIDALGO"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1970,
+  "valor_unitario_suelo": 3576.95,
+  "alcaldia_cumplimiento": "ALVARO OBREGON"
+ },
+ {
+  "uso_construccion": "Q",
+  "anio_construccion": 1999,
+  "valor_unitario_suelo": 3579.13,
+  "alcaldia_cumplimiento": "IZTACALCO"
+ },
+ {
+  "uso_construccion": "C",
+  "anio_construccion": 1952,
+  "valor_unitario_suelo": 3590.19,
+  "alcaldia_cumplimiento": "IZTACALCO"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1987,
+  "valor_unitario_suelo": 3603.26,
+  "alcaldia_cumplimiento": "IZTAPALAPA"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1966,
+  "valor_unitario_suelo": 3619.89,
+  "alcaldia_cumplimiento": "ALVARO OBREGON"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1974,
+  "valor_unitario_suelo": 3621.08,
+  "alcaldia_cumplimiento": "GUSTAVO A. MADERO"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1998,
+  "valor_unitario_suelo": 3623.25,
+  "alcaldia_cumplimiento": "MAGDALENA CONTRERAS"
+ },
+ {
+  "uso_construccion": "K",
+  "anio_construccion": 1999,
+  "valor_unitario_suelo": 3627.64,
+  "alcaldia_cumplimiento": "ALVARO OBREGON"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 2000,
+  "valor_unitario_suelo": 3639.98,
+  "alcaldia_cumplimiento": "ALVARO OBREGON"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1980,
+  "valor_unitario_suelo": 3642.02,
+  "alcaldia_cumplimiento": "COYOACAN"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1974,
+  "valor_unitario_suelo": 3647.76,
+  "alcaldia_cumplimiento": "MIGUEL HIDALGO"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 2014,
+  "valor_unitario_suelo": 3651.08,
+  "alcaldia_cumplimiento": "TLALPAN"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 2008,
+  "valor_unitario_suelo": 3657.09,
+  "alcaldia_cumplimiento": "VENUSTIANO CARRANZA"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1983,
+  "valor_unitario_suelo": 3657.81,
+  "alcaldia_cumplimiento": "IZTACALCO"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1980,
+  "valor_unitario_suelo": 3660.88,
+  "alcaldia_cumplimiento": "IZTAPALAPA"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1980,
+  "valor_unitario_suelo": 3661.57,
+  "alcaldia_cumplimiento": "GUSTAVO A. MADERO"
+ },
+ {
+  "uso_construccion": "C",
+  "anio_construccion": 1993,
+  "valor_unitario_suelo": 3682.64,
+  "alcaldia_cumplimiento": "MIGUEL HIDALGO"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 2014,
+  "valor_unitario_suelo": 3683.52,
+  "alcaldia_cumplimiento": "BENITO JUAREZ"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1997,
+  "valor_unitario_suelo": 3707.48,
+  "alcaldia_cumplimiento": "TLALPAN"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 2018,
+  "valor_unitario_suelo": 3722.43,
+  "alcaldia_cumplimiento": "AZCAPOTZALCO"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1972,
+  "valor_unitario_suelo": 3723.95,
+  "alcaldia_cumplimiento": "BENITO JUAREZ"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1988,
+  "valor_unitario_suelo": 3732.67,
+  "alcaldia_cumplimiento": "TLALPAN"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1984,
+  "valor_unitario_suelo": 3743.11,
+  "alcaldia_cumplimiento": "XOCHIMILCO"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1981,
+  "valor_unitario_suelo": 3744.33,
+  "alcaldia_cumplimiento": "MIGUEL HIDALGO"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1981,
+  "valor_unitario_suelo": 3764.91,
+  "alcaldia_cumplimiento": "COYOACAN"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 2018,
+  "valor_unitario_suelo": 3769.48,
+  "alcaldia_cumplimiento": "VENUSTIANO CARRANZA"
+ },
+ {
+  "uso_construccion": "O",
+  "anio_construccion": 1996,
+  "valor_unitario_suelo": 3770.71,
+  "alcaldia_cumplimiento": "COYOACAN"
+ },
+ {
+  "uso_construccion": "C",
+  "anio_construccion": 1975,
+  "valor_unitario_suelo": 3783.73,
+  "alcaldia_cumplimiento": "COYOACAN"
+ },
+ {
+  "uso_construccion": "Q",
+  "anio_construccion": 1976,
+  "valor_unitario_suelo": 3784.56,
+  "alcaldia_cumplimiento": "CUAUHTEMOC"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1987,
+  "valor_unitario_suelo": 3801.82,
+  "alcaldia_cumplimiento": "CUAUHTEMOC"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1971,
+  "valor_unitario_suelo": 3805.5,
+  "alcaldia_cumplimiento": "VENUSTIANO CARRANZA"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1997,
+  "valor_unitario_suelo": 3809.46,
+  "alcaldia_cumplimiento": "GUSTAVO A. MADERO"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1966,
+  "valor_unitario_suelo": 3818.45,
+  "alcaldia_cumplimiento": "CUAUHTEMOC"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1986,
+  "valor_unitario_suelo": 3822.62,
+  "alcaldia_cumplimiento": "IZTAPALAPA"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1989,
+  "valor_unitario_suelo": 3833.92,
+  "alcaldia_cumplimiento": "ALVARO OBREGON"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1966,
+  "valor_unitario_suelo": 3857.89,
+  "alcaldia_cumplimiento": "VENUSTIANO CARRANZA"
+ },
+ {
+  "uso_construccion": "E",
+  "anio_construccion": 2011,
+  "valor_unitario_suelo": 3859.5,
+  "alcaldia_cumplimiento": "AZCAPOTZALCO"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1996,
+  "valor_unitario_suelo": 3863.73,
+  "alcaldia_cumplimiento": "COYOACAN"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1992,
+  "valor_unitario_suelo": 3873.32,
+  "alcaldia_cumplimiento": "ALVARO OBREGON"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 2005,
+  "valor_unitario_suelo": 3894.57,
+  "alcaldia_cumplimiento": "BENITO JUAREZ"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1998,
+  "valor_unitario_suelo": 3896.52,
+  "alcaldia_cumplimiento": "IZTAPALAPA"
+ },
+ {
+  "uso_construccion": "O",
+  "anio_construccion": 1999,
+  "valor_unitario_suelo": 3912.11,
+  "alcaldia_cumplimiento": "COYOACAN"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1971,
+  "valor_unitario_suelo": 3915.68,
+  "alcaldia_cumplimiento": "CUAUHTEMOC"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 2005,
+  "valor_unitario_suelo": 3934.82,
+  "alcaldia_cumplimiento": "VENUSTIANO CARRANZA"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 2017,
+  "valor_unitario_suelo": 3940.72,
+  "alcaldia_cumplimiento": "AZCAPOTZALCO"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1986,
+  "valor_unitario_suelo": 3944.64,
+  "alcaldia_cumplimiento": "TLALPAN"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1995,
+  "valor_unitario_suelo": 3946.77,
+  "alcaldia_cumplimiento": "COYOACAN"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1966,
+  "valor_unitario_suelo": 3952.99,
+  "alcaldia_cumplimiento": "GUSTAVO A. MADERO"
+ },
+ {
+  "uso_construccion": "K",
+  "anio_construccion": 2005,
+  "valor_unitario_suelo": 3955.57,
+  "alcaldia_cumplimiento": "CUAJIMALPA DE MORELOS"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1971,
+  "valor_unitario_suelo": 3956.34,
+  "alcaldia_cumplimiento": "ALVARO OBREGON"
+ },
+ {
+  "uso_construccion": "C",
+  "anio_construccion": 1989,
+  "valor_unitario_suelo": 3975.77,
+  "alcaldia_cumplimiento": "XOCHIMILCO"
+ },
+ {
+  "uso_construccion": "D",
+  "anio_construccion": 1979,
+  "valor_unitario_suelo": 3985.7,
+  "alcaldia_cumplimiento": "MAGDALENA CONTRERAS"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1965,
+  "valor_unitario_suelo": 3991.51,
+  "alcaldia_cumplimiento": "COYOACAN"
+ },
+ {
+  "uso_construccion": "A",
+  "anio_construccion": 1973,
+  "valor_unitario_suelo": 3997.04,
+  "alcaldia_cumplimiento": "COYOACAN"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1966,
+  "valor_unitario_suelo": 4004.53,
+  "alcaldia_cumplimiento": "ALVARO OBREGON"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 2001,
+  "valor_unitario_suelo": 4008.37,
+  "alcaldia_cumplimiento": "ALVARO OBREGON"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1967,
+  "valor_unitario_suelo": 4012.54,
+  "alcaldia_cumplimiento": "CUAUHTEMOC"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1989,
+  "valor_unitario_suelo": 4018.38,
+  "alcaldia_cumplimiento": "TLALPAN"
+ },
+ {
+  "uso_construccion": "PE",
+  "anio_construccion": 1998,
+  "valor_unitario_suelo": 4043.33,
+  "alcaldia_cumplimiento": "BENITO JUAREZ"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1971,
+  "valor_unitario_suelo": 4048.69,
+  "alcaldia_cumplimiento": "ALVARO OBREGON"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1985,
+  "valor_unitario_suelo": 4054.03,
+  "alcaldia_cumplimiento": "COYOACAN"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 2007,
+  "valor_unitario_suelo": 4055.08,
+  "alcaldia_cumplimiento": "ALVARO OBREGON"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 2005,
+  "valor_unitario_suelo": 4192.97,
+  "alcaldia_cumplimiento": "COYOACAN"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 2005,
+  "valor_unitario_suelo": 4193.27,
+  "alcaldia_cumplimiento": "BENITO JUAREZ"
+ },
+ {
+  "uso_construccion": "K",
+  "anio_construccion": 1998,
+  "valor_unitario_suelo": 4214.41,
+  "alcaldia_cumplimiento": "GUSTAVO A. MADERO"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 2001,
+  "valor_unitario_suelo": 4215.52,
+  "alcaldia_cumplimiento": "MIGUEL HIDALGO"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1992,
+  "valor_unitario_suelo": 4226.09,
+  "alcaldia_cumplimiento": "TLALPAN"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1978,
+  "valor_unitario_suelo": 4234.8,
+  "alcaldia_cumplimiento": "BENITO JUAREZ"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 2007,
+  "valor_unitario_suelo": 4255.57,
+  "alcaldia_cumplimiento": "BENITO JUAREZ"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1976,
+  "valor_unitario_suelo": 4261.64,
+  "alcaldia_cumplimiento": "COYOACAN"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1978,
+  "valor_unitario_suelo": 4265.49,
+  "alcaldia_cumplimiento": "ALVARO OBREGON"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1982,
+  "valor_unitario_suelo": 4268.85,
+  "alcaldia_cumplimiento": "COYOACAN"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 2007,
+  "valor_unitario_suelo": 4275.11,
+  "alcaldia_cumplimiento": "CUAUHTEMOC"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1984,
+  "valor_unitario_suelo": 4275.98,
+  "alcaldia_cumplimiento": "ALVARO OBREGON"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1971,
+  "valor_unitario_suelo": 4288.61,
+  "alcaldia_cumplimiento": "CUAUHTEMOC"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 2000,
+  "valor_unitario_suelo": 4293.65,
+  "alcaldia_cumplimiento": "COYOACAN"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1965,
+  "valor_unitario_suelo": 4297.67,
+  "alcaldia_cumplimiento": "AZCAPOTZALCO"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1986,
+  "valor_unitario_suelo": 4299.49,
+  "alcaldia_cumplimiento": "TLALPAN"
+ },
+ {
+  "uso_construccion": "C",
+  "anio_construccion": 1996,
+  "valor_unitario_suelo": 4299.77,
+  "alcaldia_cumplimiento": "GUSTAVO A. MADERO"
+ },
+ {
+  "uso_construccion": "I",
+  "anio_construccion": 1994,
+  "valor_unitario_suelo": 4299.89,
+  "alcaldia_cumplimiento": "ALVARO OBREGON"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1991,
+  "valor_unitario_suelo": 4307.32,
+  "alcaldia_cumplimiento": "COYOACAN"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1968,
+  "valor_unitario_suelo": 4323.3,
+  "alcaldia_cumplimiento": "COYOACAN"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1966,
+  "valor_unitario_suelo": 4324.23,
+  "alcaldia_cumplimiento": "CUAUHTEMOC"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1983,
+  "valor_unitario_suelo": 4356.91,
+  "alcaldia_cumplimiento": "COYOACAN"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 2011,
+  "valor_unitario_suelo": 4373.05,
+  "alcaldia_cumplimiento": "COYOACAN"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1975,
+  "valor_unitario_suelo": 4394.76,
+  "alcaldia_cumplimiento": "TLALPAN"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 2005,
+  "valor_unitario_suelo": 4428.41,
+  "alcaldia_cumplimiento": "ALVARO OBREGON"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1991,
+  "valor_unitario_suelo": 4431.66,
+  "alcaldia_cumplimiento": "GUSTAVO A. MADERO"
+ },
+ {
+  "uso_construccion": "I",
+  "anio_construccion": 1993,
+  "valor_unitario_suelo": 4435.93,
+  "alcaldia_cumplimiento": "IZTAPALAPA"
+ },
+ {
+  "uso_construccion": "O",
+  "anio_construccion": 1997,
+  "valor_unitario_suelo": 4436.72,
+  "alcaldia_cumplimiento": "GUSTAVO A. MADERO"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1966,
+  "valor_unitario_suelo": 4494.26,
+  "alcaldia_cumplimiento": "MIGUEL HIDALGO"
+ },
+ {
+  "uso_construccion": "W",
+  "anio_construccion": 2007,
+  "valor_unitario_suelo": 4499.73,
+  "alcaldia_cumplimiento": "CUAUHTEMOC"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1966,
+  "valor_unitario_suelo": 4519.34,
+  "alcaldia_cumplimiento": "CUAUHTEMOC"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1986,
+  "valor_unitario_suelo": 4538.98,
+  "alcaldia_cumplimiento": "IZTAPALAPA"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1971,
+  "valor_unitario_suelo": 4588.07,
+  "alcaldia_cumplimiento": "MIGUEL HIDALGO"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 2011,
+  "valor_unitario_suelo": 4637.26,
+  "alcaldia_cumplimiento": "BENITO JUAREZ"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1989,
+  "valor_unitario_suelo": 4670.28,
+  "alcaldia_cumplimiento": "TLALPAN"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1966,
+  "valor_unitario_suelo": 4674.34,
+  "alcaldia_cumplimiento": "COYOACAN"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1975,
+  "valor_unitario_suelo": 4675.73,
+  "alcaldia_cumplimiento": "ALVARO OBREGON"
+ },
+ {
+  "uso_construccion": "O",
+  "anio_construccion": 1966,
+  "valor_unitario_suelo": 4700.64,
+  "alcaldia_cumplimiento": "VENUSTIANO CARRANZA"
+ },
+ {
+  "uso_construccion": "C",
+  "anio_construccion": 2017,
+  "valor_unitario_suelo": 4704.26,
+  "alcaldia_cumplimiento": "COYOACAN"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1982,
+  "valor_unitario_suelo": 4778.68,
+  "alcaldia_cumplimiento": "COYOACAN"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1970,
+  "valor_unitario_suelo": 4788.14,
+  "alcaldia_cumplimiento": "CUAUHTEMOC"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1966,
+  "valor_unitario_suelo": 4789.09,
+  "alcaldia_cumplimiento": "CUAUHTEMOC"
+ },
+ {
+  "uso_construccion": "C",
+  "anio_construccion": 1996,
+  "valor_unitario_suelo": 4798.73,
+  "alcaldia_cumplimiento": "GUSTAVO A. MADERO"
+ },
+ {
+  "uso_construccion": "W",
+  "anio_construccion": 2007,
+  "valor_unitario_suelo": 4808.88,
+  "alcaldia_cumplimiento": "COYOACAN"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1985,
+  "valor_unitario_suelo": 4879.11,
+  "alcaldia_cumplimiento": "MAGDALENA CONTRERAS"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1987,
+  "valor_unitario_suelo": 4897.72,
+  "alcaldia_cumplimiento": "TLALPAN"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 2015,
+  "valor_unitario_suelo": 4905.94,
+  "alcaldia_cumplimiento": "BENITO JUAREZ"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1982,
+  "valor_unitario_suelo": 4927.16,
+  "alcaldia_cumplimiento": "COYOACAN"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1971,
+  "valor_unitario_suelo": 4932.53,
+  "alcaldia_cumplimiento": "CUAUHTEMOC"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1985,
+  "valor_unitario_suelo": 4948.51,
+  "alcaldia_cumplimiento": "COYOACAN"
+ },
+ {
+  "uso_construccion": "K",
+  "anio_construccion": 1996,
+  "valor_unitario_suelo": 4952.23,
+  "alcaldia_cumplimiento": "TLALPAN"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1998,
+  "valor_unitario_suelo": 4954.41,
+  "alcaldia_cumplimiento": "TLALPAN"
+ },
+ {
+  "uso_construccion": "A",
+  "anio_construccion": 1980,
+  "valor_unitario_suelo": 4956.66,
+  "alcaldia_cumplimiento": "VENUSTIANO CARRANZA"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 2004,
+  "valor_unitario_suelo": 4971.51,
+  "alcaldia_cumplimiento": "BENITO JUAREZ"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1972,
+  "valor_unitario_suelo": 4982.41,
+  "alcaldia_cumplimiento": "BENITO JUAREZ"
+ },
+ {
+  "uso_construccion": "PE",
+  "anio_construccion": 1972,
+  "valor_unitario_suelo": 5022.42,
+  "alcaldia_cumplimiento": "BENITO JUAREZ"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 2003,
+  "valor_unitario_suelo": 5026.49,
+  "alcaldia_cumplimiento": "CUAUHTEMOC"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1986,
+  "valor_unitario_suelo": 5054.55,
+  "alcaldia_cumplimiento": "CUAUHTEMOC"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1981,
+  "valor_unitario_suelo": 5084.39,
+  "alcaldia_cumplimiento": "CUAUHTEMOC"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1992,
+  "valor_unitario_suelo": 5086.32,
+  "alcaldia_cumplimiento": "ALVARO OBREGON"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1979,
+  "valor_unitario_suelo": 5088.26,
+  "alcaldia_cumplimiento": "COYOACAN"
+ },
+ {
+  "uso_construccion": "C",
+  "anio_construccion": 1980,
+  "valor_unitario_suelo": 5106.63,
+  "alcaldia_cumplimiento": "GUSTAVO A. MADERO"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1966,
+  "valor_unitario_suelo": 5107.95,
+  "alcaldia_cumplimiento": "MIGUEL HIDALGO"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1997,
+  "valor_unitario_suelo": 5112.97,
+  "alcaldia_cumplimiento": "COYOACAN"
+ },
+ {
+  "uso_construccion": "O",
+  "anio_construccion": 1997,
+  "valor_unitario_suelo": 5120.72,
+  "alcaldia_cumplimiento": "TLALPAN"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1967,
+  "valor_unitario_suelo": 5152.94,
+  "alcaldia_cumplimiento": "BENITO JUAREZ"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1978,
+  "valor_unitario_suelo": 5171.96,
+  "alcaldia_cumplimiento": "GUSTAVO A. MADERO"
+ },
+ {
+  "uso_construccion": "W",
+  "anio_construccion": 2007,
+  "valor_unitario_suelo": 5198.11,
+  "alcaldia_cumplimiento": "COYOACAN"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1988,
+  "valor_unitario_suelo": 5201.44,
+  "alcaldia_cumplimiento": "COYOACAN"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1966,
+  "valor_unitario_suelo": 5204.07,
+  "alcaldia_cumplimiento": "CUAUHTEMOC"
+ },
+ {
+  "uso_construccion": "K",
+  "anio_construccion": 1990,
+  "valor_unitario_suelo": 5210.05,
+  "alcaldia_cumplimiento": "GUSTAVO A. MADERO"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1975,
+  "valor_unitario_suelo": 5268.74,
+  "alcaldia_cumplimiento": "ALVARO OBREGON"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1990,
+  "valor_unitario_suelo": 5282.13,
+  "alcaldia_cumplimiento": "TLALPAN"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 2008,
+  "valor_unitario_suelo": 5282.21,
+  "alcaldia_cumplimiento": "BENITO JUAREZ"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1990,
+  "valor_unitario_suelo": 5298.84,
+  "alcaldia_cumplimiento": "COYOACAN"
+ },
+ {
+  "uso_construccion": "I",
+  "anio_construccion": 2004,
+  "valor_unitario_suelo": 5334.54,
+  "alcaldia_cumplimiento": "BENITO JUAREZ"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1978,
+  "valor_unitario_suelo": 5335.35,
+  "alcaldia_cumplimiento": "CUAUHTEMOC"
+ },
+ {
+  "uso_construccion": "O",
+  "anio_construccion": 1972,
+  "valor_unitario_suelo": 5340.32,
+  "alcaldia_cumplimiento": "BENITO JUAREZ"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 2006,
+  "valor_unitario_suelo": 5385.3,
+  "alcaldia_cumplimiento": "CUAUHTEMOC"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1999,
+  "valor_unitario_suelo": 5389.03,
+  "alcaldia_cumplimiento": "COYOACAN"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1981,
+  "valor_unitario_suelo": 5413.73,
+  "alcaldia_cumplimiento": "AZCAPOTZALCO"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1966,
+  "valor_unitario_suelo": 5445.65,
+  "alcaldia_cumplimiento": "COYOACAN"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1995,
+  "valor_unitario_suelo": 5447.17,
+  "alcaldia_cumplimiento": "CUAUHTEMOC"
+ },
+ {
+  "uso_construccion": "A",
+  "anio_construccion": 1970,
+  "valor_unitario_suelo": 5449.59,
+  "alcaldia_cumplimiento": "CUAUHTEMOC"
+ },
+ {
+  "uso_construccion": "A",
+  "anio_construccion": 1997,
+  "valor_unitario_suelo": 5483.8,
+  "alcaldia_cumplimiento": "CUAJIMALPA DE MORELOS"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1979,
+  "valor_unitario_suelo": 5504.83,
+  "alcaldia_cumplimiento": "MIGUEL HIDALGO"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1981,
+  "valor_unitario_suelo": 5506.88,
+  "alcaldia_cumplimiento": "MIGUEL HIDALGO"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1999,
+  "valor_unitario_suelo": 5520.67,
+  "alcaldia_cumplimiento": "COYOACAN"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1986,
+  "valor_unitario_suelo": 5563.97,
+  "alcaldia_cumplimiento": "COYOACAN"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1995,
+  "valor_unitario_suelo": 5578.41,
+  "alcaldia_cumplimiento": "ALVARO OBREGON"
+ },
+ {
+  "uso_construccion": "C",
+  "anio_construccion": 1996,
+  "valor_unitario_suelo": 5578.42,
+  "alcaldia_cumplimiento": "ALVARO OBREGON"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1969,
+  "valor_unitario_suelo": 5600.98,
+  "alcaldia_cumplimiento": "TLALPAN"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1997,
+  "valor_unitario_suelo": 5643.13,
+  "alcaldia_cumplimiento": "COYOACAN"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 2015,
+  "valor_unitario_suelo": 5692.95,
+  "alcaldia_cumplimiento": "CUAUHTEMOC"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1982,
+  "valor_unitario_suelo": 5721.1,
+  "alcaldia_cumplimiento": "COYOACAN"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1971,
+  "valor_unitario_suelo": 5773.88,
+  "alcaldia_cumplimiento": "BENITO JUAREZ"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1960,
+  "valor_unitario_suelo": 5775.94,
+  "alcaldia_cumplimiento": "ALVARO OBREGON"
+ },
+ {
+  "uso_construccion": "O",
+  "anio_construccion": 1966,
+  "valor_unitario_suelo": 5779.55,
+  "alcaldia_cumplimiento": "MIGUEL HIDALGO"
+ },
+ {
+  "uso_construccion": "Q",
+  "anio_construccion": 1990,
+  "valor_unitario_suelo": 5790.34,
+  "alcaldia_cumplimiento": "COYOACAN"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1974,
+  "valor_unitario_suelo": 5921.31,
+  "alcaldia_cumplimiento": "VENUSTIANO CARRANZA"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1988,
+  "valor_unitario_suelo": 5933.81,
+  "alcaldia_cumplimiento": "COYOACAN"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1989,
+  "valor_unitario_suelo": 5934.58,
+  "alcaldia_cumplimiento": "TLALPAN"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1963,
+  "valor_unitario_suelo": 5953.89,
+  "alcaldia_cumplimiento": "BENITO JUAREZ"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1976,
+  "valor_unitario_suelo": 5970.23,
+  "alcaldia_cumplimiento": "COYOACAN"
+ },
+ {
+  "uso_construccion": "K",
+  "anio_construccion": 1987,
+  "valor_unitario_suelo": 5988.21,
+  "alcaldia_cumplimiento": "COYOACAN"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1983,
+  "valor_unitario_suelo": 5993.45,
+  "alcaldia_cumplimiento": "MIGUEL HIDALGO"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 2006,
+  "valor_unitario_suelo": 6016.83,
+  "alcaldia_cumplimiento": "MIGUEL HIDALGO"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 2018,
+  "valor_unitario_suelo": 6027.81,
+  "alcaldia_cumplimiento": "BENITO JUAREZ"
+ },
+ {
+  "uso_construccion": "O",
+  "anio_construccion": 1961,
+  "valor_unitario_suelo": 6031.54,
+  "alcaldia_cumplimiento": "CUAUHTEMOC"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1997,
+  "valor_unitario_suelo": 6041.09,
+  "alcaldia_cumplimiento": "TLALPAN"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1970,
+  "valor_unitario_suelo": 6105.39,
+  "alcaldia_cumplimiento": "MIGUEL HIDALGO"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1971,
+  "valor_unitario_suelo": 6160.79,
+  "alcaldia_cumplimiento": "CUAUHTEMOC"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1997,
+  "valor_unitario_suelo": 6180.97,
+  "alcaldia_cumplimiento": "ALVARO OBREGON"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 2004,
+  "valor_unitario_suelo": 6251.96,
+  "alcaldia_cumplimiento": "CUAUHTEMOC"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1973,
+  "valor_unitario_suelo": 6260.32,
+  "alcaldia_cumplimiento": "COYOACAN"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1968,
+  "valor_unitario_suelo": 6272.72,
+  "alcaldia_cumplimiento": "MIGUEL HIDALGO"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1966,
+  "valor_unitario_suelo": 6331.83,
+  "alcaldia_cumplimiento": "CUAUHTEMOC"
+ },
+ {
+  "uso_construccion": "A",
+  "anio_construccion": 1996,
+  "valor_unitario_suelo": 6333.94,
+  "alcaldia_cumplimiento": "ALVARO OBREGON"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1970,
+  "valor_unitario_suelo": 6350.81,
+  "alcaldia_cumplimiento": "ALVARO OBREGON"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 2001,
+  "valor_unitario_suelo": 6380.95,
+  "alcaldia_cumplimiento": "MAGDALENA CONTRERAS"
+ },
+ {
+  "uso_construccion": "C",
+  "anio_construccion": 1966,
+  "valor_unitario_suelo": 6470.8,
+  "alcaldia_cumplimiento": "COYOACAN"
+ },
+ {
+  "uso_construccion": "O",
+  "anio_construccion": 1992,
+  "valor_unitario_suelo": 6496.92,
+  "alcaldia_cumplimiento": "CUAUHTEMOC"
+ },
+ {
+  "uso_construccion": "C",
+  "anio_construccion": 1973,
+  "valor_unitario_suelo": 6529.94,
+  "alcaldia_cumplimiento": "COYOACAN"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1975,
+  "valor_unitario_suelo": 6541.24,
+  "alcaldia_cumplimiento": "ALVARO OBREGON"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1983,
+  "valor_unitario_suelo": 6555.5,
+  "alcaldia_cumplimiento": "CUAUHTEMOC"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1975,
+  "valor_unitario_suelo": 6598.5,
+  "alcaldia_cumplimiento": "COYOACAN"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1987,
+  "valor_unitario_suelo": 6603.27,
+  "alcaldia_cumplimiento": "CUAUHTEMOC"
+ },
+ {
+  "uso_construccion": "C",
+  "anio_construccion": 1970,
+  "valor_unitario_suelo": 6608.07,
+  "alcaldia_cumplimiento": "CUAUHTEMOC"
+ },
+ {
+  "uso_construccion": "J",
+  "anio_construccion": 1975,
+  "valor_unitario_suelo": 6670.27,
+  "alcaldia_cumplimiento": "MIGUEL HIDALGO"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1966,
+  "valor_unitario_suelo": 6690.74,
+  "alcaldia_cumplimiento": "CUAUHTEMOC"
+ },
+ {
+  "uso_construccion": "C",
+  "anio_construccion": 1974,
+  "valor_unitario_suelo": 6720.87,
+  "alcaldia_cumplimiento": "CUAUHTEMOC"
+ },
+ {
+  "uso_construccion": "A",
+  "anio_construccion": 1972,
+  "valor_unitario_suelo": 6721.56,
+  "alcaldia_cumplimiento": "CUAUHTEMOC"
+ },
+ {
+  "uso_construccion": "K",
+  "anio_construccion": 1970,
+  "valor_unitario_suelo": 6727.15,
+  "alcaldia_cumplimiento": "BENITO JUAREZ"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 2005,
+  "valor_unitario_suelo": 6734.41,
+  "alcaldia_cumplimiento": "BENITO JUAREZ"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1968,
+  "valor_unitario_suelo": 6836.53,
+  "alcaldia_cumplimiento": "BENITO JUAREZ"
+ },
+ {
+  "uso_construccion": "K",
+  "anio_construccion": 1983,
+  "valor_unitario_suelo": 6837.83,
+  "alcaldia_cumplimiento": "COYOACAN"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1989,
+  "valor_unitario_suelo": 6907.86,
+  "alcaldia_cumplimiento": "CUAJIMALPA DE MORELOS"
+ },
+ {
+  "uso_construccion": "PE",
+  "anio_construccion": 2007,
+  "valor_unitario_suelo": 6907.87,
+  "alcaldia_cumplimiento": "CUAJIMALPA DE MORELOS"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1999,
+  "valor_unitario_suelo": 6909.11,
+  "alcaldia_cumplimiento": "CUAJIMALPA DE MORELOS"
+ },
+ {
+  "uso_construccion": "C",
+  "anio_construccion": 2003,
+  "valor_unitario_suelo": 6934.38,
+  "alcaldia_cumplimiento": "MIGUEL HIDALGO"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1977,
+  "valor_unitario_suelo": 6954.33,
+  "alcaldia_cumplimiento": "COYOACAN"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 2014,
+  "valor_unitario_suelo": 6956.5,
+  "alcaldia_cumplimiento": "BENITO JUAREZ"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1966,
+  "valor_unitario_suelo": 6979.4,
+  "alcaldia_cumplimiento": "BENITO JUAREZ"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1984,
+  "valor_unitario_suelo": 6996.25,
+  "alcaldia_cumplimiento": "BENITO JUAREZ"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 2010,
+  "valor_unitario_suelo": 7042.52,
+  "alcaldia_cumplimiento": "BENITO JUAREZ"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1973,
+  "valor_unitario_suelo": 7118.38,
+  "alcaldia_cumplimiento": "ALVARO OBREGON"
+ },
+ {
+  "uso_construccion": "PE",
+  "anio_construccion": 1968,
+  "valor_unitario_suelo": 7134.86,
+  "alcaldia_cumplimiento": "COYOACAN"
+ },
+ {
+  "uso_construccion": "PE",
+  "anio_construccion": 2016,
+  "valor_unitario_suelo": 7182.41,
+  "alcaldia_cumplimiento": "CUAUHTEMOC"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1984,
+  "valor_unitario_suelo": 7213.66,
+  "alcaldia_cumplimiento": "TLALPAN"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1971,
+  "valor_unitario_suelo": 7214.65,
+  "alcaldia_cumplimiento": "BENITO JUAREZ"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1976,
+  "valor_unitario_suelo": 7234.94,
+  "alcaldia_cumplimiento": "BENITO JUAREZ"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1975,
+  "valor_unitario_suelo": 7238.16,
+  "alcaldia_cumplimiento": "ALVARO OBREGON"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1978,
+  "valor_unitario_suelo": 7251.49,
+  "alcaldia_cumplimiento": "ALVARO OBREGON"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1966,
+  "valor_unitario_suelo": 7287.76,
+  "alcaldia_cumplimiento": "ALVARO OBREGON"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1971,
+  "valor_unitario_suelo": 7290.62,
+  "alcaldia_cumplimiento": "MIGUEL HIDALGO"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 2005,
+  "valor_unitario_suelo": 7296.16,
+  "alcaldia_cumplimiento": "BENITO JUAREZ"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 2018,
+  "valor_unitario_suelo": 7303.93,
+  "alcaldia_cumplimiento": "BENITO JUAREZ"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1966,
+  "valor_unitario_suelo": 7335.71,
+  "alcaldia_cumplimiento": "BENITO JUAREZ"
+ },
+ {
+  "uso_construccion": "K",
+  "anio_construccion": 2000,
+  "valor_unitario_suelo": 7363.86,
+  "alcaldia_cumplimiento": "MIGUEL HIDALGO"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1995,
+  "valor_unitario_suelo": 7393.62,
+  "alcaldia_cumplimiento": "ALVARO OBREGON"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 2011,
+  "valor_unitario_suelo": 7451.33,
+  "alcaldia_cumplimiento": "CUAUHTEMOC"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1966,
+  "valor_unitario_suelo": 7487.42,
+  "alcaldia_cumplimiento": "COYOACAN"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1983,
+  "valor_unitario_suelo": 7520.25,
+  "alcaldia_cumplimiento": "ALVARO OBREGON"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1984,
+  "valor_unitario_suelo": 7580.38,
+  "alcaldia_cumplimiento": "COYOACAN"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1965,
+  "valor_unitario_suelo": 7595.88,
+  "alcaldia_cumplimiento": "BENITO JUAREZ"
+ },
+ {
+  "uso_construccion": "PE",
+  "anio_construccion": 1991,
+  "valor_unitario_suelo": 7644.17,
+  "alcaldia_cumplimiento": "ALVARO OBREGON"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1976,
+  "valor_unitario_suelo": 7808.76,
+  "alcaldia_cumplimiento": "MIGUEL HIDALGO"
+ },
+ {
+  "uso_construccion": "K",
+  "anio_construccion": 1997,
+  "valor_unitario_suelo": 7811.74,
+  "alcaldia_cumplimiento": "MIGUEL HIDALGO"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1972,
+  "valor_unitario_suelo": 8007.01,
+  "alcaldia_cumplimiento": "CUAUHTEMOC"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1970,
+  "valor_unitario_suelo": 8019.74,
+  "alcaldia_cumplimiento": "TLALPAN"
+ },
+ {
+  "uso_construccion": "C",
+  "anio_construccion": 1997,
+  "valor_unitario_suelo": 8072.57,
+  "alcaldia_cumplimiento": "BENITO JUAREZ"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1972,
+  "valor_unitario_suelo": 8095.63,
+  "alcaldia_cumplimiento": "CUAUHTEMOC"
+ },
+ {
+  "uso_construccion": "W",
+  "anio_construccion": 2007,
+  "valor_unitario_suelo": 8133.11,
+  "alcaldia_cumplimiento": "ALVARO OBREGON"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1965,
+  "valor_unitario_suelo": 8184.1,
+  "alcaldia_cumplimiento": "CUAUHTEMOC"
+ },
+ {
+  "uso_construccion": "O",
+  "anio_construccion": 1966,
+  "valor_unitario_suelo": 8275.97,
+  "alcaldia_cumplimiento": "CUAUHTEMOC"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 2013,
+  "valor_unitario_suelo": 8308.99,
+  "alcaldia_cumplimiento": "ALVARO OBREGON"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1987,
+  "valor_unitario_suelo": 8368.59,
+  "alcaldia_cumplimiento": "BENITO JUAREZ"
+ },
+ {
+  "uso_construccion": "C",
+  "anio_construccion": 1966,
+  "valor_unitario_suelo": 8428.25,
+  "alcaldia_cumplimiento": "CUAUHTEMOC"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1973,
+  "valor_unitario_suelo": 8436.29,
+  "alcaldia_cumplimiento": "MIGUEL HIDALGO"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 2013,
+  "valor_unitario_suelo": 8455.18,
+  "alcaldia_cumplimiento": "CUAJIMALPA DE MORELOS"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1997,
+  "valor_unitario_suelo": 8467.08,
+  "alcaldia_cumplimiento": "CUAUHTEMOC"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1999,
+  "valor_unitario_suelo": 8474.81,
+  "alcaldia_cumplimiento": "TLALPAN"
+ },
+ {
+  "uso_construccion": "PE",
+  "anio_construccion": 1972,
+  "valor_unitario_suelo": 8611.91,
+  "alcaldia_cumplimiento": "BENITO JUAREZ"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 2003,
+  "valor_unitario_suelo": 8641.42,
+  "alcaldia_cumplimiento": "CUAJIMALPA DE MORELOS"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1993,
+  "valor_unitario_suelo": 8739.84,
+  "alcaldia_cumplimiento": "BENITO JUAREZ"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1996,
+  "valor_unitario_suelo": 8765.22,
+  "alcaldia_cumplimiento": "ALVARO OBREGON"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1966,
+  "valor_unitario_suelo": 8786.68,
+  "alcaldia_cumplimiento": "ALVARO OBREGON"
+ },
+ {
+  "uso_construccion": "A",
+  "anio_construccion": 2008,
+  "valor_unitario_suelo": 8830.61,
+  "alcaldia_cumplimiento": "ALVARO OBREGON"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1973,
+  "valor_unitario_suelo": 8916.96,
+  "alcaldia_cumplimiento": "TLALPAN"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1968,
+  "valor_unitario_suelo": 8943.11,
+  "alcaldia_cumplimiento": "MIGUEL HIDALGO"
+ },
+ {
+  "uso_construccion": "O",
+  "anio_construccion": 2001,
+  "valor_unitario_suelo": 9047.58,
+  "alcaldia_cumplimiento": "CUAUHTEMOC"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1976,
+  "valor_unitario_suelo": 9185.15,
+  "alcaldia_cumplimiento": "COYOACAN"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1996,
+  "valor_unitario_suelo": 9190.85,
+  "alcaldia_cumplimiento": "BENITO JUAREZ"
+ },
+ {
+  "uso_construccion": "C",
+  "anio_construccion": 2012,
+  "valor_unitario_suelo": 9262.46,
+  "alcaldia_cumplimiento": "ALVARO OBREGON"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 2004,
+  "valor_unitario_suelo": 9297.39,
+  "alcaldia_cumplimiento": "MIGUEL HIDALGO"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1967,
+  "valor_unitario_suelo": 9392.38,
+  "alcaldia_cumplimiento": "MIGUEL HIDALGO"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 2002,
+  "valor_unitario_suelo": 9402.07,
+  "alcaldia_cumplimiento": "ALVARO OBREGON"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 2005,
+  "valor_unitario_suelo": 9421.14,
+  "alcaldia_cumplimiento": "CUAUHTEMOC"
+ },
+ {
+  "uso_construccion": "K",
+  "anio_construccion": 1985,
+  "valor_unitario_suelo": 9665.56,
+  "alcaldia_cumplimiento": "MIGUEL HIDALGO"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1967,
+  "valor_unitario_suelo": 9672.95,
+  "alcaldia_cumplimiento": "BENITO JUAREZ"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1986,
+  "valor_unitario_suelo": 9717.54,
+  "alcaldia_cumplimiento": "TLALPAN"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1980,
+  "valor_unitario_suelo": 9723.98,
+  "alcaldia_cumplimiento": "MIGUEL HIDALGO"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1968,
+  "valor_unitario_suelo": 9757.33,
+  "alcaldia_cumplimiento": "TLALPAN"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 2009,
+  "valor_unitario_suelo": 9809.51,
+  "alcaldia_cumplimiento": "CUAUHTEMOC"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 2003,
+  "valor_unitario_suelo": 9836.58,
+  "alcaldia_cumplimiento": "MIGUEL HIDALGO"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1979,
+  "valor_unitario_suelo": 10043.78,
+  "alcaldia_cumplimiento": "TLALPAN"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1974,
+  "valor_unitario_suelo": 10097.46,
+  "alcaldia_cumplimiento": "MIGUEL HIDALGO"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1982,
+  "valor_unitario_suelo": 10268.92,
+  "alcaldia_cumplimiento": "TLALPAN"
+ },
+ {
+  "uso_construccion": "O",
+  "anio_construccion": 1974,
+  "valor_unitario_suelo": 10425.14,
+  "alcaldia_cumplimiento": "CUAUHTEMOC"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 2008,
+  "valor_unitario_suelo": 10541.8,
+  "alcaldia_cumplimiento": "BENITO JUAREZ"
+ },
+ {
+  "uso_construccion": "O",
+  "anio_construccion": 1994,
+  "valor_unitario_suelo": 10581.32,
+  "alcaldia_cumplimiento": "CUAUHTEMOC"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1964,
+  "valor_unitario_suelo": 10626.6,
+  "alcaldia_cumplimiento": "MIGUEL HIDALGO"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 2011,
+  "valor_unitario_suelo": 10645.67,
+  "alcaldia_cumplimiento": "BENITO JUAREZ"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 2004,
+  "valor_unitario_suelo": 11009.45,
+  "alcaldia_cumplimiento": "BENITO JUAREZ"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 2010,
+  "valor_unitario_suelo": 11072.85,
+  "alcaldia_cumplimiento": "MIGUEL HIDALGO"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 2005,
+  "valor_unitario_suelo": 11084.77,
+  "alcaldia_cumplimiento": "CUAJIMALPA DE MORELOS"
+ },
+ {
+  "uso_construccion": "O",
+  "anio_construccion": 1980,
+  "valor_unitario_suelo": 11176.36,
+  "alcaldia_cumplimiento": "ALVARO OBREGON"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 2004,
+  "valor_unitario_suelo": 11690.65,
+  "alcaldia_cumplimiento": "MIGUEL HIDALGO"
+ },
+ {
+  "uso_construccion": "O",
+  "anio_construccion": 2006,
+  "valor_unitario_suelo": 11711.82,
+  "alcaldia_cumplimiento": "MIGUEL HIDALGO"
+ },
+ {
+  "uso_construccion": "O",
+  "anio_construccion": 1962,
+  "valor_unitario_suelo": 11805.03,
+  "alcaldia_cumplimiento": "BENITO JUAREZ"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1979,
+  "valor_unitario_suelo": 11823.01,
+  "alcaldia_cumplimiento": "TLALPAN"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1966,
+  "valor_unitario_suelo": 11867.71,
+  "alcaldia_cumplimiento": "CUAUHTEMOC"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 2004,
+  "valor_unitario_suelo": 12160.6,
+  "alcaldia_cumplimiento": "ALVARO OBREGON"
+ },
+ {
+  "uso_construccion": "C",
+  "anio_construccion": 1960,
+  "valor_unitario_suelo": 12184.87,
+  "alcaldia_cumplimiento": "BENITO JUAREZ"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1966,
+  "valor_unitario_suelo": 12249.17,
+  "alcaldia_cumplimiento": "MIGUEL HIDALGO"
+ },
+ {
+  "uso_construccion": "K",
+  "anio_construccion": 1996,
+  "valor_unitario_suelo": 12398.58,
+  "alcaldia_cumplimiento": "MIGUEL HIDALGO"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 2007,
+  "valor_unitario_suelo": 12719.62,
+  "alcaldia_cumplimiento": "MIGUEL HIDALGO"
+ },
+ {
+  "uso_construccion": "O",
+  "anio_construccion": 1984,
+  "valor_unitario_suelo": 13211.36,
+  "alcaldia_cumplimiento": "BENITO JUAREZ"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1966,
+  "valor_unitario_suelo": 13329.16,
+  "alcaldia_cumplimiento": "CUAUHTEMOC"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 2005,
+  "valor_unitario_suelo": 13431.37,
+  "alcaldia_cumplimiento": "CUAJIMALPA DE MORELOS"
+ },
+ {
+  "uso_construccion": "PE",
+  "anio_construccion": 1982,
+  "valor_unitario_suelo": 14165.65,
+  "alcaldia_cumplimiento": "MIGUEL HIDALGO"
+ },
+ {
+  "uso_construccion": "S",
+  "anio_construccion": 1966,
+  "valor_unitario_suelo": 14213.83,
+  "alcaldia_cumplimiento": "MIGUEL HIDALGO"
+ },
+ {
+  "uso_construccion": "O",
+  "anio_construccion": 1980,
+  "valor_unitario_suelo": 14778.05,
+  "alcaldia_cumplimiento": "MIGUEL HIDALGO"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1981,
+  "valor_unitario_suelo": 14881.51,
+  "alcaldia_cumplimiento": "MIGUEL HIDALGO"
+ },
+ {
+  "uso_construccion": "O",
+  "anio_construccion": 1987,
+  "valor_unitario_suelo": 15023.34,
+  "alcaldia_cumplimiento": "MIGUEL HIDALGO"
+ },
+ {
+  "uso_construccion": "K",
+  "anio_construccion": 1998,
+  "valor_unitario_suelo": 15318.61,
+  "alcaldia_cumplimiento": "ALVARO OBREGON"
+ },
+ {
+  "uso_construccion": "O",
+  "anio_construccion": 2009,
+  "valor_unitario_suelo": 15573.84,
+  "alcaldia_cumplimiento": "CUAUHTEMOC"
+ },
+ {
+  "uso_construccion": "K",
+  "anio_construccion": 1966,
+  "valor_unitario_suelo": 16053.14,
+  "alcaldia_cumplimiento": "MIGUEL HIDALGO"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 2003,
+  "valor_unitario_suelo": 16307.31,
+  "alcaldia_cumplimiento": "MIGUEL HIDALGO"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 2018,
+  "valor_unitario_suelo": 17223.07,
+  "alcaldia_cumplimiento": "MIGUEL HIDALGO"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 2005,
+  "valor_unitario_suelo": 17906.55,
+  "alcaldia_cumplimiento": "MIGUEL HIDALGO"
+ },
+ {
+  "uso_construccion": "K",
+  "anio_construccion": 2006,
+  "valor_unitario_suelo": 18031.98,
+  "alcaldia_cumplimiento": "MIGUEL HIDALGO"
+ },
+ {
+  "uso_construccion": "I",
+  "anio_construccion": 1984,
+  "valor_unitario_suelo": 18810.52,
+  "alcaldia_cumplimiento": "MIGUEL HIDALGO"
+ },
+ {
+  "uso_construccion": "H",
+  "anio_construccion": 1972,
+  "valor_unitario_suelo": 20222.04,
+  "alcaldia_cumplimiento": "MIGUEL HIDALGO"
+ }
+]
