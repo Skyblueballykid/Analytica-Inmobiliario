@@ -131,6 +131,10 @@ class AppLayout extends React.Component {
                 Line Chart
                 </Link>
                 </Menu.Item>
+            <Menu.Item key="chart6"><Link to="/chart6">
+                Anio Construccion
+                </Link>
+                </Menu.Item>
             </SubMenu>
 
             <Menu.Item key="about">

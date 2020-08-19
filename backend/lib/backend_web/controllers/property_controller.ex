@@ -1,10 +1,27 @@
 defmodule BackendWeb.PropertyController do
   use BackendWeb, :controller
+  use Filterable.Phoenix.Controller
+
+  import Ecto.Query
 
   alias Backend.Properties
   alias Backend.Properties.Property
 
   action_fallback BackendWeb.FallbackController
+
+
+  # filterable do
+  #   @ options param: :q
+  #   filter codigo_postal(query, value, _conn) do
+  #     query |> where(codigo_postal: ^value)
+  #   end
+  # end
+
+  # def index(conn, params) do
+  #   {query, filter_values} = apply_filters!(Property, conn)
+  #   properties = Properties.list_properties()
+  #   render(conn, "index.json", properties: Repo.all(properties), meta: filter_values)
+  # end
 
   def index(conn, _params) do
     properties = Properties.list_properties()
@@ -24,6 +41,7 @@ defmodule BackendWeb.PropertyController do
     property = Properties.get_property!(id)
     render(conn, "show.json", property: property)
   end
+
 
   def update(conn, %{"id" => id, "property" => property_params}) do
     property = Properties.get_property!(id)

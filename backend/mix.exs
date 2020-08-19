@@ -47,7 +47,8 @@ defmodule Backend.MixProject do
       {:plug_cowboy, "~> 2.0"},
       {:absinthe, "~> 1.5.2"},
       {:absinthe_plug, "~> 1.5.0"},
-      {:pow, "~> 1.0.20"}
+      {:pow, "~> 1.0.20"},
+      {:filterable, "~> 0.7.3"}
     ]
   end
 
