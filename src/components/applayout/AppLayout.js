@@ -50,41 +50,8 @@ class AppLayout extends React.Component {
               Home
               </Link>
               </Menu.Item>
-          <Menu.Item key="sale">
-            <Link to="/sale">
-            <HomeOutlined />
-            For Sale
-            </Link>
-            </Menu.Item>
-          <Menu.Item key="rent">
-            <Link to="/rent">
-            <HomeFilled />
-            For Rent
-            </Link>
-            </Menu.Item>
-          <Menu.Item key="service">
-            <Link to="/service">
-            <SolutionOutlined />
-            Services
-            </Link>
-            </Menu.Item>
-          <Menu.Item key="contact">
-            <Link to="/contact">
-            <PhoneOutlined />
-            Contact
-            </Link>
-            </Menu.Item>
-        </Menu>
-      </Header>
-      <Layout>
-      <Sider trigger={null} collapsible collapsed={collapsed}>
-          <Menu
-            mode="inline"
-            defaultSelectedKeys={['1']}
-            style={{ height: '100%', borderRight: 0 }}
-          >
-
-            <Menu.Item key="analysis">
+        
+              <Menu.Item key="analysis">
               <Link to="/analysis">
                 <DotChartOutlined/>
                 <span>Analysis</span>
@@ -135,8 +102,45 @@ class AppLayout extends React.Component {
                 Anio Construccion
                 </Link>
                 </Menu.Item>
+            <Menu.Item key="chart7"><Link to="/chart7">
+                Anio Construccion Pie
+                </Link>
+                </Menu.Item>
             </SubMenu>
 
+        </Menu>
+      </Header>
+      <Layout>
+      <Sider trigger={null} collapsible collapsed={collapsed}>
+          <Menu
+            mode="inline"
+            defaultSelectedKeys={['1']}
+            style={{ height: '100%', borderRight: 10 }}
+          >
+            <Menu.Item key="sale">
+            <Link to="/sale">
+            <HomeOutlined />
+            <span>For Sale</span>
+            </Link>
+            </Menu.Item>
+          <Menu.Item key="rent">
+            <Link to="/rent">
+            <HomeFilled />
+            <span>For Rent</span>
+            </Link>
+            </Menu.Item>
+          <Menu.Item key="service">
+            <Link to="/service">
+            <SolutionOutlined />
+            <span>Services</span>
+            </Link>
+            </Menu.Item>
+          <Menu.Item key="contact">
+            <Link to="/contact">
+            <PhoneOutlined />
+            <span>Contact</span>
+            </Link>
+            </Menu.Item>
             <Menu.Item key="about">
               <Link to="/about">
                 <AppstoreOutlined />

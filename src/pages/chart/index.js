@@ -4,6 +4,7 @@ import { Chart3 } from './Chart3';
 import { Chart4 } from './Chart4';
 import { Chart5 } from './Chart5';
 import { Chart6 } from './Chart6';
+import { Chart7 } from './Chart7';
 
 export {
     Chart1,
@@ -11,5 +12,6 @@ export {
     Chart3,
     Chart4,
     Chart5,
-    Chart6
+    Chart6,
+    Chart7
 }
