@@ -5,7 +5,7 @@ import { BrowserRouter, Route, Switch, Redirect } from 'react-router-dom';
 import AppLayout from './components/applayout';
 import Home from './pages/home';
 import Analysis from './pages/analysis'
-import { Chart1, Chart2, Chart3, Chart4, Chart5, Chart6 } from './pages/chart';
+import { Chart1, Chart2, Chart3, Chart4, Chart5, Chart6, Chart7 } from './pages/chart';
 import { Map1, Map2, Map3 } from './pages/map';
 import About from './pages/about';
 import Contact from './pages/contact';
@@ -34,6 +34,7 @@ function App() {
         <Route path="/chart4" component={Chart4} />
         <Route path="/chart5" component={Chart5} />
         <Route path="/chart6" component={Chart6} />
+        <Route path="/chart7" component={Chart7} />
         <Route path="/about" component={About} />
 
         <Redirect from="/" to="/home" />
