@@ -101,4 +101,5 @@ defmodule Backend.Properties do
   def change_property(%Property{} = property, attrs \\ %{}) do
     Property.changeset(property, attrs)
   end
+
 end
