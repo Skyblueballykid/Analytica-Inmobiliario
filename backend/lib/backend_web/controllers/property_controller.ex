@@ -6,6 +6,7 @@ defmodule BackendWeb.PropertyController do
 
   alias Backend.Properties
   alias Backend.Properties.Property
+  alias Backend.Repo
 
   action_fallback BackendWeb.FallbackController
 
@@ -22,6 +23,20 @@ defmodule BackendWeb.PropertyController do
   #   properties = Properties.list_properties()
   #   render(conn, "index.json", properties: Repo.all(properties), meta: filter_values)
   # end
+
+    def filter_by_codigo(query) do
+      from p in Property,
+          group_by: p.alcaldia_cumplimiento,
+          select: %{:alcaldia_cumplimiento=>p.alcaldia_cumplimiento,:count=> count(p.alcaldia_cumplimiento)}
+    end
+
+
+    def filter_codigo(conn, _params) do
+    properties = Properties
+                  |> filter_by_codigo()
+                  |> Repo.all()
+    render(conn, "codigo.json", properties: properties)
+  end
 
   def index(conn, _params) do
     properties = Properties.list_properties()

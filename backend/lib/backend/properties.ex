@@ -21,6 +21,7 @@ defmodule Backend.Properties do
     Repo.all(Property)
   end
 
+
   @doc """
   Gets a single property.
 

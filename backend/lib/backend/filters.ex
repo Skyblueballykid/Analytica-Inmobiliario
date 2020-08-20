@@ -43,11 +43,11 @@ alias Backend.Properties.Property
 
 
 ##########ALCALDIA CUMPLIMIENTO############
-# query = from(p in Property,
-#     group_by: p.alcaldia_cumplimiento,
-#     select: {p.alcaldia_cumplimiento, count(p.id)}
-# )
-# Repo.all(query)
+query = from(p in Property,
+    group_by: p.alcaldia_cumplimiento,
+    select: {p.alcaldia_cumplimiento, count(p.id)}
+)
+Repo.all(query)
 """
 
 '''
