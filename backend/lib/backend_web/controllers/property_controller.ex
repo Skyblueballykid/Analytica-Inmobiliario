@@ -6,6 +6,7 @@ defmodule BackendWeb.PropertyController do
 
   alias Backend.Properties
   alias Backend.Properties.Property
+  alias Backend.Repo
 
   action_fallback BackendWeb.FallbackController
 
@@ -22,6 +23,77 @@ defmodule BackendWeb.PropertyController do
   #   properties = Properties.list_properties()
   #   render(conn, "index.json", properties: Repo.all(properties), meta: filter_values)
   # end
+
+    def filter_by_alcaldia(query) do
+        from p in Property,
+          group_by: p.alcaldia_cumplimiento,
+          select: %{:alcaldia_cumplimiento=>p.alcaldia_cumplimiento,:count=> count(p.alcaldia_cumplimiento)}
+    end
+
+    def filter_alcaldia(conn, _params) do
+    properties = Properties
+                  |> filter_by_alcaldia()
+                  |> Repo.all()
+    render(conn, "alcaldia.json", properties: properties)
+    end
+
+
+    def filter_by_codigo(query) do
+        from p in Property,
+          group_by: p.codigo_postal,
+          select: %{:codigo_postal=> p.codigo_postal, :count=> count(p.codigo_postal)}
+    end
+
+    def filter_codigo(conn, _params) do
+    properties = Properties
+                  |> filter_by_codigo()
+                  |> Repo.all()
+                  |> Enum.sort()
+    render(conn, "codigo.json", properties: properties)
+    end
+
+
+    def filter_by_colonia(query) do
+        from p in Property,
+            group_by: p.colonia_predio,
+            select: %{:colonia_predio=> p.colonia_predio, :count=> count(p.id)}
+    end
+
+    def filter_colonia(conn, _params) do
+    properties = Properties
+                  |> filter_by_colonia()
+                  |> Repo.all()
+    render(conn, "colonia.json", properties: properties)
+    end
+
+
+    def filter_by_colonia_cumpliemiento(query) do
+        from p in Property,
+            group_by: p.colonia_cumpliemiento,
+            select: %{:colonia_cumpliemiento=> p.colonia_cumpliemiento, :count=> count(p.id)}
+    end
+
+    def filter_colonia_cumpliemiento(conn, _params) do
+    properties = Properties
+                  |> filter_by_colonia_cumpliemiento()
+                  |> Repo.all()
+    render(conn, "colonia_cumpliemiento.json", properties: properties)
+    end
+
+    def filter_by_anio(query) do
+        from p in Property,
+            group_by: p.anio_construccion,
+            select: %{:anio_construccion=> p.anio_construccion, :count=> count(p.id)}
+    end
+
+    def filter_anio(conn, _params) do
+    properties = Properties
+                  |> filter_by_anio()
+                  |> Repo.all()
+    render(conn, "anio.json", properties: properties)
+    end
+
+
 
   def index(conn, _params) do
     properties = Properties.list_properties()

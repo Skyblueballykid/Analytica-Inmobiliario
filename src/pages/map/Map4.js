@@ -1,3 +1,6 @@
+// https://vis.academy/#/kepler.gl/setup
+
+
 // import {createStore, combineReducers, applyMiddleware, compose} from 'redux';
 // import keplerGlReducer from 'kepler.gl/reducers';
 // import {enhanceReduxMiddleware} from 'kepler.gl/middleware';
