@@ -30,13 +30,27 @@ defmodule BackendWeb.PropertyController do
           select: %{:alcaldia_cumplimiento=>p.alcaldia_cumplimiento,:count=> count(p.alcaldia_cumplimiento)}
     end
 
-
     def filter_alcaldia(conn, _params) do
     properties = Properties
                   |> filter_by_alcaldia()
                   |> Repo.all()
     render(conn, "alcaldia.json", properties: properties)
-  end
+    end
+
+    def filter_by_codigo(query) do
+        from p in Property,
+        group_by: p.codigo_postal,
+        select: %{:codigo_postal=> p.codigo_postal, :count=> count(p.codigo_postal)}
+    end
+
+    def filter_codigo(conn, _params) do
+    properties = Properties
+                  |> filter_by_codigo()
+                  |> Repo.all()
+                  |> Enum.sort()
+    render(conn, "codigo.json", properties: properties)
+    end
+
 
   def index(conn, _params) do
     properties = Properties.list_properties()

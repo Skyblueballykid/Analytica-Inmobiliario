@@ -36,6 +36,7 @@ defmodule BackendWeb.Router do
     pipe_through :api
 
     get "/properties/filter_alcaldia", BackendWeb.PropertyController, :filter_alcaldia
+    get "/properties/filter_codigo", BackendWeb.PropertyController, :filter_codigo
 
     resources "/properties", BackendWeb.PropertyController, except: [:new, :edit]
   end

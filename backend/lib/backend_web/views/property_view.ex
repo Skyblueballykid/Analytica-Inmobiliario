@@ -6,10 +6,6 @@ defmodule BackendWeb.PropertyView do
     %{data: render_many(properties, PropertyView, "property.json")}
   end
 
-  def render("alcaldia.json", %{properties: properties}) do
-    %{data: render_many(properties, PropertyView, "alcaldia.json")}
-  end
-
   def render("show.json", %{property: property}) do
     %{data: render_one(property, PropertyView, "property.json")}
   end
@@ -34,8 +30,21 @@ defmodule BackendWeb.PropertyView do
       subsidio: property.subsidio}
   end
 
+  def render("alcaldia.json", %{properties: properties}) do
+    %{data: render_many(properties, PropertyView, "alcaldia.json")}
+  end
+
+  def render("codigo.json", %{properties: properties}) do
+    %{data: render_many(properties, PropertyView, "codigo.json")}
+  end
+
     def render("alcaldia.json", %{property: property}) do
     %{alcaldia_cumplimiento: property.alcaldia_cumplimiento,
+    count: property.count}
+  end
+
+  def render("codigo.json", %{property: property}) do
+    %{codigo_postal: property.codigo_postal,
     count: property.count}
   end
 end
