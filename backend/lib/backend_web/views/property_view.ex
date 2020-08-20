@@ -34,17 +34,44 @@ defmodule BackendWeb.PropertyView do
     %{data: render_many(properties, PropertyView, "alcaldia.json")}
   end
 
-  def render("codigo.json", %{properties: properties}) do
-    %{data: render_many(properties, PropertyView, "codigo.json")}
-  end
-
-    def render("alcaldia.json", %{property: property}) do
+  def render("alcaldia.json", %{property: property}) do
     %{alcaldia_cumplimiento: property.alcaldia_cumplimiento,
     count: property.count}
   end
 
+  def render("codigo.json", %{properties: properties}) do
+    %{data: render_many(properties, PropertyView, "codigo.json")}
+  end
+
   def render("codigo.json", %{property: property}) do
     %{codigo_postal: property.codigo_postal,
+    count: property.count}
+  end
+
+  def render("colonia.json", %{properties: properties}) do
+    %{data: render_many(properties, PropertyView, "colonia.json")}
+  end
+
+  def render("colonia.json", %{property: property}) do
+    %{colonia_predio: property.colonia_predio,
+    count: property.count}
+  end
+
+  def render("colonia_cumpliemiento.json", %{properties: properties}) do
+    %{data: render_many(properties, PropertyView, "colonia_cumpliemiento.json")}
+  end
+
+  def render("colonia_cumpliemiento.json", %{property: property}) do
+    %{colonia_cumpliemiento: property.colonia_cumpliemiento,
+    count: property.count}
+  end
+
+  def render("anio.json", %{properties: properties}) do
+    %{data: render_many(properties, PropertyView, "anio.json")}
+  end
+
+  def render("anio.json", %{property: property}) do
+    %{anio: property.anio_construccion,
     count: property.count}
   end
 end
