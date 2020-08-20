@@ -24,18 +24,18 @@ defmodule BackendWeb.PropertyController do
   #   render(conn, "index.json", properties: Repo.all(properties), meta: filter_values)
   # end
 
-    def filter_by_codigo(query) do
+    def filter_by_alcaldia(query) do
       from p in Property,
           group_by: p.alcaldia_cumplimiento,
           select: %{:alcaldia_cumplimiento=>p.alcaldia_cumplimiento,:count=> count(p.alcaldia_cumplimiento)}
     end
 
 
-    def filter_codigo(conn, _params) do
+    def filter_alcaldia(conn, _params) do
     properties = Properties
-                  |> filter_by_codigo()
+                  |> filter_by_alcaldia()
                   |> Repo.all()
-    render(conn, "codigo.json", properties: properties)
+    render(conn, "alcaldia.json", properties: properties)
   end
 
   def index(conn, _params) do
