@@ -43,6 +43,9 @@ defmodule BackendWeb.Router do
     get "/properties/filter_colonia_cumpliemiento", BackendWeb.PropertyController, :filter_colonia_cumpliemiento
     
     resources "/properties", BackendWeb.PropertyController, except: [:new, :edit]
+
+    get "/", Absinthe.Plug.GraphiQL, schema: BackendWeb.Api.Schema, interface: :playground
+    post "/", Absinthe.Plug, schema: BackendWeb.Api.Schema
   end
 
   # Enables LiveDashboard only for development
