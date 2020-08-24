@@ -1,8 +1,5 @@
-import React, { Component, createRef, useEffect, useState } from "react";
-import axios from 'axios';
+import React, { Component, createRef } from "react";
 import { Chart, Interval,useTheme,registerTheme,getTheme } from 'bizcharts';
-import { Column } from "@ant-design/charts";
-
 registerTheme('my-theme',{
   defaultColor:'#6DC8EC',
   geometries: {
@@ -16,33 +13,30 @@ registerTheme('my-theme',{
 })
 
 
-export function Chart1() {
-  const [data, setData] = useState([]);
+const data = [
+  { label: "MIGUEL HIDALGO", value: 8119.95 },
+  { label: "CUAUHTEMOC", value: 5856.01 },
+  { label: "BENITO JUAREZ", value: 5778.17 },
+  { label: "CUAJIMALPA DE MORELOS", value: 5296.99 },
+  { label: "COYOACAN", value: 3698.84 },
+  { label: "ALVARO OBREGON", value: 3625.2 },
+  { label: "TLALPAN", value: 3286.9 },
+  { label: "VENUSTIANO CARRANZA", value: 3045.59 },
+  { label: "IZTACALCO", value: 2571.29 },
+  { label: "MAGDALENA CONTRERAS", value: 2516.15 },
+  { label: "AZCAPOTZALCO", value: 2493.28 },
+  { label: "GUSTAVO A. MADERO", value: 2277.05 },
+  { label: "IZTAPALAPA", value: 1695.9 },
+  { label: "XOCHIMILCO", value: 1658.76 },
+  { label: "TLAHUAC", value: 1163.6 },
+  { label: "MILPA ALTA", value: 545.91 },
 
+];
 
+export function Chart1()  {
 
-  useEffect(() => {
-    const fetchData = async () => {
-      const res = await axios.get(`http://localhost:4000/api/properties/filter_alcaldia`);
-      console.log(res.data);
-      setData(res.data);
-    };
-    fetchData();
-  }, []);
-
-  const config = {
-    data,
-    title: {
-      visible: true,
-      text: "Valor Unitario Suelo Promedio",
-    },
-    xField: "alcaldia_cumplimiento",
-    yField: "count",
+    const [theme, setTheme] = useTheme('my-theme');
+    return <Chart height={500} autoFit data={data}theme={theme} interactions={['element-active']} padding={[100, 100, 100, 100]} >
+    <Interval position="label*value" />
+    </Chart>
   };
-
-  return <Column {...config} />;
-  }
-;
-
-
-
