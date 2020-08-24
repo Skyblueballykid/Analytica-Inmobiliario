@@ -82,10 +82,10 @@ class AppLayout extends React.Component {
                 <span>Valor Unitario</span>
                 </Link>
                 </Menu.Item>
-              <Menu.Item key="chart2"><Link to="/chart2">
+              {/* <Menu.Item key="chart2"><Link to="/chart2">
                 Treemap
                 </Link>
-                </Menu.Item>
+                </Menu.Item> */}
               <Menu.Item key="chart3"><Link to="/chart3">
                 Uso Construccion
                 </Link>
@@ -104,6 +104,10 @@ class AppLayout extends React.Component {
                 </Menu.Item>
             <Menu.Item key="chart7"><Link to="/chart7">
                 Anio Construccion Pie
+                </Link>
+                </Menu.Item>
+            <Menu.Item key="chart8"><Link to="/chart8">
+                AM Charts
                 </Link>
                 </Menu.Item>
             </SubMenu>
