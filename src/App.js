@@ -8,7 +8,7 @@ import Analysis from './pages/analysis'
 import { Chart1, Chart3, Chart4, Chart5, Chart6, Chart7, Chart8 } from './pages/chart';
 import { Map1, Map2, Map3 } from './pages/map';
 import About from './pages/about';
-import Table from './pages/table';
+import SearchTable from './pages/table';
 import Contact from './pages/contact';
 import Service from './pages/service';
 
@@ -20,7 +20,7 @@ function App() {
         <Route path="/home" component={Home} />
         <Route path="/service" component={Service} />
         <Route path="/contact" component={Contact} />
-        <Route path="/table" component={Table} />
+        <Route path="/table" component={SearchTable} />
         <Route path="/analysis" component={Analysis}/>
         <Route path="/map1" component={Map1} />
         <Route path="/map2" component={Map2} />

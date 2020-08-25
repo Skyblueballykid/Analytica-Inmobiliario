@@ -1,3 +1,3 @@
-import Table from './Table';
+import SearchTable from './SearchTable';
 
-export default Table;
+export default SearchTable;

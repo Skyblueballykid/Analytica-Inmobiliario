@@ -29,6 +29,7 @@
     "react-chartist": "^0.14.3",
     "react-d3-library": "^1.1.8",
     "react-dom": "^16.13.1",
+    "react-highlight-words": "^0.16.0",
     "react-map-gl": "^5.2.7",
     "react-palm": "^3.2.2",
     "react-pivottable": "^0.10.0",
