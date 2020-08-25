@@ -8,9 +8,7 @@ import { Table, Input, Button, Space } from 'antd';
 import Highlighter from 'react-highlight-words';
 import { SearchOutlined } from '@ant-design/icons';
 import PropTypes from 'prop-types';
-
 import { StyledDiv } from './styles';
-import COLUMNS from './columns';
 
 // const { REACT_APP_API } = process.env;
 
@@ -111,13 +109,61 @@ class SearchTable extends React.Component {
   };
 
   render() {
+  const columns = [
+    {
+      title: "Alcaldia",
+      dataIndex: "alcaldia_cumplimiento",
+      key: "alcaldia_cumplimiento",
+      ...this.getColumnSearchProps('alcaldia_cumplimiento'),
+    },
+    {
+      title: "Colonia",
+      dataIndex: "colonia_cumpliemiento",
+      key: "colonia_cumpliemiento",
+      ...this.getColumnSearchProps('colonia_cumpliemiento'),
+    },
+    {
+      title: "Calle",
+      dataIndex: "call_numero",
+      key: "call_numero",
+      ...this.getColumnSearchProps('call_numero'),
+    },
+    {
+      title: "Codigo Postal",
+      dataIndex: "codigo_postal",
+      key: "codigo_postal",
+      ...this.getColumnSearchProps('codigo_postal'),
+    },
+    {
+      title: "Superficie Construccion",
+      dataIndex: "superficie_construccion",
+      key: "superficie_construccion"
+    },
+    {
+      title: "Superficie Terreno",
+      dataIndex: "superficie_terreno",
+      key: "superficie_terreno"
+    },
+    {
+      title: "Valor Suelo (MXN)",
+      dataIndex: "valor_suelo",
+      key: "valor_suelo"
+    },
+    {
+      title: "Valor Unitario Suelo (MXN)",
+      dataIndex: "valor_unitario_suelo",
+      key: "valor_unitario_suelo"
+    }
+  ];
+  
+  
     return (
       <StyledDiv>
         {this.state.isLoading ? (
           "Loading..."
         ) : (
           <Table
-            columns={COLUMNS}
+            columns={columns}
             dataSource={this.state.data}
             pagination={{ pageSize: 20 }}
             scroll={{ y: '100vh' }}
@@ -126,7 +172,7 @@ class SearchTable extends React.Component {
       </StyledDiv>
     );
   }
-  }
+}
 
 export default SearchTable;
 
