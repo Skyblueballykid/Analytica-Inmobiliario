@@ -49,7 +49,8 @@ defmodule Backend.MixProject do
       {:absinthe_plug, "~> 1.5.0"},
       {:pow, "~> 1.0.20"},
       {:filterable, "~> 0.7.3"},
-      {:cors_plug, "~> 2.0"}
+      {:cors_plug, "~> 2.0"},
+      {:scrivener_ecto, "~> 2.0"}
     ]
   end
 

@@ -3,7 +3,7 @@ import React from 'react';
 import PropTypes from 'prop-types';
 import './AppLayout.css';
 import { Link, withRouter } from 'react-router-dom';
-import { BarChartOutlined, HomeFilled, HomeOutlined, HomeTwoTone, SolutionOutlined, PhoneOutlined, GlobalOutlined, AppstoreOutlined, MenuUnfoldOutlined,
+import { BarChartOutlined, TableOutlined, HomeFilled, HomeOutlined, HomeTwoTone, SolutionOutlined, PhoneOutlined, GlobalOutlined, AppstoreOutlined, MenuUnfoldOutlined,
   MenuFoldOutlined, DotChartOutlined } from '@ant-design/icons';
 
 
@@ -50,6 +50,13 @@ class AppLayout extends React.Component {
               Home
               </Link>
               </Menu.Item>
+
+              <Menu.Item key="table">
+              <Link to="/table">
+                <TableOutlined />
+                <span>Table</span>
+              </Link>
+            </Menu.Item>
         
               <Menu.Item key="analysis">
               <Link to="/analysis">
@@ -79,35 +86,31 @@ class AppLayout extends React.Component {
 
             <SubMenu key="sub2" icon={<BarChartOutlined />} title="Charts">
               <Menu.Item key="chart1"><Link to="/chart1">
-                <span>Valor Unitario</span>
+                <span>Valor Unitario Promedio por m2</span>
                 </Link>
                 </Menu.Item>
-              {/* <Menu.Item key="chart2"><Link to="/chart2">
-                Treemap
-                </Link>
-                </Menu.Item> */}
               <Menu.Item key="chart3"><Link to="/chart3">
-                Uso Construccion
+                <span>Valor Unitario Suelo Promedio</span>
                 </Link>
                 </Menu.Item>
               <Menu.Item key="chart4"><Link to="/chart4">
-                Valor Suelo
+                <span>Valor Suelo</span>
                 </Link>
                 </Menu.Item>
             <Menu.Item key="chart5"><Link to="/chart5">
-                Line Chart
+                <span>Valor por Colonia Cumplimiento</span>
                 </Link>
                 </Menu.Item>
             <Menu.Item key="chart6"><Link to="/chart6">
-                Anio Construccion
+                <span>Anio Construccion</span>
                 </Link>
                 </Menu.Item>
             <Menu.Item key="chart7"><Link to="/chart7">
-                Anio Construccion Pie
+                <span>Anio Construccion Pie</span>
                 </Link>
                 </Menu.Item>
             <Menu.Item key="chart8"><Link to="/chart8">
-                AM Charts
+                <span>AM Charts</span>
                 </Link>
                 </Menu.Item>
             </SubMenu>
@@ -121,18 +124,6 @@ class AppLayout extends React.Component {
             defaultSelectedKeys={['1']}
             style={{ height: '100%', borderRight: 10 }}
           >
-            <Menu.Item key="sale">
-            <Link to="/sale">
-            <HomeOutlined />
-            <span>For Sale</span>
-            </Link>
-            </Menu.Item>
-          <Menu.Item key="rent">
-            <Link to="/rent">
-            <HomeFilled />
-            <span>For Rent</span>
-            </Link>
-            </Menu.Item>
           <Menu.Item key="service">
             <Link to="/service">
             <SolutionOutlined />

@@ -94,9 +94,8 @@ defmodule BackendWeb.PropertyController do
     end
 
 
-
-  def index(conn, _params) do
-    properties = Properties.list_properties()
+  def index(conn, params) do
+    properties = Properties.list_properties(params)
     render(conn, "index.json", properties: properties)
   end
 

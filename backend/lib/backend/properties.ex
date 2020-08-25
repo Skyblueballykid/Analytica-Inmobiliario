@@ -9,7 +9,7 @@ defmodule Backend.Properties do
   alias Backend.Properties.Property
 
   @doc """
-  Returns the list of properties.
+  Returns the list of properties. Paginate using Scrivener.Ecto. 
 
   ## Examples
 
@@ -17,8 +17,10 @@ defmodule Backend.Properties do
       [%Property{}, ...]
 
   """
-  def list_properties do
-    Repo.all(Property)
+  def list_properties(params) do
+    Property
+    |> order_by(asc: :id)
+    |> Repo.paginate(params)
   end
 
 
