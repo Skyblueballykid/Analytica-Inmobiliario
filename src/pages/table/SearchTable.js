@@ -126,12 +126,12 @@ class SearchTable extends React.Component {
      this.setState({ isLoading: true});
      try {
      const result = await axios.get(`http://localhost:4000/api/properties?page=1`)
-     
+     console.log(result.data)
      this.setState({
        data: result.data,
        isLoading: false
      });
-     console.log(this.state.data);
+     
     } catch(error) {
       this.setState({
       error,
