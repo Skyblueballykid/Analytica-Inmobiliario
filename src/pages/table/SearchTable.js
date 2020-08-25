@@ -4,7 +4,7 @@
 /* eslint jsx-a11y/no-static-element-interactions: 0 */
 import React, { useState, useEffect } from 'react';
 import axios from 'axios';
-import { Table, Input, Button, Space } from 'antd';
+import { Table, Input, Button, Space, Pagination } from 'antd';
 import Highlighter from 'react-highlight-words';
 import { SearchOutlined } from '@ant-design/icons';
 import PropTypes from 'prop-types';
@@ -21,14 +21,31 @@ class SearchTable extends React.Component {
       isLoading: false,
       error: null,
       searchText: '',
-      searchedColumn: ''
+      searchedColumn: '',
+      minValue: 1,
+      maxValue: 9
     };
   }
+
+  // PAGINATION
+  handleChange = value => {
+    if (value <= 1) {
+      this.setState({
+        minValue: 0,
+        maxValue: 9
+      });
+    } else {
+      this.setState({
+        minValue: this.state.maxValue,
+        maxValue: value * 9
+      });
+    }
+  };
 
   async componentDidMount() {
     this.setState({ isLoading: true});
     try {
-    const result = await axios.get(`http://localhost:4000/api/properties?page=1000`)
+    const result = await axios.get(`http://localhost:4000/api/properties?page=1`)
     console.log(result.data)
     this.setState({
       data: result.data.data,
@@ -43,6 +60,10 @@ class SearchTable extends React.Component {
  }
 }
 
+
+
+
+// SEARCH
   getColumnSearchProps = dataIndex => ({
     filterDropdown: ({ setSelectedKeys, selectedKeys, confirm, clearFilters }) => (
       <div style={{ padding: 8 }}>
@@ -162,12 +183,20 @@ class SearchTable extends React.Component {
         {this.state.isLoading ? (
           "Loading..."
         ) : (
+          <React.Fragment>
           <Table
             columns={columns}
             dataSource={this.state.data}
-            pagination={{ pageSize: 20 }}
+            pagination={ false }
             scroll={{ y: '100vh' }}
           />
+          <Pagination
+          showQuickJumper
+          defaultCurrent={1}
+          total={5000}
+          showSizeChanger={false}
+        />
+        </React.Fragment>
         )}
       </StyledDiv>
     );
