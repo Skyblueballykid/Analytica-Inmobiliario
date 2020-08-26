@@ -9,50 +9,58 @@ import Highlighter from 'react-highlight-words';
 import { SearchOutlined } from '@ant-design/icons';
 import PropTypes from 'prop-types';
 import { StyledDiv } from './styles';
+import { Spin } from 'antd';
+import { API } from './api';
 
 // const { REACT_APP_API } = process.env;
+
 
 class SearchTable extends React.Component {
   constructor(props) {
     super(props);
- 
+    this.handleChange = this.handlePageChange.bind(this);
     this.state = {
       data: [],
       isLoading: false,
       error: null,
       searchText: '',
       searchedColumn: '',
-      minValue: 1,
-      maxValue: 9
+      page: 1,
     };
   }
 
-  // PAGINATION
-  handleChange = value => {
-    if (value <= 1) {
-      this.setState({
-        minValue: 0,
-        maxValue: 9
-      });
-    } else {
-      this.setState({
-        minValue: this.state.maxValue,
-        maxValue: value * 9
-      });
-    }
-  };
+  handlePageChange(event, value) {
+    this.setState({page: value});
+  }
 
-  async componentDidMount() {
+  getRequestParams(page) {
+    let params = {}
+
+    if(page) {
+      params["page"] = page - 1;
+    }
+
+    return params;
+  }
+
+
+  componentDidMount() {
+    this.retrieveProperties();
+  }
+
+    async retrieveProperties() {
+    const { page } = this.state;
+    const params = this.getRequestParams(page);
     this.setState({ isLoading: true});
-    try {
-    const result = await axios.get(`http://localhost:4000/api/properties?page=1`)
+
+    API.getAll(params)
+    .then((result) => {
     console.log(result.data)
     this.setState({
       data: result.data.data,
       isLoading: false
     });
-    
-   } catch(error) {
+   }).catch(error) {
      this.setState({
      error,
      isLoading: false
@@ -60,6 +68,20 @@ class SearchTable extends React.Component {
  }
 }
 
+// try {
+//   const result = await axios.get(`http://localhost:4000/api/properties?page=${page}`)
+//   console.log(result.data)
+//   this.setState({
+//     data: result.data.data,
+//     isLoading: false
+//   });
+  
+//  } catch(error) {
+//    this.setState({
+//    error,
+//    isLoading: false
+//  });
+// }
 
 
 
@@ -181,19 +203,22 @@ class SearchTable extends React.Component {
     return (
       <StyledDiv>
         {this.state.isLoading ? (
-          "Loading..."
+          <Spin size="large" tip="Loading..."/>
         ) : (
           <React.Fragment>
           <Table
             columns={columns}
+            size={'small'}
             dataSource={this.state.data}
             pagination={ false }
             scroll={{ y: '100vh' }}
+            onChange={this.handlePageChange}
           />
           <Pagination
           showQuickJumper
           defaultCurrent={1}
-          total={5000}
+          total={123919}
+          showTotal={total => `${total} Pages Total`}
           showSizeChanger={false}
         />
         </React.Fragment>
