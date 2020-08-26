@@ -19,7 +19,7 @@ defmodule Backend.Properties do
   """
   def list_properties(params) do
     Property
-    |> order_by(asc: :id)
+    |> order_by(desc: :id)
     |> Repo.paginate(params)
   end
 
