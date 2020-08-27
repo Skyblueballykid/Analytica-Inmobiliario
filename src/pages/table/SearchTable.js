@@ -10,7 +10,7 @@ import { SearchOutlined } from '@ant-design/icons';
 import PropTypes from 'prop-types';
 import { StyledDiv } from './styles';
 import { Spin } from 'antd';
-import { API } from './api';
+import API from './api';
 
 // const { REACT_APP_API } = process.env;
 
@@ -18,35 +18,42 @@ import { API } from './api';
 class SearchTable extends React.Component {
   constructor(props) {
     super(props);
-    this.handleChange = this.handlePageChange.bind(this);
+    this.handlePageChange = this.handlePageChange.bind(this);
     this.state = {
       data: [],
       isLoading: false,
       error: null,
       searchText: '',
       searchedColumn: '',
-      page: 1,
+      page: '1',
     };
   }
 
-  handlePageChange(event, value) {
-    this.setState({page: value});
+  componentDidMount() {
+    this.retrieveProperties();
+  }
+
+  handlePageChange = (value) => {
+    this.setState(
+      {
+        page: value,
+      },
+      () => {
+        this.retrieveProperties();
+      }
+    );
   }
 
   getRequestParams(page) {
-    let params = {}
+    let params = {};
 
     if(page) {
-      params["page"] = page - 1;
+      params["page"] = page;
     }
 
     return params;
   }
 
-
-  componentDidMount() {
-    this.retrieveProperties();
-  }
 
     async retrieveProperties() {
     const { page } = this.state;
@@ -56,32 +63,14 @@ class SearchTable extends React.Component {
     API.getAll(params)
     .then((result) => {
     console.log(result.data)
+
     this.setState({
       data: result.data.data,
       isLoading: false
     });
-   }).catch(error) {
-     this.setState({
-     error,
-     isLoading: false
-   });
- }
-}
 
-// try {
-//   const result = await axios.get(`http://localhost:4000/api/properties?page=${page}`)
-//   console.log(result.data)
-//   this.setState({
-//     data: result.data.data,
-//     isLoading: false
-//   });
-  
-//  } catch(error) {
-//    this.setState({
-//    error,
-//    isLoading: false
-//  });
-// }
+   })
+}
 
 
 
@@ -199,6 +188,7 @@ class SearchTable extends React.Component {
     }
   ];
   
+  const { page } = this.state;
   
     return (
       <StyledDiv>
@@ -212,11 +202,11 @@ class SearchTable extends React.Component {
             dataSource={this.state.data}
             pagination={ false }
             scroll={{ y: '100vh' }}
-            onChange={this.handlePageChange}
           />
           <Pagination
+          onChange={this.handlePageChange}
           showQuickJumper
-          defaultCurrent={1}
+          defaultCurrent={this.state.page}
           total={123919}
           showTotal={total => `${total} Pages Total`}
           showSizeChanger={false}
