@@ -18,9 +18,12 @@ const StyledDiv = styled.div`
 
 const About = () => {
   return (
+    <StyledDiv>
         <h1>
         About Analitica Inmobiliario
         </h1>
+        <Text>Welcome to Analitica Inmobiliario, the premier source for housing price data, analysis and real estate listings in Mexico City.</Text>
+    </StyledDiv>
   );
 };
 
