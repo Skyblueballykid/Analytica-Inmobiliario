@@ -1,4 +1,5 @@
-import http from "../http-common";
+import React, { Component } from "react";
+import http from "./http-common";
 
 class API {
   getAll(params) {
@@ -9,4 +10,3 @@ class API {
 }
 
 export default new API();
-
