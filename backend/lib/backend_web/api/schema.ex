@@ -30,6 +30,11 @@ defmodule BackendWeb.Api.Schema do
         resolve(&PropertyResolver.all_properties/3)
     end
 
+    @desc "Get some properties"
+    field :some_properties, non_null(list_of(:property)) do
+        resolve(&PropertyResolver.some_properties/3)
+    end
+
     @desc "Get one property"
     field :property, :property do
     arg :id, non_null(:id)

@@ -8,6 +8,10 @@ defmodule BackendWeb.PropertyResolver do
         {:ok, Properties.list_properties_all()}
     end
 
+    def some_properties(_root, %{params: params}, _info) do
+        {:ok, Properties.list_properties(params)}
+    end
+
     def get_properties(_root, %{id: id}, _info) do
     case Property.get_property!(id) do
     nil ->
