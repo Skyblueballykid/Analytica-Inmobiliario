@@ -43,7 +43,7 @@ defmodule Backend.Properties do
       ** (Ecto.NoResultsError)
 
   """
-  def get_property!(id), do: Repo.get!(Property, id)
+  def get_property(id), do: Repo.get(Property, id)
 
   @doc """
   Creates a property.
