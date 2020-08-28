@@ -45,6 +45,9 @@ defmodule Backend.Properties do
   """
   def get_property(id), do: Repo.get(Property, id)
 
+
+  def get_property_by_name(call_numero), do: Repo.get_by(Property, call_numero: call_numero)
+
   @doc """
   Creates a property.
 
