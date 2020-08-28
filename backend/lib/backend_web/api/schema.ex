@@ -72,5 +72,26 @@ defmodule BackendWeb.Api.Schema do
     #     callNumero
     # }
     # }
+
+    # Get property by street name
+#     query {
+#   getPropertyByName(callNumero: "Guanabana 236") {
+#     id
+#     callNumero
+#     alcaldiaCumplimiento
+#     anioConstruccion
+#     claveRangoNivel
+#     codigoPostal
+#     coloniaPredio
+#     coloniaCumpliemiento
+#     claveValorUnitarioSuelo
+#     fid
+#     instalacionesEspeciales
+#     superficieTerreno
+#     superficieConstruccion
+#     valorSuelo
+#     valorUnitarioSuelo
+# 	}
+# }
     end
 end
