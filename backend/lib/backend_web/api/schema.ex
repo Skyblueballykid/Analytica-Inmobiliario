@@ -7,7 +7,7 @@ defmodule BackendWeb.Api.Schema do
     object :property do
     field :id, non_null(:id)
     field :alcaldia_cumplimiento, :string
-    field :anio_construccion, :integer
+    field :anio_construccion, :string
     field :call_numero, :string
     field :clave_rango_nivel, :string
     field :clave_valor_unitario_suelo, :string
@@ -20,9 +20,10 @@ defmodule BackendWeb.Api.Schema do
     field :superficie_construccion, :string
     field :superficie_terreno, :string
     field :uso_construccion, :string
-    field :valor_suelo, :float
-    field :valor_unitario_suelo, :float
+    field :valor_suelo, :string
+    field :valor_unitario_suelo, :string
     end
+
 
     query do
     @desc "Get all properties"
@@ -36,10 +37,11 @@ defmodule BackendWeb.Api.Schema do
     end
 
     @desc "Get one property"
-    field :property, :property do
-    arg :id, non_null(:id)
-        resolve(&PropertyResolver.get_property/3)
+    field :get_property, :property do
+        arg(:id, non_null(:id))
+        resolve(&PropertyResolver.get_property/2)
     end
+    
 
     @desc "Filter by Codigo Postal"
     field :filter_codigo, non_null(list_of(:property)) do

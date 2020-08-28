@@ -12,13 +12,8 @@ defmodule BackendWeb.PropertyResolver do
         {:ok, Properties.list_properties(params)}
     end
 
-    def get_properties(_root, %{id: id}, _info) do
-    case Property.get_property!(id) do
-    nil ->
-        {:error, "Property ID #{id} not found"}
-    property ->
-        {:ok, property}
-    end
+    def get_property(%{id: id}, _context) do
+        {:ok, Properties.get_property(id)}
     end
 
     def filter_codigo(_root, _args, _info) do
