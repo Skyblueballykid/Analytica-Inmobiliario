@@ -5,7 +5,7 @@ defmodule BackendWeb.Api.Schema do
 
     @desc "A property in CDMX"
     object :property do
-    field :id, non_null(:id)
+    field :id, :id
     field :alcaldia_cumplimiento, :string
     field :anio_construccion, :string
     field :call_numero, :string
@@ -26,23 +26,33 @@ defmodule BackendWeb.Api.Schema do
 
 
     query do
-    @desc "Get all properties"
+    # Times out
+     @desc "Get all properties"
     field :all_properties, non_null(list_of(:property)) do
         resolve(&PropertyResolver.all_properties/3)
     end
 
+    # Not working
     @desc "Get some properties"
     field :some_properties, non_null(list_of(:property)) do
         resolve(&PropertyResolver.some_properties/3)
     end
 
+    # Working
     @desc "Get one property"
-    field :get_property, :property do
+    field :get_property_by_id, :property do
         arg(:id, non_null(:id))
         resolve(&PropertyResolver.get_property/2)
     end
-    
 
+    # Not working
+    @desc "Get one property by name"
+    field :get_property_by_name, :property do
+        arg(:call_numero, non_null(:string))
+        resolve(&PropertyResolver.get_property_by_name/2)
+    end
+    
+    # Not working, need to define objects to return
     @desc "Filter by Codigo Postal"
     field :filter_codigo, non_null(list_of(:property)) do
         resolve(&PropertyResolver.filter_codigo/3)
@@ -57,7 +67,7 @@ defmodule BackendWeb.Api.Schema do
 
     # Get property by ID
     # {
-    # property(id: "1") {
+    # property(id: 1) {
     #     id
     #     callNumero
     # }

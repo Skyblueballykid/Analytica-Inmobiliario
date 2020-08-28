@@ -16,6 +16,10 @@ defmodule BackendWeb.PropertyResolver do
         {:ok, Properties.get_property(id)}
     end
 
+    def get_property_by_name(%{call_numero: call_numero}, _context) do
+        {:ok, Properties.get_property_by_name(call_numero)}
+    end
+
     def filter_codigo(_root, _args, _info) do
      {:ok, PropertyController.filter_codigo()}
      end
