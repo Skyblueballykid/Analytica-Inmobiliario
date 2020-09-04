@@ -37,7 +37,7 @@ export function Chart1()  {
 
     const [theme, setTheme] = useTheme('my-theme');
     return <Chart height={500} autoFit data={data}theme={theme} interactions={['element-active']} padding={[10, 10, 150, 100]} >
-    <Interval position="label*value" />
+    <Interval position="label*value"/>
     <Tooltip showCrosshairs />
     <Slider/>
     </Chart>
