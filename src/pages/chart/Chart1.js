@@ -1,5 +1,5 @@
 import React, { Component, createRef } from "react";
-import { Chart, Interval,useTheme,registerTheme,getTheme } from 'bizcharts';
+import { Chart, Interval, useTheme, registerTheme, getTheme, Slider, Tooltip } from 'bizcharts';
 registerTheme('my-theme',{
   defaultColor:'#6DC8EC',
   geometries: {
@@ -36,7 +36,9 @@ const data = [
 export function Chart1()  {
 
     const [theme, setTheme] = useTheme('my-theme');
-    return <Chart height={500} autoFit data={data}theme={theme} interactions={['element-active']} padding={[100, 100, 100, 100]} >
+    return <Chart height={500} autoFit data={data}theme={theme} interactions={['element-active']} padding={[10, 10, 150, 100]} >
     <Interval position="label*value" />
+    <Tooltip showCrosshairs />
+    <Slider/>
     </Chart>
   };
