@@ -101,16 +101,8 @@ class AppLayout extends React.Component {
                 <span>Valor por Colonia Cumplimiento</span>
                 </Link>
                 </Menu.Item>
-            <Menu.Item key="chart6"><Link to="/chart6">
-                <span>Anio Construccion</span>
-                </Link>
-                </Menu.Item>
-            <Menu.Item key="chart7"><Link to="/chart7">
-                <span>Anio Construccion Pie</span>
-                </Link>
-                </Menu.Item>
             <Menu.Item key="chart8"><Link to="/chart8">
-                <span>AM Charts</span>
+                <span>Año Construccion</span>
                 </Link>
                 </Menu.Item>
             </SubMenu>
