@@ -98,19 +98,11 @@ class AppLayout extends React.Component {
                 </Link>
                 </Menu.Item>
             <Menu.Item key="chart5"><Link to="/chart5">
-                <span>Valor por Colonia Cumplimiento</span>
-                </Link>
-                </Menu.Item>
-            <Menu.Item key="chart6"><Link to="/chart6">
-                <span>Anio Construccion</span>
-                </Link>
-                </Menu.Item>
-            <Menu.Item key="chart7"><Link to="/chart7">
-                <span>Anio Construccion Pie</span>
+                <span>Valor por Alcaldia</span>
                 </Link>
                 </Menu.Item>
             <Menu.Item key="chart8"><Link to="/chart8">
-                <span>AM Charts</span>
+                <span>Año Construccion</span>
                 </Link>
                 </Menu.Item>
             </SubMenu>
