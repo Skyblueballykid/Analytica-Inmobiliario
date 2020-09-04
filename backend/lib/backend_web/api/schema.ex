@@ -45,11 +45,17 @@ defmodule BackendWeb.Api.Schema do
         resolve(&PropertyResolver.get_property/2)
     end
 
-    # Not working
+    # Working
     @desc "Get one property by name"
     field :get_property_by_name, :property do
         arg(:call_numero, non_null(:string))
         resolve(&PropertyResolver.get_property_by_name/2)
+    end
+
+    # Working
+    @desc "Get one property by name where clause"
+    field :get_property_by_name_where, :property do
+        resolve(&PropertyResolver.get_property_by_name_where/2)
     end
     
     # Not working, need to define objects to return

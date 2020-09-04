@@ -11,18 +11,6 @@ defmodule BackendWeb.PropertyController do
   action_fallback BackendWeb.FallbackController
 
 
-  # filterable do
-  #   @ options param: :q
-  #   filter codigo_postal(query, value, _conn) do
-  #     query |> where(codigo_postal: ^value)
-  #   end
-  # end
-
-  # def index(conn, params) do
-  #   {query, filter_values} = apply_filters!(Property, conn)
-  #   properties = Properties.list_properties()
-  #   render(conn, "index.json", properties: Repo.all(properties), meta: filter_values)
-  # end
 
     def filter_by_alcaldia(query) do
         from p in Property,

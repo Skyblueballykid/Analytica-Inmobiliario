@@ -48,6 +48,13 @@ defmodule Backend.Properties do
 
   def get_property_by_name(call_numero), do: Repo.get_by(Property, call_numero: call_numero)
 
+  def get_property_by_name_where(call_numero) do
+    query = from p in "properties",
+    where: p.call_numero == ^call_numero,
+    select: {p.call_numero, p.id, p.alcaldia_cumplimiento, p.valor_unitario_suelo, p.valor_suelo}
+    Repo.all(query)
+  end
+
   @doc """
   Creates a property.
 
