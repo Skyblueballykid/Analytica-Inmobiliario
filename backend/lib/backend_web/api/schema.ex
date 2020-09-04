@@ -53,8 +53,9 @@ defmodule BackendWeb.Api.Schema do
     end
 
     # Working
-    @desc "Get one property by name where clause"
-    field :get_property_by_name_where, :property do
+    @desc "Get property by name where clause"
+    field :get_property_by_name_where, list_of(:property) do
+        arg(:call_numero, non_null(:string))
         resolve(&PropertyResolver.get_property_by_name_where/2)
     end
     
@@ -101,3 +102,4 @@ defmodule BackendWeb.Api.Schema do
 # }
     end
 end
+
