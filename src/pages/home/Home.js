@@ -141,7 +141,7 @@ const Home = () => {
         <Col span={6}>
         <Card 
         hoverable
-        style={{width:400}}
+        style={{width:380}}
         cover={<img alt="Alcaldia1" src={ Alcaldia1 } />}
         >
         <Popover content={content1} title="ALVARO OBREGON">
@@ -152,7 +152,7 @@ const Home = () => {
         <Col span={6}>
         <Card 
         hoverable
-        style={{width:400}}
+        style={{width:380}}
         cover={<img alt="Alcaldia2" src={ Alcaldia2 } />}
         >
         <Popover content={content2} title="AZCAPOTZALCO">
@@ -163,7 +163,7 @@ const Home = () => {
         <Col span={6}>
         <Card 
         hoverable
-        style={{width:400}}
+        style={{width:380}}
         cover={<img alt="Alcaldia3" src={ Alcaldia3 } />}
         >
         <Popover content={content3} title="BENITO JUAREZ">
@@ -174,7 +174,7 @@ const Home = () => {
         <Col span={6}>
         <Card 
         hoverable
-        style={{width:400}}
+        style={{width:380}}
         cover={<img alt="Alcaldia4" src={ Alcaldia4 } />}
         >
         <Popover content={content4} title="COYOACAN">
@@ -188,7 +188,7 @@ const Home = () => {
         <Col span={6}>
         <Card 
         hoverable
-        style={{width:400}}
+        style={{width:380}}
         cover={<img alt="Alcaldia5" src={ Alcaldia5 } />}
         >
         <Popover content={content5} title="CUAJIMALPA DE MORELOS">
@@ -199,7 +199,7 @@ const Home = () => {
         <Col span={6}>
         <Card 
         hoverable
-        style={{width:400}}
+        style={{width:380}}
         cover={<img alt="Alcaldia6" src={ Alcaldia6 } />}
         >
         <Popover content={content6} title="CUAUHTEMOC">
@@ -210,7 +210,7 @@ const Home = () => {
         <Col span={6}>
         <Card 
         hoverable
-        style={{width:400}}
+        style={{width:380}}
         cover={<img alt="Alcaldia7" src={ Alcaldia7 } />}
         >
         <Popover content={content7} title="GUSTAVO A. MADERO">
@@ -221,7 +221,7 @@ const Home = () => {
         <Col span={6}>
         <Card 
         hoverable
-        style={{width:400}}
+        style={{width:380}}
         cover={<img alt="Alcaldia8" src={ Alcaldia8 } />}
         >
         <Popover content={content8} title="IZTACALCO">
@@ -235,7 +235,7 @@ const Home = () => {
         <Col span={6}>
         <Card 
         hoverable
-        style={{width:400}}
+        style={{width:380}}
         cover={<img alt="Alcaldia9" src={ Alcaldia9 } />}
         >
         <Popover content={content9} title="IZTAPALAPA">
@@ -246,7 +246,7 @@ const Home = () => {
         <Col span={6}>
         <Card 
         hoverable
-        style={{width:400}}
+        style={{width:380}}
         cover={<img alt="Alcaldia10" src={ Alcaldia10 } />}
         >
         <Popover content={content10} title="MAGDALENA CONTRERAS">
@@ -257,7 +257,7 @@ const Home = () => {
         <Col span={6}>
         <Card 
         hoverable
-        style={{width:400}}
+        style={{width:380}}
         cover={<img alt="Alcaldia11" src={ Alcaldia11 } />}
         >
         <Popover content={content11} title="MIGUEL HIDALGO">
@@ -268,7 +268,7 @@ const Home = () => {
         <Col span={6}>
         <Card 
         hoverable
-        style={{width:400}}
+        style={{width:380}}
         cover={<img alt="Alcaldia12" src={ Alcaldia12 } />}
         >
         <Popover content={content12} title="MILPA ALTA">
@@ -282,7 +282,7 @@ const Home = () => {
         <Col span={6}>
         <Card 
         hoverable
-        style={{width:400}}
+        style={{width:380}}
         cover={<img alt="Alcaldia13" src={ Alcaldia13 } />}
         >
         <Popover content={content13} title="TLAHUAC">
@@ -293,7 +293,7 @@ const Home = () => {
         <Col span={6}>
         <Card 
         hoverable
-        style={{width:400}}
+        style={{width:380}}
         cover={<img alt="Alcaldia14" src={ Alcaldia14 } />}
         >
         <Popover content={content14} title="TLALPAN">
@@ -304,7 +304,7 @@ const Home = () => {
         <Col span={6}>
         <Card 
         hoverable
-        style={{width:400}}
+        style={{width:380}}
         cover={<img alt="Alcaldia15" src={ Alcaldia15 } />}
         >
         <Popover content={content15} title="VENUSTIANO CARRANZA">
@@ -315,7 +315,7 @@ const Home = () => {
         <Col span={6}>
         <Card 
         hoverable
-        style={{width:400}}
+        style={{width:380}}
         cover={<img alt="Alcaldia16" src={ Alcaldia16 } />}
         >
         <Popover content={content16} title="XOCHIMILCO">
