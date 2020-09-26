@@ -21,6 +21,10 @@ import Alcaldia14 from './CDMX-photos/pexels-rafael-guajardo-604661.jpg';
 import Alcaldia15 from './CDMX-photos/pexels-ricardo-esquivel-1573471.jpg';
 import Alcaldia16 from './CDMX-photos/volcano-mexica.jpg';
 
+
+
+
+
 const Title = styled(Typography.Title)`
   font-size: 16px;
 `;
