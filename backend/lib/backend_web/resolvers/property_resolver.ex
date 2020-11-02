@@ -16,6 +16,11 @@ defmodule BackendWeb.PropertyResolver do
         {:ok, Properties.get_property(id)}
     end
 
+    def get_property_by_fid(%{fid: fid}, _context) do
+        {:ok, Properties.get_property_by_fid(fid)}
+    end
+
+
     def get_property_by_name(%{call_numero: call_numero}, _context) do
         {:ok, Properties.get_property_by_name(call_numero)}
     end

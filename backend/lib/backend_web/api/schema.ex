@@ -45,6 +45,13 @@ defmodule BackendWeb.Api.Schema do
         resolve(&PropertyResolver.get_property/2)
     end
 
+    @desc "Get one property by fid"
+    field :get_property_by_fid, :property do
+        arg(:fid, non_null(:string))
+        resolve(&PropertyResolver.get_property_by_fid/2)
+    end
+
+
     # Working
     @desc "Get one property by name"
     field :get_property_by_name, :property do

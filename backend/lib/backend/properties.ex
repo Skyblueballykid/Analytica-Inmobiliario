@@ -45,8 +45,11 @@ defmodule Backend.Properties do
   """
   def get_property(id), do: Repo.get(Property, id)
 
+  def get_property_by_fid(fid), do: Repo.get_by(Property, fid: fid)
+
 
   def get_property_by_name(call_numero), do: Repo.get_by(Property, call_numero: call_numero)
+
 
   def get_property_by_name_where(call_numero) do
     query = from p in "properties",
